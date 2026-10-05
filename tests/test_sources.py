@@ -159,3 +159,12 @@ def test_disabled_sources_report_reason() -> None:
     for type_ in ("jmesse", "venue_pacifico"):
         result = create_parser({"id": type_, "type": type_}, FakeFetcher(), {}).collect(PERIOD)
         assert result.errors and "未対応" in result.errors[0]
+
+
+def test_bigsight_stops_when_page_param_ignored() -> None:
+    list_url = "https://www.bigsight.jp/organizer/buildings/gym-ex/event/"
+    src = {**BIGSIGHT, "id": "gymex", "list_url": list_url, "venue": "有明GYM-EX"}
+    fetcher = FakeFetcher({list_url: fixture_text("bigsight_list.html")})  # どのページ番号でも同じ内容
+    result = create_parser(src, fetcher, {"max_pages_per_source": 50}).collect(PERIOD)
+    assert len(result.events) == 2 and len(fetcher.calls) == 2
+    assert result.events[0].venue == "有明GYM-EX"

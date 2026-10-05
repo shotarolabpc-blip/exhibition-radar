@@ -170,12 +170,16 @@ $env:PYTHONUTF8=1
 | 東京ビッグサイト | 専用パーサー（HTML） | ✅ 有効 | `/visitor/event/search.php?page=N`。名称・会期・公式URL・説明を直接抽出 |
 | 幕張メッセ | 専用パーサー（HTML） | ✅ 有効 | `/event/?month=YYYYMM&page=N`。「展示会・見本市」のみ。公式URLは詳細ページから取得 |
 | ポートメッセなごや | 汎用（本文→Gemini） | ✅ 有効 | `https://portmesse.com/events` |
+| 有明GYM-EX | 専用パーサー（ビッグサイトと同じ構造） | ✅ 有効 | `/organizer/buildings/gym-ex/event/` |
+| 東京国際フォーラム／産業貿易センター浜松町館／Aichi Sky Expo／京都パルスプラザ／神戸国際展示場／ATCホール／札幌コンベンションセンター／夢メッセみやぎ／仙台国際センター／朱鷺メッセ／石川県産業展示館／広島県立広島産業会館／沖縄コンベンションセンター／ツインメッセ静岡 | 汎用（本文→Gemini） | ✅ 有効 | URLは `config/sources.yaml` |
 | Interop Tokyo | 汎用主催者（本文→Gemini） | ✅ 有効 | |
 | 既知イベントURL | 巡回（本文→Gemini） | ✅ 有効 | `config/known_urls.yaml`。1回200件まで、本文が変化したページだけGeminiへ |
 | J-messe | — | ⛔ 無効 | 検索フォームの送信先 `/j-messe/tradefair/search.html` が404。検索結果を取得できない |
 | パシフィコ横浜 | — | ⛔ 無効 | 設計書のURL `/visitor/calendar` は404。サイトがSTUDIO製になり、イベント一覧はJavaScriptで描画される |
 | インテックス大阪 | — | ⛔ 無効 | `/jp/event/` はカレンダーの枠だけで、イベント部分がJavaScript描画 |
 | マリンメッセ福岡 | — | ⛔ 無効 | `/messe/event/` のイベント部分がJavaScript描画 |
+| みやこめっせ／福岡国際センター／アクセスサッポロ／グランメッセ熊本 | — | 見送り | イベント部分がJavaScript描画 |
+| マイドームおおさか／吹上ホール／西日本総合展示場 | — | 見送り | 一覧の掲載が1件程度で、網羅性が低い |
 
 無効の収集元の開催分は、既知URL巡回（既存リストの公式URL）と、主催者HPで補います。
 JavaScript描画のサイトは Playwright で対応できますが、Actionsの実行時間とインストール負荷が増えるため、導入するかは別途判断してください（設計書2.2）。

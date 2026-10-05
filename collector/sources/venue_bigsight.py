@@ -74,14 +74,17 @@ class Parser:
     def collect(self, period: DateRange) -> SourceResult:
         result = SourceResult()
         list_url = self.source.get("list_url") or urljoin(self.source["url"], "search.php")
+        previous: list[tuple[str, str]] = []
         for page in range(1, self.max_pages + 1):
             res = self.fetcher.get(list_url, params={"page": page})
             if not res.ok:
                 result.errors.append(f"{self.source['id']}: {res.error} ({list_url}?page={page})")
                 break
             events = parse_list(res.text, self.source, res.final_url or list_url)
-            if not events:
+            signature = [(e.name, e.start_date) for e in events]
+            if not events or signature == previous:  # ページ指定が無視されて同じ内容が返る場合も終了
                 break
+            previous = signature
             result.events.extend(e for e in events if period.overlaps(_d(e.start_date), _d(e.end_date)))
             if all(e.start_date > period.end.isoformat() for e in events):
                 break

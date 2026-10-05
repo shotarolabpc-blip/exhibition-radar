@@ -56,6 +56,118 @@ sources:
     venue: "マリンメッセ福岡"
     enabled: false   # 2026-10-05 イベント部分がJavaScript描画で本文に出ない
 
+  - id: gymex
+    name: "有明GYM-EX"
+    type: venue_bigsight   # 東京ビッグサイトと同じページ構造
+    url: "https://www.bigsight.jp/organizer/buildings/gym-ex/event/"
+    list_url: "https://www.bigsight.jp/organizer/buildings/gym-ex/event/"
+    venue: "有明GYM-EX"
+    enabled: true
+
+  # ---- 全国の会場（venue_generic：本文をGeminiで抽出）2026-10-05 本文にイベントが載ることを確認 ----
+
+  - id: tif
+    name: "東京国際フォーラム"
+    type: venue_generic
+    url: "https://www.t-i-forum.co.jp/visitors/event/"
+    venue: "東京国際フォーラム"
+    enabled: true
+
+  - id: sanbo_hamamatsucho
+    name: "東京都立産業貿易センター浜松町館"
+    type: venue_generic
+    url: "https://www.sanbo.metro.tokyo.lg.jp/hamamatsucho/event"
+    venue: "東京都立産業貿易センター浜松町館"
+    enabled: true
+
+  - id: aichiskyexpo
+    name: "Aichi Sky Expo"
+    type: venue_generic
+    url: "https://www.aichiskyexpo.com/ase-event/"
+    venue: "Aichi Sky Expo"
+    enabled: true
+
+  - id: pulseplaza
+    name: "京都パルスプラザ"
+    type: venue_generic
+    url: "https://www.pulseplaza.jp/event/"
+    venue: "京都パルスプラザ"
+    enabled: true
+
+  - id: kobe
+    name: "神戸国際展示場"
+    type: venue_generic
+    url: "https://kobe-cc.jp/visitors/upcoming-events/"
+    venue: "神戸国際展示場"
+    enabled: true
+
+  - id: atc
+    name: "ATCホール"
+    type: venue_generic
+    url: "https://atchall.com/users/event/"
+    venue: "ATCホール"
+    enabled: true
+
+  - id: sapporo_cc
+    name: "札幌コンベンションセンター"
+    type: venue_generic
+    url: "https://www.sora-scc.jp/event/"
+    venue: "札幌コンベンションセンター"
+    enabled: true
+
+  - id: yumemesse
+    name: "夢メッセみやぎ"
+    type: venue_generic
+    url: "https://www.yumemesse.or.jp/event/"
+    venue: "夢メッセみやぎ"
+    enabled: true
+
+  - id: sendai_ic
+    name: "仙台国際センター"
+    type: venue_generic
+    url: "https://www.aobayama.jp/event/schedule/"
+    venue: "仙台国際センター"
+    enabled: true
+
+  - id: tokimesse
+    name: "朱鷺メッセ"
+    type: venue_generic
+    url: "https://www.tokimesse.com/visitor/event/index"
+    venue: "朱鷺メッセ"
+    enabled: true
+
+  - id: ishikawa
+    name: "石川県産業展示館"
+    type: venue_generic
+    url: "https://ishikawa-odekake.jp/westpark/events/?f=11"
+    venue: "石川県産業展示館"
+    enabled: true
+
+  - id: hiroshima
+    name: "広島県立広島産業会館"
+    type: venue_generic
+    url: "https://sangyoukaikan.jp/event/"
+    venue: "広島県立広島産業会館"
+    enabled: true
+
+  - id: okinawa_cc
+    name: "沖縄コンベンションセンター"
+    type: venue_generic
+    url: "https://www.oki-conven.jp/allevent/"
+    venue: "沖縄コンベンションセンター"
+    enabled: true
+
+  - id: twinmesse
+    name: "ツインメッセ静岡"
+    type: venue_generic
+    url: "https://www.t-messe.or.jp/news_topics/?part=3&max_col=0"
+    venue: "ツインメッセ静岡"
+    enabled: true
+
+  # 2026-10-05 本文にイベントが載らない（JavaScript描画）・掲載が少ないため見送り：
+  #   京都市勧業館みやこめっせ、福岡国際センター、アクセスサッポロ、グランメッセ熊本（JS描画）
+  #   マイドームおおさか、吹上ホール、西日本総合展示場（掲載が1件程度）
+
   - id: interop
     name: "Interop Tokyo"
     type: organizer_generic
