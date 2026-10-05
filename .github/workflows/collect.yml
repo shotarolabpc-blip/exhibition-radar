@@ -1,0 +1,47 @@
+name: collect
+on:
+  schedule:
+    - cron: "0 20 * * 0"     # 毎週月曜 05:00 JST
+    - cron: "0 20 24 * *"    # 毎月25日 05:00 JST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: fetch-cache-${{ github.run_id }}
+          restore-keys: fetch-cache-
+      # 致命的エラー（全収集元失敗・件数急減）では非0終了 → 以降のコミットは行われず、GitHubから失敗通知メールが届く
+      - run: python -m collector.main
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data data/page_state.json data/archive
+          if git diff --cached --quiet; then
+            echo "変更なし"
+            exit 0
+          fi
+          git commit -m "data: update $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push

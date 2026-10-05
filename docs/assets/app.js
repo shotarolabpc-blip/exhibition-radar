@@ -199,6 +199,11 @@
       ["要確認", count("needs_review")], ["収集エラー", errors],
     ].map(([k, v]) => `<li><span class="k">${k}</span> <span class="v">${v}</span>件</li>`).join("")
       .replace(/(収集エラー<\/span> <span class="v">\d+<\/span>)件/, "$1");
+    if (errors) {
+      const li = $("stats").lastElementChild;
+      li.title = run.errors.join("\n");
+      li.classList.add("has-errors");
+    }
   }
 
   function fillMulti(id, options, selected, onChange) {
