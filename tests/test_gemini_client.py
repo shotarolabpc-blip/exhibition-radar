@@ -160,7 +160,7 @@ def test_fallback_when_request_cap_reached() -> None:
 
 
 def test_fallback_on_repeated_errors_and_all_exhausted() -> None:
-    a, b = Script(ConnectionError(), ConnectionError()), Script(*[RateLimitError()] * 4)
+    a, b = Script(ConnectionError(), ConnectionError(), ConnectionError()), Script(*[RateLimitError()] * 4)
     c = GeminiClient({}, providers=_providers(a, b), sleep=lambda s: None)
     with pytest.raises(GeminiUnavailable, match="枠切れ"):
         c.extract_events(PAGE, PERIOD, [])
@@ -183,3 +183,10 @@ def test_build_providers_skips_unconfigured(monkeypatch) -> None:
     providers, skipped = build_providers(cfg)
     assert [p.name for p in providers] == ["gemini:gemini-test"]
     assert "groq" in skipped[0]
+
+
+def test_transient_server_error_recovers() -> None:
+    sleeps: list[float] = []
+    c = GeminiClient(CFG, transport=Script(ConnectionError(), json.dumps([EVENT])), sleep=sleeps.append)
+    assert c.extract_events(PAGE, PERIOD, []) == [EVENT]
+    assert sleeps == [5] and not c.exhausted

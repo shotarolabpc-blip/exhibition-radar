@@ -282,7 +282,7 @@ class GeminiClient:
 
         - JSON不正：同じ呼び出し先で1回だけ再試行し、それでも不正ならこのページは諦める
         - 429：指数バックオフ（3回）後、その呼び出し先を枠切れにして次へ
-        - 通信・サーバエラー：その呼び出し先で2回続いたら枠切れ扱いにして次へ
+        - 通信・サーバエラー：5秒・10秒待って再試行し、3回続いたらその呼び出し先を止めて次へ
         """
         if not self.available:
             raise GeminiUnavailable(self.disabled_reason or self.unavailable_reason)
@@ -309,13 +309,14 @@ class GeminiClient:
                     self._sleep(10 * 2**backoff)
                     backoff += 1
                     continue
-                except Exception as exc:  # 通信・サーバエラー
+                except Exception as exc:  # 通信・サーバエラー（混雑による一時的なものが多いので少し待って再試行）
                     errors += 1
                     log.warning("%s 呼び出し失敗: %s", provider.name, type(exc).__name__)
-                    if errors >= 2:
+                    if errors >= 3:
                         provider.exhausted = True
                         provider.note = f"エラーが続いたため停止（{type(exc).__name__}）"
                         break
+                    self._sleep(5 * 2 ** (errors - 1))
                     continue
                 try:
                     return _unwrap(json.loads(raw))
