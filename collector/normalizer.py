@@ -193,6 +193,29 @@ def url_key(url: str) -> str:
     return f"{host}{path}" + (f"?{parts.query}" if parts.query else "")
 
 
+_GENERIC_PAGE_NAMES = {"", "index", "top", "home", "ja", "jp", "ja-jp", "default"}
+
+
+def url_family(url: str) -> str:
+    """「同じページ」とみなすためのゆるいキー（ホスト＋ファイル名）。
+
+    主催者サイトは同じページを複数のパス（/dx/ja-jp/exhibit/data.html と /hub/ja-jp/visit/data.html 等）で
+    公開することがあるため、ファイル名が固有ならホスト＋ファイル名で比べる。
+    ja-jp.html / index.html のような汎用名はホスト＋直前のディレクトリ＋ファイル名で比べる。
+    """
+    if not url:
+        return ""
+    parts = urlsplit(url.lower())
+    host = parts.netloc.removeprefix("www.")
+    segments = [seg for seg in parts.path.split("/") if seg]
+    stems = [re.sub(r"\.(html?|php|aspx?)$", "", seg) for seg in segments]
+    if not stems:
+        return host
+    if stems[-1] in _GENERIC_PAGE_NAMES:
+        return f"{host}/" + "/".join(stems[-2:])
+    return f"{host}/{stems[-1]}"
+
+
 # ---------------------------------------------------------------- 会場
 
 

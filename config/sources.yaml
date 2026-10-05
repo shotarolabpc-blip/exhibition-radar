@@ -1,0 +1,69 @@
+# 収集元一覧。type はパーサー（collector/sources/）に対応する。
+# 到達できない・構造が想定と違うものは enabled: false にし、README「収集元の状況」に記録する。
+#
+# 共通項目：id, name, type, url, enabled
+# venue：会場名（会場HPの既定値・Geminiへのヒント）
+
+sources:
+  - id: jmesse
+    name: "J-messe"
+    type: jmesse
+    url: "https://www.jetro.go.jp/j-messe/"
+    enabled: false   # 2026-10-05 検索ページ（/j-messe/tradefair/search.html）が404
+
+  - id: bigsight
+    name: "東京ビッグサイト"
+    type: venue_bigsight
+    url: "https://www.bigsight.jp/visitor/event/"
+    list_url: "https://www.bigsight.jp/visitor/event/search.php"
+    venue: "東京ビッグサイト"
+    enabled: true
+
+  - id: makuhari
+    name: "幕張メッセ"
+    type: venue_makuhari
+    url: "https://www.m-messe.co.jp/event/"
+    venue: "幕張メッセ"
+    categories: ["展示会・見本市"]   # 一覧のカテゴリで絞り込む（学会・コンサート等を除く）
+    enabled: true
+
+  - id: pacifico
+    name: "パシフィコ横浜"
+    type: venue_pacifico
+    url: "https://www.pacifico.co.jp/"
+    venue: "パシフィコ横浜"
+    enabled: false   # 2026-10-05 /visitor/calendar は404。一覧はJavaScript描画（STUDIO製）
+
+  # 地方会場は venue_generic で開始し、精度が出ない会場のみ専用パーサーを作る
+  - id: portmesse
+    name: "ポートメッセなごや"
+    type: venue_generic
+    url: "https://portmesse.com/events"
+    venue: "ポートメッセなごや"
+    enabled: true
+
+  - id: intex_osaka
+    name: "インテックス大阪"
+    type: venue_generic
+    url: "https://www.intex-osaka.com/jp/event/"
+    venue: "インテックス大阪"
+    enabled: false   # 2026-10-05 イベント部分がJavaScript描画で本文に出ない
+
+  - id: marinemesse
+    name: "マリンメッセ福岡"
+    type: venue_generic
+    url: "https://www.marinemesse.or.jp/messe/event/"
+    venue: "マリンメッセ福岡"
+    enabled: false   # 2026-10-05 イベント部分がJavaScript描画で本文に出ない
+
+  - id: interop
+    name: "Interop Tokyo"
+    type: organizer_generic
+    url: "https://www.interop.jp/"
+    enabled: true
+
+  - id: known_urls
+    name: "既知イベントURL"
+    type: known_urls
+    max_urls_per_run: 200   # 1回に巡回するURL数（前回確認が古い順）
+    enabled: true

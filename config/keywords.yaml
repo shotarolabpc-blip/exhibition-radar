@@ -54,6 +54,17 @@ weights:
   # 映像・放送
   "放送": 15
   "映像": 10
+  # 主要なIT・通信系展示会の名称（名称だけでは分野語が出ないもの）
+  "CEATEC": 50
+  "Interop": 50
+  "Japan IT Week": 50
+  "ワイヤレスジャパン": 50
+  "Wireless Japan": 50
+  "Inter BEE": 40
+  "NexTech Week": 40
+  "DXPO": 30
+  "JANOG": 50
+  "情報通信": 25
   # 汎用IT
   "IT": 10
   "ICT": 15
