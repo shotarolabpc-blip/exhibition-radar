@@ -22,6 +22,30 @@
 #   - id: "evt_cccc3333"
 
 exclude: []
-fix: []
+fix:
+  - id: "evt_87921b49"
+    url: "https://www.logis-tech-tokyo.gr.jp/ltt/"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_9a0fb5d4"
+    url: "https://www.interphex.jp/osaka/ja-jp.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_0b3a1f32"
+    url: "https://www.material-expo.jp/hub/ja-jp/exhibit/dx.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_0361397d"
+    url: "https://www.japan-it.jp/dx/ja-jp/visit/ai.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_917fae9a"
+    url: "https://www.japan-it.jp/dx/ja-jp/exhibit/data.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_f93a53e3"
+    url: "https://www.japan-it.jp/ec-store/ja-jp/visit/ec.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_74173f89"
+    url: "https://dxpo.jp/real/fox/fukuoka/sales/"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
+  - id: "evt_63af2be2"
+    url: "https://www.nextech-week.jp/hub/ja-jp/about/xr.html"   # 既存リストのURL欠落を公式サイトで補完（2026-10-05）
 merge: []
-confirm: []
+confirm:
+  - id: "evt_87921b49"
+  - id: "evt_9a0fb5d4"
+  - id: "evt_0b3a1f32"
+  - id: "evt_0361397d"
+  - id: "evt_917fae9a"
+  - id: "evt_f93a53e3"
+  - id: "evt_74173f89"
+  - id: "evt_63af2be2"

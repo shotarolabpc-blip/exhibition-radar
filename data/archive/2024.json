@@ -2187,12 +2187,12 @@
    "AI・DX"
   ],
   "summary": "日本最大級のDX総合展",
-  "url": "",
+  "url": "https://www.japan-it.jp/dx/ja-jp/about.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -2202,6 +2202,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -2319,12 +2323,12 @@
    "その他IT"
   ],
   "summary": "",
-  "url": "",
+  "url": "https://www.rd.ntt/forum/2024/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -2334,6 +2338,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },

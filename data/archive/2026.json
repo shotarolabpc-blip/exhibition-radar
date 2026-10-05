@@ -14,13 +14,13 @@
    "ドローン・ロボット"
   ],
   "summary": "工場や物流現場で活躍するロボット・AGVや、ロボット向けの部品・材料などが出展するロボット総合展",
-  "url": "",
+  "url": "https://www.fiweek.jp/tokyo/ja-jp/about/robo.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【2026年1月東京】ロボデックス | ロボット [開発]・[活用] 展」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -29,6 +29,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -47,13 +51,13 @@
    "AI・DX"
   ],
   "summary": "本展は、製造の「DX化」を実現する スマート工場 EXPO、「自動化」を実現する ロボデックス、「脱炭素」を実現する 製造業カーボンニュートラル展、製造業の「人材不足対策」に焦点を当てた 製造業 人手不足対策 EXPOの4展により構成。",
-  "url": "",
+  "url": "https://www.fiweek.jp/tokyo/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【2026年1月東京】Factory Innovation Week｜製造業を革」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -62,6 +66,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -80,13 +88,13 @@
    "ドローン・ロボット"
   ],
   "summary": "カーボンニュートラル、電子化・電動化、自動運転、コネクティッド・カー、軽量化など、クルマの先端テーマの最新技術が一堂に出展",
-  "url": "",
+  "url": "https://www.automotiveworld.jp/tokyo/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【2026年1月東京】 オートモーティブ ワールド -クルマの先端技術展」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -95,6 +103,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -147,13 +159,13 @@
    "その他IT"
   ],
   "summary": "IoT/AI/FAによる製造革新展 スマート工場・スマート物流を実現するためのIoTソリューション、AI、FA／ロボットなどの最新技術・ソリューションが一堂に出展する専門展。",
-  "url": "",
+  "url": "https://www.fiweek.jp/tokyo/ja-jp/about/sfe.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【2026年1月東京】スマート工場 EXPO | IoT/AI/FAによる製造革」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -162,6 +174,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -217,13 +233,13 @@
    "スマートシティ・自治体DX"
   ],
   "summary": "『持続可能で魅力ある国土・都市・地域づくりに向けて』をテーマにグリーンインフラに関する技術、製品、サービスを一堂に紹介する展示会",
-  "url": "",
+  "url": "https://biz.nikkan.co.jp/eve/green-infra/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「グリーンインフラ産業展2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -232,6 +248,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -251,13 +271,13 @@
    "IoT・センサ"
   ],
   "summary": "車載・自動運転、ビッグデータ、AI、ロボット、健康・医療、環境・エネルギーの分野にわたり、次世代センサーに向けた要素技術が集結します。",
-  "url": "",
+  "url": "https://www.optojapan.jp/mems/ja/outline.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「開催概要 | MEMS センシング&ネットワークシステム展 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -266,6 +286,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -285,13 +309,13 @@
    "ドローン・ロボット"
   ],
   "summary": "海洋資源の利活用に関する海洋産業技術展として、わが国の豊かな海洋資源を利活用し、海洋・資源開発の促進、オーシャントランスフォーメーションを実現する最新技術が一堂に会す、海洋業界のプラットフォームとなる展示会",
-  "url": "",
+  "url": "https://www.low-cf.jp/east/otj/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「Offshore Tech Japan2026 海洋資源の利活用に関する海洋産業」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -300,6 +324,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -320,13 +348,13 @@
    "ドローン・ロボット"
   ],
   "summary": "首都圏最大級の工業技術・製品の総合見本市",
-  "url": "",
+  "url": "https://www.tech-yokohama.jp/2026/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「技術を創る 未来を創る|テクニカルショウヨコハマ2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -335,6 +363,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -353,13 +385,13 @@
    "AI・DX"
   ],
   "summary": "「DX」「GX」「HRM」を切り口として、ロジスティクス・物流の生産性向上に資する製品・サービスや、各所における先進的な取り組みの事例など、様々な形の「ソリューション」が一同に会す場",
-  "url": "",
+  "url": "https://jils-lsfair.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ロジスティクスソリューションフェア2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -368,6 +400,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -386,13 +422,13 @@
    "AI・DX"
   ],
   "summary": "ビジネス変革、DX、業務効率化、Web3活用のためのディープラーニング、機械学習、画像・音声認識、自然言語処理、対話AIなどAIに関するソリューション・サービスが一堂に出展。",
-  "url": "",
+  "url": "https://www.bizcrew.jp/expo/2026-ai-spr-tokyo",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI活用の展示会・EXPO｜ AI World 2026 春 東京」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -401,6 +437,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -420,13 +460,13 @@
    "映像・放送"
   ],
   "summary": "国内最大級のセキュリティ・安全管理総合展",
-  "url": "",
+  "url": "https://messe.nikkei.co.jp/ss/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「SECURITY SHOW| セキュリティ・安全管理の総合展示会」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -435,6 +475,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -453,13 +497,13 @@
    "AI・DX"
   ],
   "summary": "日本最大級の医療DXの専門展示会。人工知能（AI）診断支援、デジタルヘルス、ロボット・RPA、遠隔医療支援、電子カルテ・クラウド、地域連携システム、サイバー攻撃対策ツールなどが出展。",
-  "url": "",
+  "url": "https://www.medical-jpn.jp/osaka/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「メディカル ジャパン 大阪｜400社が出展する医療・介護・薬局展示会イベント」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -468,6 +512,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -486,13 +534,13 @@
    "AI・DX"
   ],
   "summary": "ビジネス変革、DX、業務効率化、Web3活用のためのディープラーニング、機械学習、画像・音声認識、自然言語処理、対話AIなどAIに関するソリューション・サービスが一堂に出展。",
-  "url": "",
+  "url": "https://www.bizcrew.jp/expo/ai-fukuoka",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI活用の展示会・EXPO｜ AI World 2026 春 福岡」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -501,6 +549,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -519,13 +571,13 @@
    "AI・DX"
   ],
   "summary": "最新のAI製品を扱う100社が出展し、約200以上の製品・ソリューション展示に加え、業界リーダーや専門家が登壇する40以上のカンファレンスを実施予定です。12,000名の来場を見込んでおり、AIの「社会実装」とビジネス現場での活用を強力に推進します。",
-  "url": "",
+  "url": "https://aismiley.co.jp/ai_hakurankai/spring-2026/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI博覧会 Spring 2026｜4/7-8｜東京国際フォーラムホールE」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -534,6 +586,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -552,13 +608,13 @@
    "その他IT"
   ],
   "summary": "情報システム、データセンター運用・管理、ソフトウェア開発、ハードウェア設計・開発などに関わるすべてが一堂に集まります。",
-  "url": "",
+  "url": "https://www.japan-it.jp/spring/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【4月春展】日本最大のIT・DX展示会｜Japan IT Week, Japan」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -567,6 +623,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -619,13 +679,13 @@
    "AI・DX"
   ],
   "summary": "製造現場や工場内でのDX（デジタルトランスフォーメーション）を推進するIT製品やサービスが出展する展示会です。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mdx.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「製造業DX展 | ものづくり ワールド 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -634,6 +694,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -652,13 +716,13 @@
    "AI・DX"
   ],
   "summary": "工場向けの省エネ製品、物流機器、メンテナンス製品、安全用品、防災製品などが出展し、 製造業の工場管理、製造、生産技術、保守・メンテナンス、購買、物流部門の方々と活発に商談が行われる展示会です。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/factex.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「工場設備・備品展 | ものづくり ワールド 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -667,6 +731,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -685,13 +753,13 @@
    "ドローン・ロボット"
   ],
   "summary": "従業員採用・育成・管理、無人レジ、接客ロボット・アバター接客、店舗無人化・省人化、倉庫内ロボット、業種別ソリューション（予約管理システム、オーダーシステムなど）などの製品・サービスが出展しています。",
-  "url": "",
+  "url": "https://www.japan-it.jp/ec-store/ja-jp/visit/sth.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「店舗の人手不足対策 EXPOの来場案内｜EC・店舗 Week 内」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -700,6 +768,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -718,13 +790,13 @@
    "AI・DX"
   ],
   "summary": "工場・設備の保全・メンテナンス業務に使用される製品・サービスが出展し、 製造業の工場・設備管理、保守・保全、メンテナンス、製造・生産技術、DX推進、経営部門の方々と活発に商談が行われる展示会です。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/maintenance.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「スマートメンテナンス展 | ものづくり ワールド 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -733,6 +805,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -751,13 +827,13 @@
    "AI・DX"
   ],
   "summary": "AI・業務自動化、社内業務DX、現場DX、データドリブン経営などに関わる製品やサービスが出展します。",
-  "url": "",
+  "url": "https://www.japan-it.jp/spring/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【4月春展】日本最大のIT・DX展示会｜Japan IT Week, Japan」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -766,6 +842,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -784,13 +864,13 @@
    "AI・DX"
   ],
   "summary": "IT、DX製品、部品、設備、装置、計測製品など、開発・製造期間の短縮、DX・IT化の推進、コストダウン、工場の省エネ・自動化に貢献する最新技術が約630社出展。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/nagoya/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ものづくり ワールド [名古屋] 2026｜中部最大級の製造業の展示会」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -799,6 +879,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -817,13 +901,13 @@
    "AI・DX"
   ],
   "summary": "CAD、CAE、ERP、生産管理システムなどの製造業向けITソリューションが出展し、 製造業の設計、開発、製造、生産技術、情報システム部門の方々と活発に商談が行われる展示会です。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/dms.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「設計・製造ソリューション展 | ものづくり ワールド 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -832,6 +916,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -850,13 +938,13 @@
    "その他IT"
   ],
   "summary": "商品の管理や発送、顧客データの分析・活用など、ECサイトの運営を効率化するための展示会です。在庫管理、一元管理、ECモール活用、AI・データ分析、倉庫管理、物流・包装・梱包などの製品・サービスが出展しています。",
-  "url": "",
+  "url": "https://www.japan-it.jp/ec-store/ja-jp/visit/ec.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「EC管理・物流 EXPOの来場案内｜EC・店舗 Week 内」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -865,6 +953,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -949,13 +1041,13 @@
    "ドローン・ロボット"
   ],
   "summary": "ヒューマノイドロボットの完成品や導入事例に焦点をあて、社会問題の解決に直結する\"働くロボット\"の最新動向を一堂に体験できる日本初の専門展です。",
-  "url": "",
+  "url": "https://www.nextech-week.jp/hub/ja-jp/exhibit/hr.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ヒューマノイドロボットEXPOの出展案内｜NexTech Week 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -964,6 +1056,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -982,13 +1078,13 @@
    "AI・DX"
   ],
   "summary": "ディープラーニング、機械学習、エッジAI、自然言語処理、画像・音声認識、対話AIなど AIに関するサービスが一堂に出展。",
-  "url": "",
+  "url": "https://www.nextech-week.jp/hub/ja-jp/exhibit/ai.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI・人工知能EXPOの出展案内 | NexTech Week 2026」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -997,6 +1093,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -1015,13 +1115,13 @@
    "その他IT"
   ],
   "summary": "「AI」「ブロックチェーン」「量子コンピュータ」「ヒューマノイドロボット」の最新テクノロジーに関する４つの展示会と、DXを推進するために不可欠な「デジタル人材の育成を支援」する製品・サービスが出展する展示会、合計５つの展示会で構成。",
-  "url": "",
+  "url": "https://www.nextech-week.jp/spring/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【公式】NexTech Week 2026｜人、企業、世界の「未来」を変える展示」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1030,6 +1130,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -1085,13 +1189,13 @@
    "スマートシティ・自治体DX"
   ],
   "summary": "自治体・官庁向けにDX、スマートシティ、防災ICT、観光DX、インフラ管理などの最新ソリューションを集約した専門展示会。全国の自治体職員・公共機関が来場する日本最大級の公共分野展示会。",
-  "url": "",
+  "url": "https://www.publicweek.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「公式サイト」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1100,6 +1204,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -1119,13 +1227,13 @@
    "ドローン・ロボット"
   ],
   "summary": "高機能フィルム・樹脂・金属・セラミックスなど最先端素材と、検査・測定・製造装置を網羅する世界最大級の素材展示会。製造業DX・材料評価技術に直結。",
-  "url": "",
+  "url": "https://www.material-expo.jp/osaka/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「公式サイト」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1134,6 +1242,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -1152,13 +1264,13 @@
    "AI・DX"
   ],
   "summary": "企業・自治体・団体の各部門・各プロジェクトのDX化を進めるために必要な、あらゆる製品・サービスが一堂に出展",
-  "url": "",
+  "url": "https://odex-expo.jp/tokyo/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ODEX｜デジタル化・DX推進展」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1167,6 +1279,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -1894,13 +2010,13 @@
    "IoT・センサ"
   ],
   "summary": "インテリア・デザインとライフスタイル製品の国際展示会。近年はスマートデバイスやIoT製品との融合も進み、空間DXの観点でも注目される。",
-  "url": "",
+  "url": "https://interiorlifestyle-tokyo.jp.messefrankfurt.com/tokyo/ja.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「インテリアライフスタイル｜日本最大級の国際見本市・展示会」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1909,6 +2025,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -2197,13 +2317,13 @@
    "スマートシティ・自治体DX"
   ],
   "summary": "雑貨・文具・ファッション・インバウンド向け製品など10以上の専門展で構成される大規模BtoB展示会。インバウンド需要・データ活用・商品DXなど、流通・観光・自治体関連分野での最新動向が集約される。",
-  "url": "",
+  "url": "https://www.lifestyle-expo.jp/summer/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ライフスタイル Week【夏】 | 雑貨・ファッション・インテリア・美容・食器の」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -2212,6 +2332,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -3626,13 +3750,13 @@
    "IoT・センサ"
   ],
   "summary": "モータ・電源・制御・熱設計などの要素技術とDX基盤を統合した技術展示会。工場の見える化・データ連携・AI活用など製造業DXの中核領域を扱う専門展。",
-  "url": "",
+  "url": "https://tf.jma.or.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「TECHNO-FRONTIER公式」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -3641,6 +3765,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -4560,13 +4688,13 @@
    "スマートシティ・自治体DX"
   ],
   "summary": "海洋産業・海洋技術の普及啓発を目的としたイベント。海洋分野の産学官連携や海洋都市構想に関連する展示・体験企画が実施され、港湾・海洋インフラ分野との関連性が高い。",
-  "url": "",
+  "url": "https://umihaku.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「海洋都市横浜うみ博2026 公式サイト」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4575,6 +4703,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -5089,13 +5221,13 @@
    "スマートシティ・自治体DX"
   ],
   "summary": "建築物のGX・脱炭素化をテーマとした専門展。省エネ設備、EV充電設備、太陽光・蓄電池などの導入技術を紹介する。",
-  "url": "",
+  "url": "https://www.japan-build.jp/hub/ja-jp/about/gx.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「建物の脱炭素 EXPO」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5104,6 +5236,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -5288,13 +5424,13 @@
    "ドローン・ロボット"
   ],
   "summary": "清掃ロボットや保守管理システムなど、ビルメンテナンス業界向けの自動化・効率化技術を展示する。",
-  "url": "",
+  "url": "https://www.japan-build.jp/hub/ja-jp/about/bmt.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【公式】ビルメンテナンス EXPO｜JAPAN BUILD－建築・土木・不動産の」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5303,6 +5439,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },

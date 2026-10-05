@@ -949,12 +949,12 @@
    "その他IT"
   ],
   "summary": "物流業界の”最先端“かつ”生産性向上“、”環境改善“に繋がる 製品・技術・サービスが一堂に集結する西日本最大の総合展示会",
-  "url": "",
+  "url": "https://result.kansai-logix.com/2025/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -964,6 +964,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -2981,12 +2985,12 @@
    "その他IT"
   ],
   "summary": "地震対策や水害対策をはじめとする最新の自然災害対策製品・技術の展示と関連セミナー",
-  "url": "",
+  "url": "https://shinsaiexpo.com/osaka/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -2996,6 +3000,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -4426,12 +4434,12 @@
    "IoT・センサ"
   ],
   "summary": "",
-  "url": "",
+  "url": "https://f2ff.jp/event/0802",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -4441,6 +4449,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -7032,12 +7044,12 @@
    "その他IT"
   ],
   "summary": "",
-  "url": "",
+  "url": "https://online-events.keysight.com/series/keysight-world-2025-tech-day/landing_page",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -7047,6 +7059,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -7771,12 +7787,12 @@
    "セキュリティ"
   ],
   "summary": "生成AI活用ソリューション、DX人材育成、人材不足対策などの最旬の話題や、製造業・建設業界におけるDXなどのバーティカル分野、クラウド活用、バックオフィスや営業のDX、情報セキュリティなどのビジネスDXのスタンダードなテーマまで、日経クロステックの取材力、企画力、知見をフルに生かしたコンテンツをご用意",
-  "url": "",
+  "url": "https://events.nikkeibp.co.jp/xtechnext/2025tky/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "reason": "既存の展示会イベントリストから取込",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -7786,6 +7802,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9142,13 +9162,13 @@
    "セキュリティ"
   ],
   "summary": "製造業と社会インフラを支える展示会",
-  "url": "",
+  "url": "https://iifes.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「IIFES 2025 ― オートメーションと計測の先端総合技術展」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9157,6 +9177,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9242,13 +9266,13 @@
    "ドローン・ロボット"
   ],
   "summary": "食品工場 Weekには、食品工場の自動化・DX、衛生・安全対策、食品ロス対策に関する先端技術・サービスが一堂に出展。導入検討、課題解決を目的とする食品メーカーと出展社とのビジネスの場として開催します",
-  "url": "",
+  "url": "https://www.foodtechjapan.jp/tokyo/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「食品工場Week(フードテックWeek)｜食品工場の課題を解決する展示会」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9257,6 +9281,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9379,13 +9407,13 @@
    "ドローン・ロボット"
   ],
   "summary": "ロボットおよびロボット周辺要素・関連技術の展示会 オンライン開催あり：11/19-12/19",
-  "url": "",
+  "url": "https://irex.nikkan.co.jp/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「2025国際ロボット展」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9394,6 +9422,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9481,13 +9513,13 @@
    "IoT・センサ"
   ],
   "summary": "IT、DX製品、部品、設備、装置、計測製品など、開発・製造期間の短縮、DX・IT化の推進、コストダウン、工場の省エネ・自動化に貢献する最新技術が500社出展。九州・四国・中国地方を中心とした製造業の設計、開発、製造、生産技術、購買、情報システム部門などの方が来場予定です。",
-  "url": "",
+  "url": "https://www.manufacturing-world.jp/kyushu/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「ものづくり ワールド [福岡] 2025｜九州最大級の製造業の展示会 @福岡」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9496,6 +9528,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9750,13 +9786,13 @@
    "AI・DX"
   ],
   "summary": "ビジネス変革、DX、業務効率化、Web3活用のためのディープラーニング、機械学習、画像・音声認識、自然言語処理、対話AIなどAIに関するソリューション・サービスが一堂に出展。AI導入を検討する企業と商談する絶好の展示会です。",
-  "url": "",
+  "url": "https://www.bizcrew.jp/expo/2025-ai-win-osaka",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI活用の展示会・EXPO｜ AI World 2025 冬 大阪」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9765,6 +9801,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  },
@@ -9783,13 +9823,13 @@
    "AI・DX"
   ],
   "summary": "企業・店舗のDX化を促進する人事・労務管理、経理・会計、デジタルマーケティング、店舗DXなどの最新ソリューション",
-  "url": "",
+  "url": "https://www.bizcrew.jp/expo/2025-dx-win-osaka",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「DX 総合EXPO 2025 冬 大阪」））",
-  "status": "needs_review",
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9798,6 +9838,10 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "URLを公式サイトで補完"
    }
   ]
  }

@@ -74,26 +74,61 @@ $env:PYTHONUTF8=1
 | 公開リポジトリ `exhibition-radar` | GitHubの「New repository」で作成（Public） | — |
 | Gemini APIキー | Google AI Studio の「Get API key」 | GitHub の **Secrets** → `GEMINI_API_KEY` |
 | Geminiのモデル名 | Google AI Studio で、無料枠で使えるモデル名を確認 | GitHub の **Variables** → `GEMINI_MODEL` |
-| GitHubのユーザー名 | — | `config/settings.yaml` の `fetch.user_agent` にある `<GitHubユーザー名>` を置き換える |
+| GitHubのユーザー名 | STEP 1で決める | `config/settings.yaml` の `fetch.user_agent` にある `<GitHubユーザー名>` を置き換える（push前） |
 
 **APIキーはファイル・チャット・コミットに絶対に書かないでください。** GitHub の Secrets だけに保存します。
 
-### 4.2 手順
+### 4.2 手順（画面操作）
 
-1. `config/settings.yaml` の `<GitHubユーザー名>` を自分のユーザー名に置き換えてコミットする
-2. GitHub で空の公開リポジトリ `exhibition-radar` を作成し、push する
-   ```powershell
-   git remote add origin https://github.com/<GitHubユーザー名>/exhibition-radar.git
-   git push -u origin main
-   ```
-3. Secrets を登録：リポジトリの **Settings → Secrets and variables → Actions → Secrets タブ → New repository secret**
-   - Name：`GEMINI_API_KEY`／Secret：AI Studio で発行したキー
-4. Variables を登録：同じ画面の **Variables タブ → New repository variable**
-   - Name：`GEMINI_MODEL`／Value：AI Studio で確認したモデル名
-5. Actions の書き込み権限：**Settings → Actions → General → Workflow permissions** で「Read and write permissions」を選ぶ（収集結果を自動でコミットするため）
-6. Pages：**Settings → Pages → Build and deployment** で Source を「Deploy from a branch」、Branch を `main` と `/docs` にする
-7. 数分後に `https://<GitHubユーザー名>.github.io/exhibition-radar/` で表示されることを確認する
-8. **Actions タブ → collect → Run workflow** で手動実行し、データが更新されることを確認する
+#### STEP 1　GitHubアカウントを作る（初回のみ）
+1. https://github.com/signup を開き、メールアドレス・パスワード・ユーザー名を入力して登録する
+2. 届いたメールの確認コードを入力する
+3. ユーザー名は公開URLになる（`https://ユーザー名.github.io/exhibition-radar/`）
+
+#### STEP 2　Gemini APIキーを取る
+1. https://aistudio.google.com/ を開き、Googleアカウントでログインする（初回は利用規約に同意）
+2. 画面の「Get API key」→「APIキーを作成」を押す
+3. 表示されたキーを**コピーするだけ**にする（メモ帳・メール・チャットに貼らない。STEP 5で直接GitHubに貼る）
+4. 同じAI Studioのモデル一覧で、無料枠で使えるモデル名（`gemini-` で始まる英数字の名前）を確認しておく
+
+#### STEP 3　空のリポジトリを作る
+1. GitHubにログインし、右上の「＋」→「New repository」
+2. Repository name：`exhibition-radar`
+3. 「Public」を選ぶ
+4. 「Add a README file」などのチェックは**すべて外したまま**「Create repository」
+
+#### STEP 4　手元のファイルをアップロード（push）する
+```powershell
+cd exhibition-radar
+git remote add origin https://github.com/<ユーザー名>/exhibition-radar.git
+git push -u origin main
+```
+初回はブラウザが開いて GitHub へのサインインを求められるので、「Sign in with your browser」→「Authorize」を押す（Git for Windows に同梱の Git Credential Manager が認証情報を保存する）。
+
+#### STEP 5　APIキーとモデル名を登録する
+1. GitHubのリポジトリ画面上部の「Settings」タブ
+2. 左メニュー「Secrets and variables」→「Actions」
+3. 「Secrets」タブ →「New repository secret」
+   - Name：`GEMINI_API_KEY`
+   - Secret：STEP 2でコピーしたキーを貼り付け →「Add secret」
+4. 「Variables」タブ →「New repository variable」
+   - Name：`GEMINI_MODEL`
+   - Value：STEP 2で確認したモデル名 →「Add variable」
+
+登録後は、キーの値は誰にも（自分にも）表示されない。
+
+#### STEP 6　自動コミットを許可する
+「Settings」→ 左メニュー「Actions」→「General」→ 一番下の「Workflow permissions」で「Read and write permissions」を選んで「Save」
+
+#### STEP 7　Webサイトとして公開する
+1. 「Settings」→ 左メニュー「Pages」
+2. Source：「Deploy from a branch」
+3. Branch：`main`、フォルダ：`/docs` を選んで「Save」
+4. 1〜3分後、同じ画面の上部に公開URLが表示される
+
+#### STEP 8　動作確認
+1. 公開URLを開き、一覧が表示されることを確認する
+2. 「Actions」タブ → 左の「collect」→「Run workflow」で手動実行し、終わったらサイトのデータが更新されていることを確認する
 
 ### 4.3 ローカルで Gemini を試す場合（任意）
 

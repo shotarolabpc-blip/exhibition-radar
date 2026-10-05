@@ -115,13 +115,13 @@
    "ドローン・ロボット"
   ],
   "summary": "日本最大級の物流・ロジスティクス専門展示会。物流機器、自動化システム、ロボティクス、SCM、物流DX関連技術が集結し、物流現場の効率化・省人化をテーマに商談が行われる。",
-  "url": "",
+  "url": "https://www.logis-tech-tokyo.gr.jp/ltt/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「国際物流総合展2026」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -130,6 +130,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -1654,13 +1662,13 @@
    "セキュリティ"
   ],
   "summary": "医薬品業界向けDX専門展。研究開発、製造、品質保証、営業・マーケティング分野のデジタル化やAI活用、データ管理、システム連携ソリューションを紹介する。",
-  "url": "",
+  "url": "https://www.interphex.jp/osaka/ja-jp.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【公式】ファーマDX EXPO 大阪│インターフェックスWeek 大阪」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1669,6 +1677,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -1687,13 +1703,13 @@
    "AI・DX"
   ],
   "summary": "材料メーカー向けのDX専門展示会。マテリアルズ・インフォマティクス、AI活用、化学物質管理、在庫管理、営業支援など研究開発から物流までを対象としたDXソリューションを展示する。",
-  "url": "",
+  "url": "https://www.material-expo.jp/hub/ja-jp/exhibit/dx.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「マテリアルDX展｜出展のご案内」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -1702,6 +1718,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -4875,13 +4899,13 @@
    "ドローン・ロボット"
   ],
   "summary": "AIを活用した業務自動化ソリューションを集めた専門展示会。生成AI活用や業務効率化・品質向上を支援する製品・サービスが出展する。",
-  "url": "",
+  "url": "https://www.japan-it.jp/dx/ja-jp/visit/ai.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI・業務自動化 展 の来場案内（生成AI / AIエージェント / オーダーメ」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4890,6 +4914,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -4908,13 +4940,13 @@
    "AI・DX"
   ],
   "summary": "AI活用による経営高度化や業務改革をテーマとする専門展示会。生成AI、データ活用、自動化ソリューションなどを通じて企業のDX推進を支援する。",
-  "url": "",
+  "url": "https://www.japan-it.jp/dx/ja-jp/exhibit/data.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI時代の経営変革 EXPO（旧称：データドリブン経営 EXPO） 出展案内｜J」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4923,6 +4955,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -4974,13 +5014,13 @@
    "AI・DX"
   ],
   "summary": "EC事業者向けに在庫管理、物流、受発注、データ分析などの効率化ソリューションを紹介する専門展。物流改革や業務自動化に関する技術が集結する。",
-  "url": "",
+  "url": "https://www.japan-it.jp/ec-store/ja-jp/visit/ec.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「EC運営・物流改革 EXPOの来場案内（ECモール活用 / 一元管理 / 物流D」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4989,6 +5029,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -5311,13 +5359,13 @@
    "AI・DX"
   ],
   "summary": "営業・マーケティング領域のDXソリューション展示会。顧客分析、営業支援、AI活用ツールなどを対象とする。",
-  "url": "",
+  "url": "https://dxpo.jp/real/fox/fukuoka/sales/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【DXPO福岡26】営業・マーケDXPO -IT・DX展示会-」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5326,6 +5374,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
@@ -6423,13 +6479,13 @@
    "AI・DX"
   ],
   "summary": "設計、教育訓練、シミュレーション、保守運用など産業分野でのXR活用に特化した専門展示会。VR・AR・MR技術の実装事例を紹介する。",
-  "url": "",
+  "url": "https://www.nextech-week.jp/hub/ja-jp/about/xr.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
   "confidence": 90,
   "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「XR産業活用展の展示会概要｜NexTech Week」））",
-  "status": "needs_review",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -6438,6 +6494,14 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
    }
   ]
  },
