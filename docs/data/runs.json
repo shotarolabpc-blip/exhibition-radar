@@ -1,5 +1,49 @@
 [
  {
+  "run_at": "2026-10-05T18:13:05+09:00",
+  "type": "collect",
+  "period": {
+   "from": "2026-10-05",
+   "to": "2027-03-31"
+  },
+  "sources_total": 20,
+  "sources_failed": 0,
+  "pages_fetched": 214,
+  "gemini_requests": 148,
+  "llm_usage": {
+   "gemini:gemini-3.5-flash-lite": 148
+  },
+  "gemini_pending": 0,
+  "new": 72,
+  "updated": 0,
+  "needs_review": 44,
+  "total": 422,
+  "archived": 0,
+  "source_counts": {
+   "bigsight": 193,
+   "makuhari": 66,
+   "portmesse": 1,
+   "gymex": 10,
+   "tif": 1,
+   "sanbo_hamamatsucho": 1,
+   "aichiskyexpo": 1,
+   "pulseplaza": 1,
+   "kobe": 1,
+   "atc": 1,
+   "sapporo_cc": 1,
+   "yumemesse": 1,
+   "sendai_ic": 1,
+   "tokimesse": 1,
+   "ishikawa": 1,
+   "hiroshima": 1,
+   "okinawa_cc": 1,
+   "twinmesse": 1,
+   "interop": 1,
+   "known_urls": 189
+  },
+  "errors": []
+ },
+ {
   "run_at": "2026-10-05T17:50:40+09:00",
   "type": "collect",
   "period": {

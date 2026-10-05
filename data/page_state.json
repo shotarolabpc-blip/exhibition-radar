@@ -69,6 +69,9 @@
   "checked": "2026-10-05",
   "hash": "42a0cf5b21030681"
  },
+ "https://beyondbeauty.jp/": {
+  "hash": "1adda6738204e2ac"
+ },
  "https://biz.nikkan.co.jp/eve/bousai/": {
   "checked": "2026-10-05"
  },
@@ -354,6 +357,9 @@
  "https://hamfair.jp/": {
   "checked": "2026-10-05",
   "hash": "6f0ffc4bc959d6c0"
+ },
+ "https://hijapan.info/": {
+  "hash": "2f2c7b37ec5fe1a8"
  },
  "https://hoikuhaku.jp.messefrankfurt.com/tokyo/ja.html": {
   "checked": "2026-10-05",
@@ -701,6 +707,806 @@
  },
  "https://thermotec.jp.messefrankfurt.com/tokyo/ja.html": {
   "checked": "2026-10-05"
+ },
+ "https://toshiken.jma.or.jp/hkd/index.php?_gl=1%2A1wrugds%2A_ga%2AMTYzNzgyNzg3Ny4xNzc5Njc2MDY0%2A_ga_W8424K5L70%2AczE3OTAyMzQ0MjgkbzIkZzEkdDE3OTAyMzQ0NTYkajMyJGwwJGgw": {
+  "checked": "2026-10-05",
+  "hash": "0fdc309cca15ac3c"
+ },
+ "https://toshiken.jma.or.jp/hkd/outline/disaster_index.php": {
+  "checked": "2026-10-05",
+  "hash": "b396db1a3a3c3e1e"
+ },
+ "https://toshiken.jma.or.jp/hkd/outline/energy_index.php": {
+  "checked": "2026-10-05",
+  "hash": "3caaa38da0a3263d"
+ },
+ "https://tourismhotel.jma.or.jp/hkd/": {
+  "checked": "2026-10-05",
+  "hash": "4e81a7f900d62e2e"
+ },
+ "https://tourismhotel.jma.or.jp/hkd/index.php?_gl=1%2Aoyes9w%2A_gcl_au%2AMTEzMTcyMzg2OC4xNzg3NTQ3NjMz%2A_ga%2AMTYzNzgyNzg3Ny4xNzc5Njc2MDY0%2A_ga_0WC3X1EZKZ%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw%2A_ga_NJR2RPSJKX%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw": {
+  "checked": "2026-10-05",
+  "hash": "4e81a7f900d62e2e"
+ },
+ "https://umihaku.jp/": {
+  "checked": "2026-10-05",
+  "hash": "99c7ca8c9c884397"
+ },
+ "https://weldingshow.jp/2026/": {
+  "checked": "2026-10-05",
+  "hash": "6c69b9079d3ec75a"
+ },
+ "https://wfjapan.com/": {
+  "checked": "2026-10-05",
+  "hash": "9e6943660adfe3ab"
+ },
+ "https://wjwtp.jp/2025/": {
+  "checked": "2026-10-05",
+  "hash": "f6361951168c3342"
+ },
+ "https://wjwtp.jp/2026/outline/": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.adcom-media.co.jp/iss/": {
+  "checked": "2026-10-05",
+  "hash": "86e2f016492759e5"
+ },
+ "https://www.adcom-media.co.jp/ite/": {
+  "checked": "2026-10-05",
+  "hash": "1231339484b07c3f"
+ },
+ "https://www.aff-fair.com/": {
+  "checked": "2026-10-05",
+  "hash": "95463e9a361e2ddd"
+ },
+ "https://www.agriexpo-week.jp/tokyo/ja-jp/about/agrinext.html": {
+  "checked": "2026-10-05",
+  "error": "ConnectionError"
+ },
+ "https://www.am-expo.jp/osaka-1/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "fd5057954b1098db"
+ },
+ "https://www.apmc-mwe.org/": {
+  "checked": "2026-10-05",
+  "hash": "179cc7eb3b158e0c"
+ },
+ "https://www.autoid-expo.com/tokyo/": {
+  "checked": "2026-10-05",
+  "hash": "e503de1b66290ab4"
+ },
+ "https://www.automotiveworld.jp/autumn/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "73106862352e3c9e"
+ },
+ "https://www.automotiveworld.jp/nagoya/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "265cd1d74915f126"
+ },
+ "https://www.automotiveworld.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "1a1700d50f245b1a"
+ },
+ "https://www.bariship.com/": {
+  "checked": "2026-10-05",
+  "hash": "27bb2f145270514e"
+ },
+ "https://www.bicsi.jp/conference/2026.php": {
+  "checked": "2026-10-05",
+  "hash": "31bc7d828252e177"
+ },
+ "https://www.bizcrew.jp/expo/2025-ai-win-osaka": {
+  "checked": "2026-10-05",
+  "hash": "cfd598eda79e56e9"
+ },
+ "https://www.bizcrew.jp/expo/2025-dx-win-osaka": {
+  "checked": "2026-10-05",
+  "hash": "e24ff5b50c37f6df"
+ },
+ "https://www.bizcrew.jp/expo/2026-ai-spr-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "3d1894e83a20ca31"
+ },
+ "https://www.bizcrew.jp/expo/ai-fukuoka": {
+  "checked": "2026-10-05",
+  "hash": "dd41e281b5d2624a"
+ },
+ "https://www.bizcrew.jp/expo/ai-nagoya": {
+  "checked": "2026-10-05",
+  "hash": "955bed1ed9550186"
+ },
+ "https://www.bizcrew.jp/expo/ai-osaka": {
+  "checked": "2026-10-05",
+  "hash": "b19968a729662986"
+ },
+ "https://www.bizcrew.jp/expo/ai-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "c68d32e9b1b2279a"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka": {
+  "checked": "2026-10-05",
+  "hash": "851011ea736e64fa"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka-biz-transform-bo": {
+  "checked": "2026-10-05",
+  "hash": "3f19a211b6351687"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka-finance-support": {
+  "checked": "2026-10-05",
+  "hash": "df55eaf5875af0f3"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka-general-affairs-support": {
+  "checked": "2026-10-05",
+  "hash": "4c3fae4b41280700"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka-hr-support": {
+  "checked": "2026-10-05",
+  "hash": "2161aa65526ff96f"
+ },
+ "https://www.bizcrew.jp/expo/back-office-osaka-legal-support": {
+  "checked": "2026-10-05",
+  "hash": "323de5cf09b34e47"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "edc28a917069b034"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo-biz-transform-bo": {
+  "checked": "2026-10-05",
+  "hash": "d8b3f1cb1a0ba466"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo-finance-support": {
+  "checked": "2026-10-05",
+  "hash": "77dcc260ce408042"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo-general-affairs-support": {
+  "checked": "2026-10-05",
+  "hash": "2e8e3fdd41156b32"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo-hr-support": {
+  "checked": "2026-10-05",
+  "hash": "7a4efb0c96335638"
+ },
+ "https://www.bizcrew.jp/expo/back-office-tokyo-legal-support": {
+  "checked": "2026-10-05",
+  "hash": "ace3887a8957c7c6"
+ },
+ "https://www.bizcrew.jp/expo/bij-osaka": {
+  "checked": "2026-10-05",
+  "hash": "9e12d34086a1b471"
+ },
+ "https://www.bizcrew.jp/expo/bij-osaka-ai": {
+  "checked": "2026-10-05"
+ },
+ "https://www.bizcrew.jp/expo/bij-osaka-workstyle-reform": {
+  "checked": "2026-10-05",
+  "hash": "addbe3bfae6d5fb8"
+ },
+ "https://www.bizcrew.jp/expo/bij-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "febb9da2f85106c6"
+ },
+ "https://www.bizcrew.jp/expo/bij-tokyo-ai": {
+  "checked": "2026-10-05"
+ },
+ "https://www.bizcrew.jp/expo/content-tokyo": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.bizcrew.jp/expo/dx-osaka": {
+  "checked": "2026-10-05",
+  "hash": "4656205df7943ca6"
+ },
+ "https://www.bizcrew.jp/expo/dx-osaka-biz-transform": {
+  "checked": "2026-10-05",
+  "hash": "79d741518d387230"
+ },
+ "https://www.bizcrew.jp/expo/dx-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "784ebe5429e8cdd4"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-osaka": {
+  "checked": "2026-10-05",
+  "hash": "78fb27060ee57943"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-osaka-logistics": {
+  "checked": "2026-10-05",
+  "hash": "bc7d17b115f389f7"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "2a718f14d10f3c96"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-tokyo-construction": {
+  "checked": "2026-10-05",
+  "hash": "8b5831d217f70fc7"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-tokyo-logistics": {
+  "checked": "2026-10-05",
+  "hash": "cfd64e5079588cd4"
+ },
+ "https://www.bizcrew.jp/expo/industrial-dx-tokyo-manufacturing": {
+  "checked": "2026-10-05",
+  "hash": "254967f7022f922b"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-osaka": {
+  "checked": "2026-10-05",
+  "hash": "e5d093a8dffd48c8"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-osaka-biz-transform-fo": {
+  "checked": "2026-10-05",
+  "hash": "61675765bc5c3f1b"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-osaka-cs-cx-support": {
+  "checked": "2026-10-05",
+  "hash": "feb6d8264442836b"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-osaka-ec-support": {
+  "checked": "2026-10-05",
+  "hash": "796b959de65f79c0"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-osaka-marketing-support": {
+  "checked": "2026-10-05",
+  "hash": "0f0c98e097416e2d"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-tokyo": {
+  "checked": "2026-10-05",
+  "hash": "a4cf0079de629f95"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-tokyo-biz-transform-fo": {
+  "checked": "2026-10-05",
+  "hash": "7a5096cd1caec4c7"
+ },
+ "https://www.bizcrew.jp/expo/marketing-sales-tokyo-marketing-support": {
+  "checked": "2026-10-05",
+  "hash": "dfe2d606449391fc"
+ },
+ "https://www.bizcrew.jp/expo/web3-tokyo": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.bizcrew.jp/lp/cp10?gad_source=1&gad_campaignid=24215802625&gbraid=0AAAABECrBDOkkeAnk_Q_AHUpY7L7Md4fV": {
+  "checked": "2026-10-05",
+  "hash": "e95dd3a664e3f5b3"
+ },
+ "https://www.bohanbosai.jp/": {
+  "checked": "2026-10-05",
+  "hash": "9b112bad591e098f"
+ },
+ "https://www.business-expo.jp/": {
+  "checked": "2026-10-05",
+  "hash": "cda431468f81a379"
+ },
+ "https://www.business-expo.jp/about_us/": {
+  "checked": "2026-10-05",
+  "hash": "1a91dd66453582de"
+ },
+ "https://www.catv-conv.jp/top.html": {
+  "checked": "2026-10-05",
+  "hash": "a64c817ddfa64856"
+ },
+ "https://www.catv-f.com/": {
+  "checked": "2026-10-05",
+  "hash": "497ad00419cd6e82"
+ },
+ "https://www.cbw-expo.jp/": {
+  "checked": "2026-10-05",
+  "hash": "70ea7d58f1011b74"
+ },
+ "https://www.cbw-expo.jp/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "70ea7d58f1011b74"
+ },
+ "https://www.cbw-expo.jp/ja-jp/about/rem.html": {
+  "checked": "2026-10-05",
+  "hash": "0db7245a5432fa9b"
+ },
+ "https://www.ceatec.com/ja/": {
+  "checked": "2026-10-05",
+  "hash": "fc6da73a77e8e28c"
+ },
+ "https://www.ceatec.com/ja/application/": {
+  "checked": "2026-10-05",
+  "hash": "c720be3c9356798b"
+ },
+ "https://www.chemmate.jp/": {
+  "checked": "2026-10-05",
+  "hash": "ffe2e38a36d25f3f"
+ },
+ "https://www.city.imabari.ehime.jp/simingamannaka/kinmirai/R5/": {
+  "hash": "2b7d46c88cf38d7a"
+ },
+ "https://www.city.imabari.ehime.jp/simingamannaka/kinmirai/event/": {
+  "checked": "2026-10-05"
+ },
+ "https://www.comiket.co.jp/": {
+  "checked": "2026-10-05",
+  "hash": "e886245db01507b3"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/about/cd.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/about/cg.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/about/cr.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/about/next.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/exhibit/brand.html": {
+  "hash": "49015146133f1930"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/visit/brand.html": {
+  "hash": "99ec4c1cdaed255d"
+ },
+ "https://www.content-tokyo.jp/hub/ja-jp/visit/cr.html": {
+  "hash": "92ae09b3eeda0765"
+ },
+ "https://www.cosme-week.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "8915b4949fe83bc9"
+ },
+ "https://www.cpplus.jp/": {
+  "checked": "2026-10-05",
+  "hash": "bd9a476c90ba321a"
+ },
+ "https://www.cpplus.jp/outline/": {
+  "checked": "2026-10-05",
+  "hash": "2986008cdd54d558"
+ },
+ "https://www.decarbonization-expo.jp/autumn/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "4622ff4310939cb9"
+ },
+ "https://www.decarbonization-expo.jp/hub/ja-jp/about/ce.html": {
+  "checked": "2026-10-05",
+  "hash": "9bce8c5ac1947df6"
+ },
+ "https://www.decarbonization-expo.jp/hub/ja-jp/about/dcm.html": {
+  "checked": "2026-10-05",
+  "hash": "1892434a5f3cd4b8"
+ },
+ "https://www.decarbonization-expo.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "e3163b368cabc668"
+ },
+ "https://www.dietandbeauty.jp/tech/": {
+  "checked": "2026-10-05"
+ },
+ "https://www.drinkjapan.jp/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "a7c9bebf3dc6e691"
+ },
+ "https://www.drugstoreshow.jp/": {
+  "checked": "2026-10-05",
+  "hash": "5cc1ef6a6667d769"
+ },
+ "https://www.dsignage-expo.jp/": {
+  "checked": "2026-10-05",
+  "hash": "8798ced3b6df086b"
+ },
+ "https://www.e-messe.jp/": {
+  "checked": "2026-10-05",
+  "hash": "07db0863bc4cc4a2"
+ },
+ "https://www.edix-expo.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "65e0db8932cdff7a"
+ },
+ "https://www.express-highway.or.jp/hwtf/htf2026/": {
+  "checked": "2026-10-05",
+  "hash": "fd7e53810dd9d2c3"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "298b9203e3c25275"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/fdx.html": {
+  "checked": "2026-10-05",
+  "hash": "36d5d4fd39320882"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/ifa.html": {
+  "checked": "2026-10-05",
+  "hash": "5d6f401697b68582"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/jfa.html": {
+  "checked": "2026-10-05",
+  "hash": "b7b30dab4c37eab5"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/oem.html": {
+  "checked": "2026-10-05",
+  "hash": "ac3ac9f25efc184f"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/sports.html": {
+  "checked": "2026-10-05",
+  "hash": "5a76ce486452c22b"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/textile.html": {
+  "checked": "2026-10-05",
+  "hash": "cb68beb686db5f39"
+ },
+ "https://www.fashion-tokyo.jp/autumn/ja-jp/about/wef.html": {
+  "checked": "2026-10-05",
+  "hash": "acb84d2fce4cac47"
+ },
+ "https://www.fiweek.jp/autumn/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "e61dd3a28863a499"
+ },
+ "https://www.fiweek.jp/autumn/ja-jp/about/gfe.html": {
+  "checked": "2026-10-05",
+  "hash": "ed907fe2a00ae6f7"
+ },
+ "https://www.fiweek.jp/autumn/ja-jp/about/mihr.html": {
+  "checked": "2026-10-05",
+  "hash": "9af41486bf2543e5"
+ },
+ "https://www.fiweek.jp/autumn/ja-jp/about/robo.html": {
+  "checked": "2026-10-05",
+  "hash": "7afb75f6d8082b8a"
+ },
+ "https://www.fiweek.jp/autumn/ja-jp/about/sfe.html": {
+  "checked": "2026-10-05",
+  "hash": "45d67ca64301e8aa"
+ },
+ "https://www.fiweek.jp/nagoya/ja-jp/about/robo.html": {
+  "checked": "2026-10-05",
+  "hash": "a2398be20953738e"
+ },
+ "https://www.fiweek.jp/nagoya/ja-jp/about/sfe.html": {
+  "checked": "2026-10-05",
+  "hash": "fca5bcd9256db593"
+ },
+ "https://www.fiweek.jp/nagoya/ja-jp/lp/visit/sfe.html?msclkid=8b1e9bb8ad4c1a841700fd4c54fb8c69": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.fiweek.jp/osaka/ja-jp/about/robo.html": {
+  "checked": "2026-10-05",
+  "hash": "7f4c3a1f6701c7a5"
+ },
+ "https://www.fiweek.jp/osaka/ja-jp/about/sfe.html": {
+  "checked": "2026-10-05",
+  "hash": "1d8116c713d18ad5"
+ },
+ "https://www.fiweek.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "1c710f48ba50449e"
+ },
+ "https://www.fiweek.jp/tokyo/ja-jp/about/robo.html": {
+  "checked": "2026-10-05",
+  "hash": "4b564efd12d14c4a"
+ },
+ "https://www.fiweek.jp/tokyo/ja-jp/about/sfe.html": {
+  "checked": "2026-10-05",
+  "hash": "395f41e35a9f33fe"
+ },
+ "https://www.food-exhibition.info/": {
+  "checked": "2026-10-05",
+  "hash": "1a17a292376af491"
+ },
+ "https://www.food-exhibition.info/common/pdf/2026_FOOD-DX.pdf": {
+  "checked": "2026-10-05"
+ },
+ "https://www.food-exhibition.info/f-sys/": {
+  "checked": "2026-10-05",
+  "hash": "39d085d3542063a2"
+ },
+ "https://www.food-exhibition.info/fd/": {
+  "checked": "2026-10-05",
+  "hash": "6bb9d7b2968eaf82"
+ },
+ "https://www.food-exhibition.info/ff/": {
+  "checked": "2026-10-05",
+  "hash": "9630aae7d51b99f4"
+ },
+ "https://www.food-exhibition.info/fsj/": {
+  "checked": "2026-10-05",
+  "hash": "0c84ad5174f9b8aa"
+ },
+ "https://www.food-exhibition.info/guideline/": {
+  "checked": "2026-10-05",
+  "hash": "fd43f758215330af"
+ },
+ "https://www.food-exhibition.info/sdj/": {
+  "checked": "2026-10-05",
+  "hash": "271078f67f4f2ebe"
+ },
+ "https://www.food-selection.com/": {
+  "checked": "2026-10-05",
+  "hash": "03671531e2c554dd"
+ },
+ "https://www.foodstore-s.jp/": {
+  "checked": "2026-10-05",
+  "hash": "2850d97e29fe6b0b"
+ },
+ "https://www.foodtechjapan.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "691d2ef347c6811c"
+ },
+ "https://www.foodtechjapan.jp/osaka/ja-jp/about/fhi.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.foodtechjapan.jp/osaka/ja-jp/about/ftech.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.foodtechjapan.jp/riw/ja-jp/about/sre.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.foodtechjapan.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "09a6f215df04ada2"
+ },
+ "https://www.foomajapan.jp/": {
+  "checked": "2026-10-05",
+  "hash": "7d2355878524a152"
+ },
+ "https://www.forestrise.jp/": {
+  "checked": "2026-10-05"
+ },
+ "https://www.forestrise.jp/2026/index.html": {
+  "hash": "5964e37f5e382236"
+ },
+ "https://www.gardex.jp/": {
+  "checked": "2026-10-05",
+  "hash": "3c5c23b08e3bfa52"
+ },
+ "https://www.gartner.com/jp/conferences/apac/symposium-japan": {
+  "checked": "2026-10-05",
+  "error": "HTTP 403"
+ },
+ "https://www.gesuidouten.jp/": {
+  "checked": "2026-10-05",
+  "hash": "4111b38b2552614a"
+ },
+ "https://www.giftshow.co.jp/tigs/102tigs/": {
+  "checked": "2026-10-05",
+  "hash": "d17a44b4a4d0a438"
+ },
+ "https://www.giftshow.co.jp/tigs/life20/": {
+  "checked": "2026-10-05",
+  "hash": "d11f6507287f25b0"
+ },
+ "https://www.googlecloudevents.com/next-tokyo/": {
+  "checked": "2026-10-05",
+  "hash": "0e0dde8f575fdd11"
+ },
+ "https://www.gourmetshow.jp/40gs/": {
+  "checked": "2026-10-05",
+  "hash": "03f98f591f2d38b9"
+ },
+ "https://www.gpec.jp/": {
+  "checked": "2026-10-05",
+  "hash": "6ec2c1c73801c69d"
+ },
+ "https://www.gpec.jp/aqua/": {
+  "checked": "2026-10-05",
+  "hash": "a8bbf616b9d63b4a"
+ },
+ "https://www.gpec.jp/saj/": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.hijapan.info/": {
+  "checked": "2026-10-05"
+ },
+ "https://www.hospitality-show.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "b810cfbcd16ac726"
+ },
+ "https://www.ifiajapan.com/": {
+  "checked": "2026-10-05",
+  "hash": "e91d36119a5a9b8a"
+ },
+ "https://www.ijt.jp/autumn/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "2ab4eb706fd3ea58"
+ },
+ "https://www.inter-bee.com/ja/": {
+  "checked": "2026-10-05",
+  "hash": "85decead4e5c0efa"
+ },
+ "https://www.interaqua.jp/": {
+  "checked": "2026-10-05",
+  "hash": "3ca593d46eb58f07"
+ },
+ "https://www.intercross-com.co.jp/event-japan/": {
+  "checked": "2026-10-05",
+  "hash": "8c0b7bd9819624a8"
+ },
+ "https://www.interop.jp/": {
+  "checked": "2026-10-05",
+  "hash": "768ec2559b3fbd20"
+ },
+ "https://www.interop.jp/2026/about/": {
+  "checked": "2026-10-05",
+  "hash": "87debf3760866a73"
+ },
+ "https://www.interphex.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "ddb8879dde63718c"
+ },
+ "https://www.interphex.jp/osaka/ja-jp/about/ipjk.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.interphex.jp/osaka/ja-jp/about/prdk.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.interphex.jp/osaka/ja-jp/about/rmk.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.interphex.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "1d418b190b8fe131"
+ },
+ "https://www.itt-show.jp/tokyo/ja-jp/about/dx.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.jagri-global.jp/": {
+  "checked": "2026-10-05",
+  "hash": "95453b555b3007a9"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "95453b555b3007a9"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/about/agribusiness.html": {
+  "checked": "2026-10-05",
+  "hash": "fd6ab8356741271b"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/about/agrigreen.html": {
+  "checked": "2026-10-05",
+  "hash": "7b320ab6003582fc"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/about/agrilivestock.html": {
+  "checked": "2026-10-05",
+  "hash": "3b7810c225438b12"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/about/agritech.html": {
+  "checked": "2026-10-05",
+  "hash": "23306066f41a15f3"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/about/livestockhealth.html": {
+  "checked": "2026-10-05",
+  "hash": "b3f5b40ba4663c68"
+ },
+ "https://www.jagri-global.jp/hub/ja-jp/lp/vis/tokyo/jagri-pc.html?msclkid=10f5b72376ef1464a39edda8b9eeac33": {
+  "checked": "2026-10-05",
+  "hash": "df06f5d4d2f145a1"
+ },
+ "https://www.janog.gr.jp/": {
+  "checked": "2026-10-05",
+  "hash": "14ef2b1f432ea611"
+ },
+ "https://www.janog.gr.jp/meeting/janog58/": {
+  "checked": "2026-10-05",
+  "hash": "d4d975bf8c633764"
+ },
+ "https://www.japan-build.jp/": {
+  "checked": "2026-10-05",
+  "hash": "43aee95b45a246d9"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/bmt.html": {
+  "checked": "2026-10-05",
+  "hash": "8e74f906005e23f5"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/cm.html": {
+  "hash": "e5eb9fb55aa26a16"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/gx.html": {
+  "checked": "2026-10-05",
+  "hash": "3ec0ea8a87b8a0c9"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/home.html": {
+  "checked": "2026-10-05",
+  "hash": "42a0ce3ca5e76c36"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/jdx.html": {
+  "checked": "2026-10-05",
+  "hash": "77a0f2eb5a5410f4"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/kdx.html": {
+  "checked": "2026-10-05",
+  "hash": "f85dde8b3a614f9a"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/kz.html": {
+  "checked": "2026-10-05",
+  "hash": "7b983a785cc3bf1d"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/ret.html": {
+  "checked": "2026-10-05",
+  "hash": "88407dca0581b323"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/rnv.html": {
+  "checked": "2026-10-05",
+  "hash": "c841e055b8b1ffa3"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/sbd.html": {
+  "checked": "2026-10-05",
+  "hash": "d57907ecae7dcadb"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/about/sdx.html": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/exhibit/bmt.html": {
+  "checked": "2026-10-05",
+  "hash": "c5b2b2ff5745b030"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/exhibit/jdx.html": {
+  "checked": "2026-10-05",
+  "hash": "5227986875bcf4cb"
+ },
+ "https://www.japan-build.jp/hub/ja-jp/exhibit/kdx.html": {
+  "checked": "2026-10-05",
+  "hash": "902d52c11db638f6"
+ },
+ "https://www.japan-build.jp/osaka/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "405189a6f9c19479"
+ },
+ "https://www.japan-build.jp/osaka/ja-jp/visit/cm.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.japan-build.jp/osaka/ja-jp/visit/sdx.html": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.japan-build.jp/tokyo-2/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "6cce82a1e3f9122b"
+ },
+ "https://www.japan-build.jp/tokyo/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "b32e544b2cdb1800"
+ },
+ "https://www.japan-it.jp/autumn/ja-jp/about/ai.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.japan-it.jp/autumn/ja-jp/about/iot.html": {
+  "checked": "2026-10-05"
+ },
+ "https://www.japan-it.jp/autumn/ja-jp/about/meta.html": {
+  "checked": "2026-10-05",
+  "error": "HTTP 404"
+ },
+ "https://www.japan-it.jp/dx/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "0923161aeaf11c8d"
+ },
+ "https://www.japan-it.jp/dx/ja-jp/about.html": {
+  "checked": "2026-10-05",
+  "hash": "4c61df4c4de0afc3"
+ },
+ "https://www.japan-it.jp/dx/ja-jp/exhibit/data.html": {
+  "checked": "2026-10-05",
+  "hash": "2aa4df230d4b6a81"
+ },
+ "https://www.japan-it.jp/dx/ja-jp/visit/ai.html": {
+  "checked": "2026-10-05",
+  "hash": "fc0279f54e712a2c"
+ },
+ "https://www.japan-it.jp/dx/ja-jp/visit/deskless.html": {
+  "checked": "2026-10-05",
+  "hash": "2b3d8326f5ce1617"
+ },
+ "https://www.japan-it.jp/dx/ja-jp/visit/office.html": {
+  "checked": "2026-10-05",
+  "hash": "ce1ce6ec364ea0cf"
+ },
+ "https://www.japan-it.jp/ec-store/ja-jp.html": {
+  "checked": "2026-10-05",
+  "hash": "af21b834f1a01a6f"
+ },
+ "https://www.japan-it.jp/ec-store/ja-jp/visit/ec.html": {
+  "checked": "2026-10-05",
+  "hash": "b2d441268a1778eb"
+ },
+ "https://www.japan-it.jp/it/ja-jp/visit/esec.html": {
+  "hash": "d64edc57fa996a21"
  },
  "https://www.nanotechexpo.jp/": {
   "hash": "f8f16a1b4f4f360f"
