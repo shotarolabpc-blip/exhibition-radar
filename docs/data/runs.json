@@ -1,5 +1,51 @@
 [
  {
+  "run_at": "2026-10-05T17:50:40+09:00",
+  "type": "collect",
+  "period": {
+   "from": "2026-10-05",
+   "to": "2027-03-31"
+  },
+  "sources_total": 5,
+  "sources_failed": 0,
+  "pages_fetched": 222,
+  "gemini_requests": 35,
+  "gemini_pending": 57,
+  "new": 12,
+  "updated": 0,
+  "needs_review": 2,
+  "total": 308,
+  "archived": 0,
+  "source_counts": {
+   "bigsight": 193,
+   "makuhari": 66,
+   "portmesse": 1,
+   "interop": 1,
+   "known_urls": 121
+  },
+  "errors": [
+   "gemini: ServerError",
+   "gemini: ServerError（https://portmesse.com/events）",
+   "gemini: ServerError（https://www.interop.jp/）",
+   "gemini: ServerError（https://adtech-tokyo.com/ja/）",
+   "gemini: ServerError（https://aismiley.co.jp/ai_hakurankai/）",
+   "gemini: ServerError（https://aismiley.co.jp/ai_hakurankai/2025_spring/）",
+   "gemini: ServerError（https://aws.amazon.com/jp/events/summits/japan/）",
+   "gemini: ServerError（https://biz.nikkan.co.jp/eve/bousai/）",
+   "gemini: ServerError（https://biz.nikkan.co.jp/eve/green-infra/）",
+   "gemini: ServerError（https://biz.nikkan.co.jp/eve/s-robot/）",
+   "gemini: ServerError（https://dxf.solution-expo.jp/gaiyo.php）",
+   "gemini: ServerError（https://events.nikkeibp.co.jp/xtechnext/2025tky/）",
+   "gemini: ServerError（https://f2ff.jp/event/0802）",
+   "gemini: ServerError（https://f2ff.jp/event/commerce-sns）",
+   "gemini: ServerError（https://f2ff.jp/event/dx-ai）",
+   "gemini: ServerError（https://hs-osh.jma.or.jp/content/moushotaisaku/）",
+   "gemini: ServerError（https://iifes.jp/）",
+   "gemini: ServerError（https://inchem.jma.or.jp/）",
+   "gemini: レート制限が続くため枠切れと判断（https://innov-w.solution-expo.jp/gaiyo.php）"
+  ]
+ },
+ {
   "run_at": "2026-10-05T15:00:04+09:00",
   "type": "import",
   "period": {

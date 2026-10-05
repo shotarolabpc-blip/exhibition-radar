@@ -3737,6 +3737,43 @@
   ]
  },
  {
+  "id": "evt_7bc750f2",
+  "event_name": "第2回 医療DX EXPO【東京】",
+  "parent_event_name": "第2回 医療DX EXPO【東京】",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ",
+   "ドローン・ロボット"
+  ],
+  "summary": "日本最大級の医療DXの専門展示会。人工知能(AI)診断支援、デジタルヘルス、ロボット・RPA、遠隔医療、電子カルテ、サイバー攻撃対策ツールなどが出展。病院・クリニックなどの医療機関が多数来場します。",
+  "url": "https://www.medical-jpn.jp/tokyo/ja-jp.html",
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：幕張メッセ）"
+   }
+  ]
+ },
+ {
   "id": "evt_40e3cd1c",
   "event_name": "第30回 ブランド＆デザイナー EXPO 秋",
   "parent_event_name": "第30回 ブランド＆デザイナー EXPO 秋",
@@ -4122,11 +4159,13 @@
   ],
   "summary": "日本最大級のデジタルイノベーション総合展。AI・IoT・通信・モビリティ・社会インフラなど幅広い先端技術が集まり、産業横断の共創を促進する。",
   "url": "https://www.ceatec.com/ja/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "CEATEC"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -4579,6 +4618,49 @@
   ]
  },
  {
+  "id": "evt_ebd0310b",
+  "event_name": "CTC DISCOVER 2026",
+  "parent_event_name": "CTC DISCOVER 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-16",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "グランドプリンスホテル新高輪",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ"
+  ],
+  "summary": "CTC DISCOVER 2026は、伊藤忠テクノソリューションズが主催するテクノロジーイベントである。「AI実装の道しるべ」をテーマに掲げ、AI、データ＆アナリティクス、クラウドネイティブ、セキュリティの4領域を中心に、課題突破のリアルな導入事例や体験型展示、専門家との対話セッションを展開。企業のDX推進や情報システム部門を対象に、AIの本格実装を支える最新IT基盤や知見を提供する。",
+  "url": "https://discover.ctcevent.jp/",
+  "source": "主催者HP（既知URL）：CTC DISCOVER 2025",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "クラウド",
+   "データ活用",
+   "セキュリティ",
+   "ゼロトラスト",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "公式サイトに2026年10月16日の開催日程、会場、詳細な展示・セッションテーマが明記されているため。",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CTC DISCOVER 2025）"
+   }
+  ]
+ },
+ {
   "id": "evt_54dcdffb",
   "event_name": "Security Days Fall 2026 福岡",
   "parent_event_name": "Security Days Fall 2026 福岡",
@@ -4832,11 +4914,15 @@
   ],
   "summary": "情報セキュリティに関する製品・技術・サービスが一堂に出展する展示会。",
   "url": "https://www.japan-it.jp/it/ja-jp/visit/ist.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "セキュリティ",
+   "情報セキュリティ"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -4866,11 +4952,13 @@
   ],
   "summary": "生成AI時代を支えるデータセンター・AIインフラ関連技術の専門展示会。データセンター構築・運用に関する最新技術やサービスが集まる。",
   "url": "https://www.japan-it.jp/hub/ja-jp/visit/dse.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -4900,11 +4988,13 @@
   ],
   "summary": "AIを活用した業務自動化ソリューションを集めた専門展示会。生成AI活用や業務効率化・品質向上を支援する製品・サービスが出展する。",
   "url": "https://www.japan-it.jp/dx/ja-jp/visit/ai.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI・業務自動化 展 の来場案内（生成AI / AIエージェント / オーダーメ」））",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -4941,11 +5031,13 @@
   ],
   "summary": "AI活用による経営高度化や業務改革をテーマとする専門展示会。生成AI、データ活用、自動化ソリューションなどを通じて企業のDX推進を支援する。",
   "url": "https://www.japan-it.jp/dx/ja-jp/exhibit/data.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「AI時代の経営変革 EXPO（旧称：データドリブン経営 EXPO） 出展案内｜J」））",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5092,11 +5184,13 @@
   ],
   "summary": "組込み・IoT・エッジコンピューティング技術に関する専門展示会。通信モジュール、産業用PC、画像認識AIなどIoT基盤技術が集まる。",
   "url": "https://www.japan-it.jp/it/ja-jp/visit/iot.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "IoT"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5126,11 +5220,13 @@
   ],
   "summary": "AI時代の企業変革をテーマとする日本最大級のDX・AX総合展。AI・業務自動化、現場DX、BtoB受発注DXなど企業変革ソリューションが集結する。",
   "url": "https://www.japan-it.jp/dx/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5162,11 +5258,14 @@
   ],
   "summary": "システム開発・運用・保守に関する下半期最大級の総合IT展示会。ソフトウェア開発、IoTシステム開発、情報セキュリティ、AIインフラ／データセンターなどで構成される。",
   "url": "https://www.japan-it.jp/it/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "IT",
+   "Japan IT Week"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5294,11 +5393,13 @@
   ],
   "summary": "営業活動のデジタル化・自動化を支援するソリューションが集まる専門展。SFA、CRM、営業支援AIなどを活用した業務改革・生産性向上を提案する。",
   "url": "https://www.japan-it.jp/sales-marketing/ja-jp/visit/sdx.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5501,11 +5602,13 @@
   ],
   "summary": "工場、建設、インフラ、倉庫など現場のDXをテーマにした専門展示会。現場業務のデジタル化や自動化を支援する。",
   "url": "https://www.japan-it.jp/dx/ja-jp/visit/deskless.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5534,11 +5637,13 @@
   ],
   "summary": "バックオフィス業務や社内オペレーションの効率化を支援する展示会。AIやクラウド活用による業務デジタル化・自動化ソリューションを紹介する。",
   "url": "https://www.japan-it.jp/dx/ja-jp/visit/office.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -5548,6 +5653,80 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b0c4633d",
+  "event_name": "第1回 BtoB EC・受発注DX EXPO 秋",
+  "parent_event_name": "第1回 BtoB EC・受発注DX EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "企業間取引における受発注・請求・決済・データ連携などの業務をデジタル化・自動化するソリューションが一堂に出展する展示会です。",
+  "url": "https://www.japan-it.jp/hub/ja-jp/visit/btobec.html",
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：幕張メッセ）"
+   }
+  ]
+ },
+ {
+  "id": "evt_3e4dea3c",
+  "event_name": "第8回 組込み・エッジAI EXPO 秋",
+  "parent_event_name": "第8回 組込み・エッジAI EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "IoT・エッジコンピューティングに関する製品/技術/サービスが一堂に出展する専門展",
+  "url": "https://www.japan-it.jp/hub/ja-jp/visit/esec.html",
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "エッジ",
+   "組込み",
+   "組込"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：幕張メッセ）"
    }
   ]
  },
@@ -5940,11 +6119,13 @@
   ],
   "summary": "人事・労務、経理・財務、法務、マーケティング、営業、業務改革、情報セキュリティなど企業のDX推進ソリューションが集まる日本最大級のDX総合展。DX推進担当者や経営層向けの展示・セミナーを実施。",
   "url": "https://www.bizcrew.jp/expo/dx-tokyo",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -6245,11 +6426,14 @@
   ],
   "summary": "生成AI、機械学習、画像認識、自然言語処理などのAIソリューションが集結。業務効率化や企業DXを推進するための専門展示会。",
   "url": "https://www.nextech-week.jp/hub/ja-jp/about/ai.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "人工知能"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -6279,11 +6463,13 @@
   ],
   "summary": "AI時代の人材育成・組織改革に特化した国内唯一の展示会です。",
   "url": "https://www.nextech-week.jp/hub/ja-jp/about/dxh.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -6293,6 +6479,41 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_14e3e457",
+  "event_name": "FOOD-DX 2026",
+  "parent_event_name": "FOOD-DX 2026",
+  "sub_event_name": "",
+  "start_date": "2026-11-11",
+  "end_date": "2026-11-13",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "食品産業の複合展におけるDX化を推進",
+  "url": "https://www.food-exhibition.info/",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東2・3ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
    }
   ]
  },
@@ -6447,11 +6668,13 @@
   ],
   "summary": "AI・人工知能、ブロックチェーン、量子コンピューティング、XR、ヒューマノイドロボットなどの先端技術を集約したRX Japan主催の総合展示会。企業・製造業・社会インフラ分野のDX推進を目的とした商談型展示会。",
   "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "NexTech Week"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -6557,11 +6780,13 @@
   ],
   "summary": "ヒューマノイドロボットの完成品や関連技術を集めた専門展。労働力不足や産業現場の自動化課題への対応をテーマとしている。",
   "url": "https://www.nextech-week.jp/hub/ja-jp/about/hr.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "ロボット"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -6592,11 +6817,13 @@
   ],
   "summary": "現場でAIを活用するための技術・ソリューションを集めた専門展。製造現場や物流現場における自律制御・認識技術などを対象とする。",
   "url": "https://www.nextech-week.jp/hub/ja-jp/about/ph.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -7166,11 +7393,13 @@
   ],
   "summary": "音響・映像・放送・通信分野のプロフェッショナル向け総合展示会。メディアソリューション、IP伝送、コンテンツ制作、先端コンテンツ技術などが集結する。",
   "url": "https://www.inter-bee.com/ja/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "Inter BEE"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -7719,6 +7948,78 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_3b7fc175",
+  "event_name": "第3回 建築ソフト・DX・業務サポート展",
+  "parent_event_name": "第3回 建築ソフト・DX・業務サポート展",
+  "sub_event_name": "",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "建築の現場と業務を支える、デジタルとAIの活用提案製品が一堂に会する展示会",
+  "url": "https://www.jma.or.jp/homeshow/tokyo/",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（西1-3ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
+   }
+  ]
+ },
+ {
+  "id": "evt_9fd4b5af",
+  "event_name": "第7回 食品工場の自動化・DX 展",
+  "parent_event_name": "第7回 食品工場の自動化・DX 展",
+  "sub_event_name": "",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "食品工場の生産効率化・省力化、人手不足に繋がる自動化・DXソリューションが出展",
+  "url": "https://www.foodtechjapan.jp/tokyo/ja-jp/about/ftech.html",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
    }
   ]
  },
@@ -8309,11 +8610,19 @@
   ],
   "summary": "RX Japan主催の次世代通信技術専門展。光通信、高周波技術、ネットワーク設備、ローカル5G、AI・IoT、映像伝送などを網羅する国際商談展。",
   "url": "https://www.cbw-expo.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "5G",
+   "AI",
+   "IoT",
+   "ネットワーク",
+   "ローカル5G",
+   "映像",
+   "通信"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西3・4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -8513,11 +8822,14 @@
   ],
   "summary": "ビルIoT、BEMS、警備ロボット等の専門展。",
   "url": "https://www.japan-build.jp/hub/ja-jp/about/sbd.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "IoT",
+   "ロボット"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西1・2ホール、南1-4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -8547,11 +8859,14 @@
   ],
   "summary": "JAPAN BUILD構成展。IoT住宅設備、ホームネットワーク等を展示。",
   "url": "https://www.japan-build.jp/hub/ja-jp/about/home.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "IoT",
+   "セキュリティ"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西1・2ホール、南1-4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -8683,11 +8998,13 @@
   ],
   "summary": "工務店向けDX、施工管理、住宅VR等の専門展。",
   "url": "https://www.japan-build.jp/hub/ja-jp/about/jdx.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西1・2ホール、南1-4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -8885,11 +9202,14 @@
   ],
   "summary": "BIM/CIM、ICT建機、測量機器、建設ロボットの専門展。",
   "url": "https://www.japan-build.jp/hub/ja-jp/about/kdx.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "DX",
+   "ロボット"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西1・2ホール、南1-4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -9424,11 +9744,13 @@
   ],
   "summary": "物流現場の自動化・省人化をテーマとする専門展示会。AI活用、物流ロボット、搬送システムなどを紹介する。",
   "url": "https://eight-event.8card.net/eightexpo/ai-sel/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -9593,11 +9915,15 @@
   ],
   "summary": "MEMS、センサー、ネットワークシステム技術の専門展示会。IoT、医療、ロボット、車載、農業分野への応用技術を紹介する。",
   "url": "https://www.optojapan.jp/mems/ja/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "IoT",
+   "テクノロジー",
+   "ネットワーク"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（西1-4ホール、南1-4ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -9662,11 +9988,14 @@
   ],
   "summary": "フィジカルAIとロボティクス活用をテーマとした展示会。産業現場での自律制御・自動化技術の実装事例を紹介する。",
   "url": "https://eight-event.8card.net/eightexpo/phaise/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "ロボット"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
@@ -9815,6 +10144,148 @@
   ]
  },
  {
+  "id": "evt_d7b1be99",
+  "event_name": "【AI-PAX 2026 冬】第4回 AIの実践的な活用展",
+  "parent_event_name": "【AI-PAX 2026 冬】第4回 AIの実践的な活用展",
+  "sub_event_name": "",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AI初心者から上級者まで、一歩踏み出す展示会。 最新AIソリューションが集結！",
+  "url": "https://eight-event.8card.net/eightexpo/ai-pax/?code=eightexpo202612_bigsight",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
+   }
+  ]
+ },
+ {
+  "id": "evt_589b2461",
+  "event_name": "【AI-SEM 2026 冬】第1回 製造AX 導入・推進展",
+  "parent_event_name": "【AI-SEM 2026 冬】第1回 製造AX 導入・推進展",
+  "sub_event_name": "",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "人手不足時代の製造現場を変える 製造AXソリューションが集結！",
+  "url": "https://eight-event.8card.net/eightexpo/ai-sem/?code=eightexpo202612_bigsight",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
+   }
+  ]
+ },
+ {
+  "id": "evt_d21883a4",
+  "event_name": "【MSX 2026 冬】第7回 マーケソリューション 比較・導入展",
+  "parent_event_name": "【MSX 2026 冬】第7回 マーケソリューション 比較・導入展",
+  "sub_event_name": "",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "マーケ成果を最大化する マーケAI、DXソリューションが集結！",
+  "url": "https://eight-event.8card.net/eightexpo/msx/?code=eightexpo202612_bigsight",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
+   }
+  ]
+ },
+ {
+  "id": "evt_46cec84d",
+  "event_name": "【SDX 2026 冬】第7回 営業DX 比較・導入展",
+  "parent_event_name": "【SDX 2026 冬】第7回 営業DX 比較・導入展",
+  "sub_event_name": "",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "営業課題をまるごと解決。 営業DX、AIソリューションが集結",
+  "url": "https://eight-event.8card.net/eightexpo/sdx/?code=eightexpo202612_bigsight",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東7・8ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
+   }
+  ]
+ },
+ {
   "id": "evt_c91703e6",
   "event_name": "新機能性材料展 2027",
   "parent_event_name": "新機能性材料展 2027",
@@ -9844,6 +10315,46 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_159a79f7",
+  "event_name": "第10回Careテクノロジー東京’26（東京ケアウィーク’26内）",
+  "parent_event_name": "第10回Careテクノロジー東京’26（東京ケアウィーク’26内）",
+  "sub_event_name": "",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "AI・IoT、ロボット、VRなど介護に役立つ先端テクノロジーが集結！",
+  "url": "https://caretech.jp/",
+  "source": "展示会場HP：東京ビッグサイト",
+  "source_type": "venue",
+  "keywords": [
+   "AI",
+   "IoT",
+   "ロボット",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベント一覧に掲載（東1-3ホール）",
+  "status": "new",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京ビッグサイト）"
    }
   ]
  },
@@ -9944,6 +10455,87 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d02f93b9",
+  "event_name": "人とくるまのテクノロジー展 NAGOYA",
+  "parent_event_name": "人とくるまのテクノロジー展 NAGOYA",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "Aichi Sky Expo",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "自動車技術会が主催するモビリティ分野の技術展。自動車メーカーや部品サプライヤーに加え、IT・ソフトウェア関連企業が集結し、自動運転やコネクテッド、モビリティDXを支える最新技術・製品が紹介される。最先端技術や車両の展示、企画講演、研究発表会など多彩なコンテンツが実施され、自動車産業に関わる設計・開発・研究者が多数参加する情報交換の場となっている。",
+  "url": "https://aee.expo-info.jsae.or.jp/ja/nagoya/",
+  "source": "主催者HP（既知URL）：人とくるまのテクノロジー展 2024 NAGOYA",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "人工知能",
+   "情報通信",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 80,
+  "reason": "2026年6月開催分は終了しているが、次回開催が予告されており日程未定のため抽出条件（日程未定の次回開催を含む）に該当。自動車分野のIT・ソフトウェアやDX技術を含む展示会。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：人とくるまのテクノロジー展 2024 NAGOYA）"
+   }
+  ]
+ },
+ {
+  "id": "evt_871758d9",
+  "event_name": "人とくるまのテクノロジー展 YOKOHAMA",
+  "parent_event_name": "人とくるまのテクノロジー展 YOKOHAMA",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "公益社団法人自動車技術会が主催する、自動車およびモビリティ分野における国内最大級の技術展示会。自動車メーカーや部品サプライヤーに加え、IT・ソフトウェア企業など多彩な企業が集結し、モビリティの未来を支える最新技術や製品を展示する。会場では車両展示をはじめ特別企画展示や各種技術講演、モビリティDXイノベーションステージなど先進技術に触れられる多彩なコンテンツが展開される。",
+  "url": "https://aee.expo-info.jsae.or.jp/ja/yokohama/",
+  "source": "主催者HP（既知URL）：人とくるまのテクノロジー展 2025（横浜）",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "人工知能",
+   "DX",
+   "情報通信",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 80,
+  "reason": "2026年横浜展は終了しており次回開催日は未定と案内されている。モビリティDXや車載ソフトウェア・IT・センサ技術に関する展示が含まれるため次回開催分として抽出。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：人とくるまのテクノロジー展 2025（横浜））"
    }
   ]
  }
