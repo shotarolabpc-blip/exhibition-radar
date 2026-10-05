@@ -116,3 +116,16 @@ def test_enrich_events_indexes() -> None:
     c = client(Script(json.dumps([{"index": 1, "relevant": False}, {"index": 0, "relevant": True, "categories": ["AI・DX"]}, {"bad": 1}])))
     result = c.enrich_events(raws, ["AI・DX"])
     assert set(result) == {0, 1} and result[1]["relevant"] is False
+
+
+def test_time_budget_stops_calls(monkeypatch) -> None:
+    import collector.gemini_client as gc
+
+    now = [1000.0]
+    monkeypatch.setattr(gc.time, "monotonic", lambda: now[0])
+    c = client(Script(json.dumps([]), json.dumps([])), time_budget_minutes=1)
+    c.extract_events(PAGE, PERIOD, [])
+    now[0] += 61
+    assert not c.available
+    with pytest.raises(GeminiUnavailable, match="時間上限"):
+        c.extract_events(PAGE, PERIOD, [])

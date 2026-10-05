@@ -102,6 +102,9 @@ class GeminiClient:
         self.max_requests = int(cfg.get("max_requests_per_run", 150))
         self.sleep_sec = float(cfg.get("sleep_sec", 5))
         self.max_input_chars = int(cfg.get("max_input_chars", 12000))
+        self.timeout_sec = float(cfg.get("request_timeout_sec", 60))
+        budget = float(cfg.get("time_budget_minutes", 0)) * 60
+        self._deadline = time.monotonic() + budget if budget > 0 else None
         self.model = os.environ.get(cfg.get("model_env", "GEMINI_MODEL"), "")
         api_key = os.environ.get(cfg.get("api_key_env", "GEMINI_API_KEY"), "")
         self.requests_made = 0
@@ -116,18 +119,22 @@ class GeminiClient:
         elif not api_key or not self.model:
             self.disabled_reason = "GEMINI_API_KEY / GEMINI_MODEL が未設定"
         else:
-            self._transport = self._make_transport(api_key, self.model)
+            self._transport = self._make_transport(api_key, self.model, self.timeout_sec)
+
+    @property
+    def out_of_time(self) -> bool:
+        return self._deadline is not None and time.monotonic() > self._deadline
 
     @property
     def available(self) -> bool:
-        return not self.disabled_reason and not self.exhausted and self.requests_made < self.max_requests
+        return not self.disabled_reason and not self.exhausted and self.requests_made < self.max_requests and not self.out_of_time
 
     @staticmethod
-    def _make_transport(api_key: str, model: str) -> Transport:
+    def _make_transport(api_key: str, model: str, timeout_sec: float) -> Transport:
         from google import genai
         from google.genai import errors, types
 
-        client = genai.Client(api_key=api_key)
+        client = genai.Client(api_key=api_key, http_options=types.HttpOptions(timeout=int(timeout_sec * 1000)))
 
         def call(prompt: str, schema: dict[str, Any]) -> str:
             try:
@@ -148,15 +155,23 @@ class GeminiClient:
 
         return call
 
+    @property
+    def unavailable_reason(self) -> str:
+        if self.exhausted:
+            return "枠切れ"
+        if self.out_of_time:
+            return "時間上限（time_budget_minutes）に到達"
+        return "1回あたりの上限に到達"
+
     def _call(self, prompt: str, schema: dict[str, Any]) -> Any:
         """JSONを返す。JSON不正は1回だけ再試行。429は指数バックオフ（3回）後に枠切れ扱い。"""
         if not self.available:
-            raise GeminiUnavailable(self.disabled_reason or ("枠切れ" if self.exhausted else "1回あたりの上限に到達"))
+            raise GeminiUnavailable(self.disabled_reason or self.unavailable_reason)
         parse_attempts = 0
         backoff = 0
         while True:
             if not self.available:
-                raise GeminiUnavailable("1回あたりの上限に到達")
+                raise GeminiUnavailable(self.unavailable_reason)
             wait = self.sleep_sec - (time.monotonic() - self._last_call)
             if self._last_call and wait > 0:
                 self._sleep(wait)

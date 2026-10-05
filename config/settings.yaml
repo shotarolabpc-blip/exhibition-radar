@@ -20,6 +20,8 @@ gemini:
   max_requests_per_run: 150
   sleep_sec: 5
   max_input_chars: 12000
+  request_timeout_sec: 60          # 1回の呼び出しのタイムアウト
+  time_budget_minutes: 40          # Gemini処理に使う時間の上限。超えたら残りは次回に持ち越し、結果は保存する
 
 judge:
   keyword_score_threshold: 40
