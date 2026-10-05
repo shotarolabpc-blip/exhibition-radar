@@ -4,8 +4,7 @@ period:
   archive_after_days: 30
 
 fetch:
-  # <GitHubユーザー名> は公開時に置き換える（README参照）
-  user_agent: "exhibition-radar/1.0 (+https://<GitHubユーザー名>.github.io/exhibition-radar/)"
+  user_agent: "exhibition-radar/1.0 (+https://shotarolabpc-blip.github.io/exhibition-radar/)"
   interval_sec: 2
   timeout_sec: 20
   retries: 3
