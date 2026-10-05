@@ -1,0 +1,2607 @@
+[
+ {
+  "id": "evt_1ab3273c",
+  "event_name": "Factory Innovation Week 2024",
+  "parent_event_name": "Factory Innovation Week 2024",
+  "sub_event_name": "",
+  "start_date": "2024-01-24",
+  "end_date": "2024-01-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "製造の「デジタル化」を実現する「スマート工場 EXPO」、「自動化」を実現する「ロボデックス」、「脱炭素化」を実現する「グリーンファクトリー EXPO」の3展",
+  "url": "https://www.fiweek.jp/tokyo/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_69259bfd",
+  "event_name": "オートモーティブ ワールド 東京展",
+  "parent_event_name": "オートモーティブ ワールド 東京展",
+  "sub_event_name": "",
+  "start_date": "2024-01-24",
+  "end_date": "2024-01-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "コネクティッド、自動運転、電動化、シェアリングなどCASEを網羅",
+  "url": "https://www.automotiveworld.jp/nagoya/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7dc5acc7",
+  "event_name": "スマート物流 EXPO",
+  "parent_event_name": "スマート物流 EXPO",
+  "sub_event_name": "",
+  "start_date": "2024-01-24",
+  "end_date": "2024-01-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "スマート物流を実現するためのIoT・ITシステム、AI、ロボット、物流設備などを扱う出展社と自動化・省人化・デジタル化を目指す物流業や製造業",
+  "url": "https://www.smart-logistic.jp/tokyo/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_a7b6240b",
+  "event_name": "ウェアラブルEXPO",
+  "parent_event_name": "ウェアラブルEXPO",
+  "sub_event_name": "",
+  "start_date": "2024-01-24",
+  "end_date": "2024-01-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "最新ウェアラブルデバイス開発のための部品・材料まで、ウェアラブルに関する全てが出展",
+  "url": "https://www.wearable-expo.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d8212b17",
+  "event_name": "TOKYO XR・メタバース&コンテンツビジネスワールド",
+  "parent_event_name": "TOKYO XR・メタバース&コンテンツビジネスワールド",
+  "sub_event_name": "",
+  "start_date": "2024-01-26",
+  "end_date": "2024-01-28",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "XR・メタバース関連の事業者やコンテンツ関連の事業者が一堂に会する展示会。",
+  "url": "https://xr-meta-biz.tokyo/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0d03e795",
+  "event_name": "IIFES 2024 - オートメーションと計測の先端技術総合展",
+  "parent_event_name": "IIFES 2024",
+  "sub_event_name": "オートメーションと計測の先端技術総合展",
+  "start_date": "2024-01-31",
+  "end_date": "2024-02-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "電機・計測・工業向けの技術・ソリューション",
+  "url": "https://iifes.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_fb91f75c",
+  "event_name": "MEMSセンシング&ネットワークシステム展2024",
+  "parent_event_name": "MEMSセンシング&ネットワークシステム展2024",
+  "sub_event_name": "",
+  "start_date": "2024-01-31",
+  "end_date": "2024-02-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "IoTビジネスを加速するセンシング×ネットワークシステムの最先端技術展。",
+  "url": "https://www.optojapan.jp/mems/ja/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_693a7314",
+  "event_name": "【愛媛県】しまなみ近未来フェア",
+  "parent_event_name": "【愛媛県】しまなみ近未来フェア",
+  "sub_event_name": "",
+  "start_date": "2024-02-03",
+  "end_date": "2024-02-03",
+  "date_status": "fixed",
+  "venue": "テクスポート今治",
+  "prefecture": "愛媛県",
+  "region": "中国・四国",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "ドローン、AI・IoT、自動運転、次世代モビリティ等の近未来技術",
+  "url": "https://www.city.imabari.ehime.jp/simingamannaka/kinmirai/event/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f5da059f",
+  "event_name": "テクニカルショウヨコハマ2024",
+  "parent_event_name": "テクニカルショウヨコハマ2024",
+  "sub_event_name": "",
+  "start_date": "2024-02-07",
+  "end_date": "2024-02-09",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "素材・部品・研究開発・製造・ITおよび環境問題のハードとソフトが一堂に会する工業技術・製品の総合見本市",
+  "url": "https://www.tech-yokohama.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4f25b7fb",
+  "event_name": "ビジネスイノベーション Japan 2024【春】",
+  "parent_event_name": "ビジネスイノベーション Japan 2024【春】",
+  "sub_event_name": "",
+  "start_date": "2024-02-20",
+  "end_date": "2024-02-22",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "VUCA・ニューノーマル時代に直面する企業の経営課題を解決するための多彩なソリューションが一堂に集う総合展示会",
+  "url": "https://www.bizcrew.jp/expo/bij-tokyo",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7277f671",
+  "event_name": "DX 総合EXPO 2024 春 東京",
+  "parent_event_name": "DX 総合EXPO 2024 春 東京",
+  "sub_event_name": "",
+  "start_date": "2024-02-20",
+  "end_date": "2024-02-22",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "日本最大級のDX化を実現するための展示会。",
+  "url": "https://www.bizcrew.jp/expo/dx-tokyo",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_94a6d548",
+  "event_name": "Japan Web3 Week 2024【春】",
+  "parent_event_name": "Japan Web3 Week 2024【春】",
+  "sub_event_name": "",
+  "start_date": "2024-02-20",
+  "end_date": "2024-02-22",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "ブロックチェーン・NFT・メタバース・Web3コンサルティングなどが一堂に出展。",
+  "url": "https://www.bizcrew.jp/expo/web3-tokyo",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_962c118b",
+  "event_name": "スマートファクトリーJapan 2024",
+  "parent_event_name": "スマートファクトリーJapan 2024",
+  "sub_event_name": "",
+  "start_date": "2024-02-20",
+  "end_date": "2024-02-22",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "生産管理・製造現場の先進化・効率化のため製造業のDX推進に関わる技術・製品の展示",
+  "url": "https://biz.nikkan.co.jp/eve/smart-factory/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_deacdd88",
+  "event_name": "第2回 AI World【春】",
+  "parent_event_name": "第2回 AI World【春】",
+  "sub_event_name": "",
+  "start_date": "2024-02-20",
+  "end_date": "2024-02-22",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "ビジネス変革・業務効率化を加速する最新のAIソリューションが一堂に集う展示会",
+  "url": "https://www.bizcrew.jp/expo/bij-tokyo-ai",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_fed2b113",
+  "event_name": "CP＋（シーピープラス）2024",
+  "parent_event_name": "CP＋（シーピープラス）2024",
+  "sub_event_name": "",
+  "start_date": "2024-02-22",
+  "end_date": "2024-02-25",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "映像・放送"
+  ],
+  "summary": "最新の写真・映像機器製品や技術、サービスを紹介し、写真・映像機器産業の未来を伝える世界最大級のショー",
+  "url": "https://www.cpplus.jp/outline/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0a799868",
+  "event_name": "リテールテックJAPAN2024",
+  "parent_event_name": "リテールテックJAPAN2024",
+  "sub_event_name": "",
+  "start_date": "2024-03-12",
+  "end_date": "2024-03-15",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "POSやAIなど最先端の流通・小売業向け情報システムが集まる国内最大級の展示会。",
+  "url": "https://messe.nikkei.co.jp/rt/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_39c38615",
+  "event_name": "第7回 介護テクノロジー展",
+  "parent_event_name": "第7回 介護テクノロジー展",
+  "sub_event_name": "",
+  "start_date": "2024-03-12",
+  "end_date": "2024-03-14",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "介護に役立つ先端テクノロジーが一堂に集結",
+  "url": "https://caretech.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b7b08db0",
+  "event_name": "建築・建材展2024",
+  "parent_event_name": "建築・建材展2024",
+  "sub_event_name": "",
+  "start_date": "2024-03-12",
+  "end_date": "2024-03-15",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "住宅・店舗・ビル向け各種建材や設備機器、ソフト、工法などを紹介する建築総合展。",
+  "url": "https://messe.nikkei.co.jp/ac/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_cef3b94a",
+  "event_name": "SECURITY SHOW 2024",
+  "parent_event_name": "SECURITY SHOW 2024",
+  "sub_event_name": "",
+  "start_date": "2024-03-12",
+  "end_date": "2024-03-14",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "セキュリティ"
+  ],
+  "summary": "国内最大級のセキュリティ・安全管理総合展",
+  "url": "https://messe.nikkei.co.jp/ss/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_24a1ef51",
+  "event_name": "ものづくり ワールド 名古屋",
+  "parent_event_name": "ものづくり ワールド 名古屋",
+  "sub_event_name": "",
+  "start_date": "2024-04-10",
+  "end_date": "2024-04-12",
+  "date_status": "fixed",
+  "venue": "ポートメッセなごや",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "IoTプラットフォーム、AIソリューション、セキュリティ、通信機器など製造業向けIoT・AIソリューションが出展する展示会",
+  "url": "https://www.manufacturing-world.jp/nagoya/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ee2777d3",
+  "event_name": "Sea Japan 2024",
+  "parent_event_name": "Sea Japan 2024",
+  "sub_event_name": "",
+  "start_date": "2024-04-10",
+  "end_date": "2024-04-12",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本最大の国際海事展（港湾設備・港湾サービス／通信機器／ロボット・ドローン／ソフトウェア／セキュリティ）",
+  "url": "https://www.seajapan.ne.jp/aboutseajapan/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_400b89b6",
+  "event_name": "Medtec Japan",
+  "parent_event_name": "Medtec Japan",
+  "sub_event_name": "",
+  "start_date": "2024-04-17",
+  "end_date": "2024-04-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "医療機器の設計・製造に関する国内唯一の展示会・セミナー",
+  "url": "https://medtecjapan.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5c364d35",
+  "event_name": "ファーマIT＆デジタルヘルス エキスポ 2024",
+  "parent_event_name": "ファーマIT＆デジタルヘルス エキスポ 2024",
+  "sub_event_name": "",
+  "start_date": "2024-04-17",
+  "end_date": "2024-04-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "製薬業界におけるデジタル活用を推進、業界の未来創造とQOLを向上するための展示会。",
+  "url": "https://www.pharmait-expo.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2ba25162",
+  "event_name": "Japan IT Week【春】",
+  "parent_event_name": "Japan IT Week【春】",
+  "sub_event_name": "",
+  "start_date": "2024-04-24",
+  "end_date": "2024-04-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本最大のIT・DX展示会",
+  "url": "https://www.japan-it.jp/spring/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b63c55d5",
+  "event_name": "第１回 観光DX・マーケティングEXPO",
+  "parent_event_name": "第１回 観光DX・マーケティングEXPO",
+  "sub_event_name": "",
+  "start_date": "2024-05-08",
+  "end_date": "2024-05-10",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "観光事業者（ホテル・旅館・観光地 など）の課題を一挙に解決する 「稼ぐ観光」 を実現する展示会",
+  "url": "https://www.itt-show.jp/tokyo/ja-jp/about/dx.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_91ed5f97",
+  "event_name": "第28回 自治体総合フェア 2024",
+  "parent_event_name": "第28回 自治体総合フェア 2024",
+  "sub_event_name": "",
+  "start_date": "2024-05-15",
+  "end_date": "2024-05-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "複雑かつ高度化する地域の社会課題解決に向けて、地方自治体と企業・団体・地域による連携促進を目指す公民連携の展示会。",
+  "url": "https://www.noma-lgf.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5555680e",
+  "event_name": "第6回 建設・測量生産性向上展 (CSPI-EXPO 2024)",
+  "parent_event_name": "第6回 建設・測量生産性向上展 (CSPI-EXPO 2024)",
+  "sub_event_name": "",
+  "start_date": "2024-05-22",
+  "end_date": "2024-05-24",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "建設業界・測量業界の次世代を担う、建機・重機・アタッチメント・建設DX・i-Constructionなど、進化し続ける業界最先端の製品・技術・サービスが一堂に集結",
+  "url": "https://cspi-expo.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_98ae83b7",
+  "event_name": "次世代ものづくり基盤技術産業展 2024",
+  "parent_event_name": "次世代ものづくり基盤技術産業展 2024",
+  "sub_event_name": "",
+  "start_date": "2024-05-22",
+  "end_date": "2024-05-23",
+  "date_status": "fixed",
+  "venue": "吹上ホール",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "AI・IoT・DX関連技術・製品、脱炭素に対する技術・製品・サービス ほか",
+  "url": "https://www.techbizexpo.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ff476592",
+  "event_name": "Nextech Week 【春】",
+  "parent_event_name": "Nextech Week 【春】",
+  "sub_event_name": "",
+  "start_date": "2024-05-22",
+  "end_date": "2024-05-24",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AI・人工知能EXPO、ブロックチェーンEXPO、量子コンピューティングEXPO、デジタル人材育成支援EXPOの4つのEXPOで構成される、次世代を担う最新のテクノロジーと、DXの推進に不可欠なDX人材育成関連サービスの展示会",
+  "url": "https://www.nextech-week.jp/spring/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5aefd9b7",
+  "event_name": "ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク",
+  "parent_event_name": "ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク",
+  "sub_event_name": "",
+  "start_date": "2024-05-29",
+  "end_date": "2024-05-31",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "ワイヤレス関連ソリューションをPRする場、また協創を加速する場として国内最大級のワイヤレス専門展示会",
+  "url": "https://www8.ric.co.jp/expo/wj/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_856a7ef5",
+  "event_name": "運輸安全・物流DX EXPO 2024",
+  "parent_event_name": "運輸安全・物流DX EXPO 2024",
+  "sub_event_name": "",
+  "start_date": "2024-05-29",
+  "end_date": "2024-05-31",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "運輸・物流業界の様々な悩みや困りごとを解消する製品／サービス／ソリューションが一堂に会する展示会です。",
+  "url": "https://www.truckexpo.jp/2024/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_58a6c45b",
+  "event_name": "ODEX 第4回 デジタル化・DX推進展",
+  "parent_event_name": "ODEX 第4回 デジタル化・DX推進展",
+  "sub_event_name": "",
+  "start_date": "2024-05-30",
+  "end_date": "2024-05-31",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "デジタル化を推進したい自治体と、新たなセールス方式の構築、社内DXによる業務効率化、テレワーク×オフィスワークのハイブリッドワークを実現したい企業に向けたBtoB展示会",
+  "url": "https://odex-telex.jp/lp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2a95d5fe",
+  "event_name": "Japan Drone / 次世代エアモビリティEXPO",
+  "parent_event_name": "Japan Drone / 次世代エアモビリティEXPO",
+  "sub_event_name": "",
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-07",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "ドローンに特化した国内最大規模の専門展示会",
+  "url": "https://ssl.japan-drone.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_86924add",
+  "event_name": "AXIA EXPO2024",
+  "parent_event_name": "AXIA EXPO2024",
+  "sub_event_name": "",
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-07",
+  "date_status": "fixed",
+  "venue": "Aichi Sky Expo",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "スマートシティ実現に向けて欠かせない、次世代通信による未来の展示会。5G・6Gの実装に向けたインフラ基盤やデータセンター、また5G・6Gで加速する技術やサービス産業を中心とした展示会",
+  "url": "https://axia-expo.nikkan.co.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6c1f4912",
+  "event_name": "電子機器トータルソリューション展",
+  "parent_event_name": "電子機器トータルソリューション展",
+  "sub_event_name": "",
+  "start_date": "2024-06-12",
+  "end_date": "2024-06-14",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "あらゆる電子・情報通信・制御機器に使用される電子回路・実装技術や、用途の広がりを見せるセンサー・E-Textile（ウェアラブル技術）等の新しいコンテンツとソリューション等の展示",
+  "url": "https://www.jpcashow.com/show2024/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_9c0a9e16",
+  "event_name": "Interop 24 Tokyo",
+  "parent_event_name": "Interop 24 Tokyo",
+  "sub_event_name": "",
+  "start_date": "2024-06-12",
+  "end_date": "2024-06-14",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "インターネットテクノロジーのイベント。毎年国内外から数百の企業・団体が参加し、技術動向とビジネス活用のトレンドを、会場でのデモンストレーションやセミナーを通じて紹介。",
+  "url": "https://www.interop.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bb8d652a",
+  "event_name": "画像センシング展2024",
+  "parent_event_name": "画像センシング展2024",
+  "sub_event_name": "",
+  "start_date": "2024-06-12",
+  "end_date": "2024-06-14",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "AI・ディープラーニング／クラウド・5G・ 6G・通信／IoT・エッジコンピューティング／VR・AR・MR／自動化システム・RPAの最新技術をご紹介する【デジタルソリューションズゾーン】を特設",
+  "url": "https://www.adcom-media.co.jp/iss/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_232b2258",
+  "event_name": "【福岡県】九州 都市開発・建設総合展2024",
+  "parent_event_name": "【福岡県】九州 都市開発・建設総合展2024",
+  "sub_event_name": "",
+  "start_date": "2024-06-19",
+  "end_date": "2024-06-20",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "都市開発や建設現場における「資材」「技術」「工法」「管理」「対策」の最新の製品・技術サービス",
+  "url": "https://www.jma.or.jp/toshiken/ksh/index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7994282e",
+  "event_name": "ものづくり ワールド [東京]",
+  "parent_event_name": "ものづくり ワールド [東京]",
+  "sub_event_name": "",
+  "start_date": "2024-06-19",
+  "end_date": "2024-06-21",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "日本最大級の製造業の展示会",
+  "url": "https://www.manufacturing-world.jp/tokyo/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_104052f9",
+  "event_name": "自治体・公共Week",
+  "parent_event_name": "自治体・公共Week",
+  "sub_event_name": "",
+  "start_date": "2024-06-26",
+  "end_date": "2024-06-28",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "自治体・公共向けの６つの専門展で構成された展示会。",
+  "url": "https://www.publicweek.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7a9e9258",
+  "event_name": "COMNEXT 次世代通信技術＆ソリューション展",
+  "parent_event_name": "COMNEXT 次世代通信技術＆ソリューション展",
+  "sub_event_name": "",
+  "start_date": "2024-06-26",
+  "end_date": "2024-06-28",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "6Gをはじめ、次世代の通信技術・ソリューションが集結する国際展示会",
+  "url": "https://www.cbw-expo.jp/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2e72fb0d",
+  "event_name": "第11回 先端デジタルテクノロジー展",
+  "parent_event_name": "第11回 先端デジタルテクノロジー展",
+  "sub_event_name": "",
+  "start_date": "2024-07-03",
+  "end_date": "2024-07-05",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "映像・放送"
+  ],
+  "summary": "最新のディスプレイ技術やインタラクティブコンテンツ、サウンドテクノロジーなど表現技術の最先端テクノロジーが出展",
+  "url": "https://www.content-tokyo.jp/hub/ja-jp/about/next.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_94465585",
+  "event_name": "西日本製造技術イノベーション2024",
+  "parent_event_name": "西日本製造技術イノベーション2024",
+  "sub_event_name": "",
+  "start_date": "2024-07-03",
+  "end_date": "2024-07-05",
+  "date_status": "fixed",
+  "venue": "西日本総合展示場",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "製造現場の自動化や見える化、生産性向上といったキーワードをもとに産業用ロボット、生産管理システム、機械要素等を一堂に集めた展示会",
+  "url": "https://innov-w.solution-expo.jp/gaiyo.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_a710da44",
+  "event_name": "第4回 XR総合展【夏】",
+  "parent_event_name": "第4回 XR総合展【夏】",
+  "sub_event_name": "",
+  "start_date": "2024-07-03",
+  "end_date": "2024-07-05",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "製造・建設・不動産・医療・エンタメなど幅広い業界で活用できるXR製品・サービスが一堂に出展",
+  "url": "https://www.xr-fair.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bdefc92a",
+  "event_name": "西日本DX推進フェア2024",
+  "parent_event_name": "西日本DX推進フェア2024",
+  "sub_event_name": "",
+  "start_date": "2024-07-03",
+  "end_date": "2024-07-05",
+  "date_status": "fixed",
+  "venue": "西日本総合展示場",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "無線・通信",
+   "AI・DX"
+  ],
+  "summary": "最先端のデジタル技術を用いることによる生産性の向上、イノベーションの創出、新たな価値の創造を目指すデジタルトランスフォーメーション(DX)の展示会",
+  "url": "https://dxf.solution-expo.jp/gaiyo.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_da2087ed",
+  "event_name": "メタバース総合展 meta NEXT",
+  "parent_event_name": "メタバース総合展 meta NEXT",
+  "sub_event_name": "",
+  "start_date": "2024-07-03",
+  "end_date": "2024-07-05",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "メタバースを活用・実現するサービス・技術が一堂に出展し、最新技術を体験できる展示会。",
+  "url": "https://www.metaverse-expo.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_dfd941f9",
+  "event_name": "ROBOT TECHNOLOGY JAPAN 2024",
+  "parent_event_name": "ROBOT TECHNOLOGY JAPAN 2024",
+  "sub_event_name": "",
+  "start_date": "2024-07-04",
+  "end_date": "2024-07-06",
+  "date_status": "fixed",
+  "venue": "Aichi Sky Expo",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "製造業など産業集積地「中部」で開催する国内最大級のB to B 展示会、出展対象を製造現場や物流拠点で使用される「産業用ロボット」や産業用ロボットを組み込んだ装置・機器、AGV/AMRなどの無人搬送を利用した「自動化システム」に特化",
+  "url": "https://robot-technology.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_90baf597",
+  "event_name": "人とくるまのテクノロジー展 2024 NAGOYA",
+  "parent_event_name": "人とくるまのテクノロジー展 2024 NAGOYA",
+  "sub_event_name": "",
+  "start_date": "2024-07-17",
+  "end_date": "2024-07-19",
+  "date_status": "fixed",
+  "venue": "Aichi Sky Expo",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "",
+  "url": "https://aee.expo-info.jsae.or.jp/ja/nagoya/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_77f604f0",
+  "event_name": "メンテナンス・レジリエンス TOKYO2024",
+  "parent_event_name": "メンテナンス・レジリエンス TOKYO2024",
+  "sub_event_name": "",
+  "start_date": "2024-07-24",
+  "end_date": "2024-07-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "製造業・建設業の生産性向上、持続可能な社会資本整備、レジリエンス向上を目指し、複数の専門展示会を同時開催",
+  "url": "https://mente.jma.or.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_87dfd67b",
+  "event_name": "スマートアグリ ジャパン スマート農業機器・技術展",
+  "parent_event_name": "スマートアグリ ジャパン スマート農業機器・技術展",
+  "sub_event_name": "",
+  "start_date": "2024-07-24",
+  "end_date": "2024-07-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "スマート農業技術、施設園芸・果樹用ロボット・ドローン、栽培・育成管理システム、農業参入・営農支援、スタートアップ企業など、施設園芸・植物工場における「スマート化」に係わる製品・技術やサービスが一堂に集まる専門展示会。",
+  "url": "https://www.gpec.jp/saj/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d83f7253",
+  "event_name": "TECHNO-FRONTIER 2024",
+  "parent_event_name": "TECHNO-FRONTIER 2024",
+  "sub_event_name": "",
+  "start_date": "2024-07-24",
+  "end_date": "2024-07-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "協働ロボット、要素・システム、シミュレーション、ビジョン、AI関連、ロボットシステムインテグレータ",
+  "url": "https://www.jma.or.jp/tf/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8a79365d",
+  "event_name": "第1回 CareTEX東京’24【夏】",
+  "parent_event_name": "第1回 CareTEX東京’24【夏】",
+  "sub_event_name": "",
+  "start_date": "2024-07-30",
+  "end_date": "2024-08-01",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "介護業界 日本最大級の商談展示会。",
+  "url": "https://summer.caretex.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_9edbcc35",
+  "event_name": "Factory Innovation Week［秋］2024",
+  "parent_event_name": "Factory Innovation Week［秋］2024",
+  "sub_event_name": "",
+  "start_date": "2024-09-04",
+  "end_date": "2024-09-06",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "製造の「デジタル化」を実現する「スマート工場 EXPO」、「自動化」を実現する「ロボデックス」、「脱炭素化」を実現する「グリーンファクトリー EXPO」の3展により構成。",
+  "url": "https://www.fiweek.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b271f443",
+  "event_name": "オートモーティブ ワールド 東京展",
+  "parent_event_name": "オートモーティブ ワールド 東京展",
+  "sub_event_name": "",
+  "start_date": "2024-09-04",
+  "end_date": "2024-09-06",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "クルマの先端テーマの最新技術が一堂に出展。スマート工場、ロボット、燃料電池、蓄電池に関する展示会を同時開催",
+  "url": "https://www.automotiveworld.jp/nagoya/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_11b03d91",
+  "event_name": "国際フロンティア産業メッセ2024",
+  "parent_event_name": "国際フロンティア産業メッセ2024",
+  "sub_event_name": "",
+  "start_date": "2024-09-05",
+  "end_date": "2024-09-06",
+  "date_status": "fixed",
+  "venue": "神戸国際展示場",
+  "prefecture": "兵庫県",
+  "region": "近畿",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "最先端の技術や製品、サービス等を有する企業、大学、研究機関をはじめとした様々な産業分野のフロンティアで活躍する出展者が集まる展示会",
+  "url": "https://www.kobemesse.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_75608aa3",
+  "event_name": "国際物流総合展 INNOVATION EXPO 2024",
+  "parent_event_name": "国際物流総合展 INNOVATION EXPO 2024",
+  "sub_event_name": "",
+  "start_date": "2024-09-10",
+  "end_date": "2024-09-13",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "物流・ロジスティクスの先進情報が収集できる専門展示会。",
+  "url": "https://www.logis-tech-tokyo.gr.jp/ltt/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_74481ca3",
+  "event_name": "第26回 自動認識総合展",
+  "parent_event_name": "第26回 自動認識総合展",
+  "sub_event_name": "",
+  "start_date": "2024-09-11",
+  "end_date": "2024-09-13",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "国内唯一の自動認識技術、ソリューションの専門展示会。",
+  "url": "https://www.autoid-expo.com/tokyo/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1e5a1ab5",
+  "event_name": "SENSOR EXPO JAPAN センサエキスポジャパン 2024",
+  "parent_event_name": "SENSOR EXPO JAPAN センサエキスポジャパン 2024",
+  "sub_event_name": "",
+  "start_date": "2024-09-18",
+  "end_date": "2024-09-20",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "センサをはじめとした電子部品やデバイスから完成品、実装される装置、それらを活用するサービスなどの、先進的な製品・技術・情報を集めると同時に、次世代につながる最新のテクノロジーを発信。",
+  "url": "https://www.sensorexpojapan.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_dedd298f",
+  "event_name": "Japan Robot Week 2024",
+  "parent_event_name": "Japan Robot Week 2024",
+  "sub_event_name": "",
+  "start_date": "2024-09-18",
+  "end_date": "2024-09-20",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "ロボットおよびサービスロボット導入に向けた専門展。",
+  "url": "https://biz.nikkan.co.jp/eve/s-robot/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_20a4a563",
+  "event_name": "第7回 病院EXPO [東京]",
+  "parent_event_name": "第7回 病院EXPO [東京]",
+  "sub_event_name": "",
+  "start_date": "2024-10-09",
+  "end_date": "2024-10-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "病院に必要な設備・医療機器・ITシステム・サービスが一堂に出展する専門展。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp/hos.html?co=tokyo_fv",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_212184b9",
+  "event_name": "第7回 介護&看護 EXPO [東京]",
+  "parent_event_name": "第7回 介護&看護 EXPO [東京]",
+  "sub_event_name": "",
+  "start_date": "2024-10-09",
+  "end_date": "2024-10-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "介護ICT・介護/福祉機器から人材サービスが出展する介護の展示会。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp/ns.html?co=tokyo_fv",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_956f1a0b",
+  "event_name": "JAGRI（旧：農業WEEK）",
+  "parent_event_name": "JAGRI（旧：農業WEEK）",
+  "sub_event_name": "",
+  "start_date": "2024-10-09",
+  "end_date": "2024-10-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本最大の農業・畜産の展示会。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0162d14d",
+  "event_name": "CEATEC 2024",
+  "parent_event_name": "CEATEC 2024",
+  "sub_event_name": "",
+  "start_date": "2024-10-15",
+  "end_date": "2024-10-18",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本最大のIT展示会",
+  "url": "https://www.ceatec.com/ja/application/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8e36fa03",
+  "event_name": "九州アグロイノベーション2024",
+  "parent_event_name": "九州アグロイノベーション2024",
+  "sub_event_name": "",
+  "start_date": "2024-10-23",
+  "end_date": "2024-10-24",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "農業の活性化をテーマとした展示会",
+  "url": "https://agri-food.jma.or.jp/kyushu/index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d17fb709",
+  "event_name": "スマート工場EXPO",
+  "parent_event_name": "スマート工場EXPO",
+  "sub_event_name": "",
+  "start_date": "2024-10-23",
+  "end_date": "2024-10-25",
+  "date_status": "fixed",
+  "venue": "ポートメッセなごや",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "中部最大級の規模で開催する製造業の展示会",
+  "url": "https://www.fiweek.jp/nagoya/ja-jp/lp/visit/sfe.html?msclkid=8b1e9bb8ad4c1a841700fd4c54fb8c69",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e65e5565",
+  "event_name": "Japan DX Week",
+  "parent_event_name": "Japan DX Week",
+  "sub_event_name": "",
+  "start_date": "2024-10-23",
+  "end_date": "2024-10-25",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "日本最大級のDX総合展",
+  "url": "",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_733dda54",
+  "event_name": "ローカル5Gサミット2024",
+  "parent_event_name": "ローカル5Gサミット2024",
+  "sub_event_name": "",
+  "start_date": "2024-10-30",
+  "end_date": "2024-10-30",
+  "date_status": "fixed",
+  "venue": "御茶ノ水ソラシティ カンファレンスセンター",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "ローカル5Gの講演(東大 中尾先生等)と12社の展示",
+  "url": "https://www.ric.co.jp/expo/local5g2024/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_3108d7d6",
+  "event_name": "NexTech Week 2024【秋】",
+  "parent_event_name": "NexTech Week 2024【秋】",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "「ＡI」「ブロックチェーン」「量子コンピュータ」の最新テクノロジーに関する３つの展示会と、DXを推進するために不可欠な「デジタル人材の育成を支援」する製品・サービスが出展する展示会",
+  "url": "https://www.nextech-week.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_759bb032",
+  "event_name": "第12回 先端デジタルテクノロジー展",
+  "parent_event_name": "第12回 先端デジタルテクノロジー展",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "映像・放送"
+  ],
+  "summary": "最新のディスプレイ技術やインタラクティブコンテンツ、サウンドテクノロジーなど表現技術の最先端テクノロジーが出展",
+  "url": "https://www.content-tokyo.jp/hub/ja-jp/about/next.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b1c3b20a",
+  "event_name": "NTT R＆Dフォーラム",
+  "parent_event_name": "NTT R＆Dフォーラム",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "NTT武蔵野研究開発センタ",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "",
+  "url": "",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込（URLなし）",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bfcb6444",
+  "event_name": "第4回 XR総合展 【秋】",
+  "parent_event_name": "第4回 XR総合展 【秋】",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "製造・建設・不動産・医療・エンタメなど幅広い業界で活用できるXR製品・サービスが一堂に出展",
+  "url": "https://www.xr-fair.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_cabba672",
+  "event_name": "第5回 AI・人工知能 EXPO【秋】",
+  "parent_event_name": "第5回 AI・人工知能 EXPO【秋】",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "下半期日本最大、AI技術の専門展示会です。製造、物流、金融、流通など、様々な業種に向けた最新のAI技術（生成AI、チャットボット、ディープラーニング、自然言語処理、画像認識など）が集結します。",
+  "url": "https://www.nextech-week.jp/hub/ja-jp/visit/ai.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e360b1b5",
+  "event_name": "メタバース総合展 meta NEXT",
+  "parent_event_name": "メタバース総合展 meta NEXT",
+  "sub_event_name": "",
+  "start_date": "2024-11-20",
+  "end_date": "2024-11-22",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "メタバースを活用・実現するサービス・技術が一堂に出展し、最新技術を体験できる展示会。",
+  "url": "https://www.metaverse-expo.jp/hub/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_caae1cc3",
+  "event_name": "マイクロウェーブ展 2024",
+  "parent_event_name": "マイクロウェーブ展 2024",
+  "sub_event_name": "",
+  "start_date": "2024-11-27",
+  "end_date": "2024-11-29",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "IoT・センサ"
+  ],
+  "summary": "マイクロ波技術関連の学術、産業、教育に関する国内最大級のイベント ※レベルが高い",
+  "url": "https://apmc-mwe.org/mwe2024/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_c9ef7b06",
+  "event_name": "第6回 CareTEX名古屋 2025 -【名古屋】介護用品展 /【名古屋】介護施設産業展 /【名古屋】介護施設ソリューション展",
+  "parent_event_name": "第6回 CareTEX名古屋 2025 -【名古屋】介護用品展 /【名古屋】介護施設産業展 /【名古屋】介護施設ソリューション展",
+  "sub_event_name": "",
+  "start_date": "2024-12-04",
+  "end_date": "2024-12-05",
+  "date_status": "fixed",
+  "venue": "吹上ホール",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "介護用品・設備からリハビリ機器・ロボット・システム・見守り・介護食まで介護施設・介護現場で役立つ新商品・サービスを一堂に展示",
+  "url": "https://nagoya.caretex.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5d0dcad9",
+  "event_name": "横浜ロボットワールド2024",
+  "parent_event_name": "横浜ロボットワールド2024",
+  "sub_event_name": "",
+  "start_date": "2024-12-05",
+  "end_date": "2024-12-06",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "ロボットや次世代モビリティ、宇宙ビジネスの開発・導入を促進する専門技術展です。",
+  "url": "https://www.srobo.jp/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4ab78457",
+  "event_name": "JAPAN BUILD TOKYO",
+  "parent_event_name": "JAPAN BUILD TOKYO",
+  "sub_event_name": "",
+  "start_date": "2024-12-11",
+  "end_date": "2024-12-13",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "建材、住宅設備、ビル管理・運用システム、リノベーション技術、AI・IoT関連技術、不動産テック、建設DX、建物の脱炭素化などが世界中から出展",
+  "url": "https://www.japan-build.jp/tokyo/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7b1f6525",
+  "event_name": "第2回 ものづくり ワールド [九州]",
+  "parent_event_name": "第2回 ものづくり ワールド [九州]",
+  "sub_event_name": "",
+  "start_date": "2024-12-11",
+  "end_date": "2024-12-13",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "IT、DX製品、部品、設備、装置、計測製品などを扱う企業が出展し、製造業の設計、開発、製造、生産技術、購買、情報システム部門の方々と活発に商談が行われる展示会",
+  "url": "https://www.manufacturing-world.jp/kyushu/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2024",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ }
+]

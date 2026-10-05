@@ -1,0 +1,36 @@
+period:
+  months_ahead: 5
+  include_unknown_date: true
+  archive_after_days: 30
+
+fetch:
+  # <GitHubユーザー名> は公開時に置き換える（README参照）
+  user_agent: "exhibition-radar/1.0 (+https://<GitHubユーザー名>.github.io/exhibition-radar/)"
+  interval_sec: 2
+  timeout_sec: 20
+  retries: 3
+  max_pages_per_source: 100
+  respect_robots_txt: true
+  cache_dir: "data/cache"
+  cache_ttl_hours: 20
+
+gemini:
+  enabled: true
+  api_key_env: "GEMINI_API_KEY"
+  model_env: "GEMINI_MODEL"        # モデル名は環境変数で指定（無料枠対象モデルをAI Studioで確認して設定）
+  max_requests_per_run: 150
+  sleep_sec: 5
+  max_input_chars: 12000
+
+judge:
+  keyword_score_threshold: 40
+  confidence_review_threshold: 70
+  fuzzy_duplicate_threshold: 90
+  fuzzy_review_threshold: 75
+
+output:
+  docs_data_dir: "docs/data"
+  archive_dir: "data/archive"
+  runs_keep: 100
+  # 出力件数が前回比でこの割合以上減ったら更新しない（誤消去防止）
+  max_drop_ratio: 0.5

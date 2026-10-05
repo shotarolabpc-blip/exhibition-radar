@@ -1,0 +1,249 @@
+# 会場名の正規化＋都道府県＋地方区分
+# - name：正規化後の会場名
+# - aliases：表記揺れ。会場文字列にname/aliasが含まれていればその会場とみなす（長い語を優先）
+# 地方区分：北海道・東北／関東／中部／近畿／中国・四国／九州・沖縄／オンライン
+venues:
+  # ---- 関東 ----
+  - name: "東京ビッグサイト"
+    aliases: ["東京ビックサイト", "東京国際展示場", "Tokyo Big Sight", "ビッグサイト", "ビックサイト"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "幕張メッセ"
+    aliases: ["幕張メッセ国際展示場", "Makuhari Messe"]
+    prefecture: "千葉県"
+    region: "関東"
+  - name: "パシフィコ横浜"
+    aliases: ["PACIFICO Yokohama", "パシフィコ横浜ノース"]
+    prefecture: "神奈川県"
+    region: "関東"
+  - name: "東京国際フォーラム"
+    aliases: ["Tokyo International Forum"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "有明GYM-EX"
+    aliases: ["有明GYMEX", "有明ジメックス"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "東京都立産業貿易センター浜松町館"
+    aliases: ["産業貿易センター浜松町館", "都立産業貿易センター浜松町"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "東京都立産業貿易センター台東館"
+    aliases: ["産業貿易センター台東館"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "東京ミッドタウン"
+    aliases: ["Tokyo Midtown"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "TAKANAWA GATEWAY Convention Center"
+    aliases: ["高輪ゲートウェイコンベンションセンター"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "TODA HALL & CONFERENCE"
+    aliases: ["TODA HALL"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "JPタワーホール＆カンファレンス"
+    aliases: ["JPタワー ホール＆カンファレンス", "KITTE 4F"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "Otemachi Oneタワー"
+    aliases: ["Otemachi One"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "御茶ノ水ソラシティ カンファレンスセンター"
+    aliases: ["ソラシティ"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "グランドプリンスホテル新高輪"
+    aliases: ["新高輪", "国際館パミール"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "NTT武蔵野研究開発センタ"
+    aliases: ["NTT武蔵野研究開発センター"]
+    prefecture: "東京都"
+    region: "関東"
+  - name: "NTTつくば研究開発センター"
+    aliases: ["NTTつくば研究開発センタ"]
+    prefecture: "茨城県"
+    region: "関東"
+  - name: "さいたまスーパーアリーナ"
+    aliases: []
+    prefecture: "埼玉県"
+    region: "関東"
+  - name: "東京流通センター"
+    aliases: ["TRC"]
+    prefecture: "東京都"
+    region: "関東"
+  # ---- 近畿 ----
+  - name: "インテックス大阪"
+    aliases: ["インテックス", "INTEX Osaka", "INTEX大阪"]
+    prefecture: "大阪府"
+    region: "近畿"
+  - name: "マイドームおおさか"
+    aliases: ["まいドーム大阪", "マイドーム大阪", "MyDome Osaka"]
+    prefecture: "大阪府"
+    region: "近畿"
+  - name: "ATCホール"
+    aliases: ["大阪南港 ATCホール", "アジア太平洋トレードセンター"]
+    prefecture: "大阪府"
+    region: "近畿"
+  - name: "グランキューブ大阪"
+    aliases: ["大阪府立国際会議場"]
+    prefecture: "大阪府"
+    region: "近畿"
+  - name: "グランフロント大阪 コングレコンベンションセンター"
+    aliases: ["グランドフロント大阪 コングレコンベンションセンター", "コングレコンベンションセンター（大阪）", "コングレコンベンションセンター"]
+    prefecture: "大阪府"
+    region: "近畿"
+  - name: "京都市勧業館みやこめっせ"
+    aliases: ["みやこめっせ"]
+    prefecture: "京都府"
+    region: "近畿"
+  - name: "京都パルスプラザ"
+    aliases: ["パルスプラザ"]
+    prefecture: "京都府"
+    region: "近畿"
+  - name: "神戸国際展示場"
+    aliases: ["神戸ポートアイランド"]
+    prefecture: "兵庫県"
+    region: "近畿"
+  # ---- 中部 ----
+  - name: "ポートメッセなごや"
+    aliases: ["ポートメッセ", "ポートメッセ名古屋", "名古屋市国際展示場"]
+    prefecture: "愛知県"
+    region: "中部"
+  - name: "Aichi Sky Expo"
+    aliases: ["愛知県国際展示場"]
+    prefecture: "愛知県"
+    region: "中部"
+  - name: "吹上ホール"
+    aliases: ["名古屋市中小企業振興会館"]
+    prefecture: "愛知県"
+    region: "中部"
+  - name: "JPタワー名古屋 ホール＆カンファレンス"
+    aliases: ["JPタワー名古屋"]
+    prefecture: "愛知県"
+    region: "中部"
+  - name: "朱鷺メッセ"
+    aliases: ["新潟コンベンションセンター"]
+    prefecture: "新潟県"
+    region: "中部"
+  - name: "石川県産業展示館"
+    aliases: []
+    prefecture: "石川県"
+    region: "中部"
+  - name: "福井県産業会館"
+    aliases: []
+    prefecture: "福井県"
+    region: "中部"
+  - name: "フェニックス・プラザ"
+    aliases: ["福井市体育館"]
+    prefecture: "福井県"
+    region: "中部"
+  - name: "ツインメッセ静岡"
+    aliases: []
+    prefecture: "静岡県"
+    region: "中部"
+  - name: "ビッグパレットふくしま"
+    aliases: []
+    prefecture: "福島県"
+    region: "北海道・東北"
+  # ---- 北海道・東北 ----
+  - name: "アクセスサッポロ"
+    aliases: ["アクセス札幌"]
+    prefecture: "北海道"
+    region: "北海道・東北"
+  - name: "札幌コンベンションセンター"
+    aliases: []
+    prefecture: "北海道"
+    region: "北海道・東北"
+  - name: "ACU札幌"
+    aliases: ["アキュ札幌"]
+    prefecture: "北海道"
+    region: "北海道・東北"
+  - name: "仙台国際センター"
+    aliases: []
+    prefecture: "宮城県"
+    region: "北海道・東北"
+  - name: "夢メッセみやぎ"
+    aliases: []
+    prefecture: "宮城県"
+    region: "北海道・東北"
+  # ---- 中国・四国 ----
+  - name: "広島県立広島産業会館"
+    aliases: ["広島産業会館"]
+    prefecture: "広島県"
+    region: "中国・四国"
+  - name: "テクスポート今治"
+    aliases: []
+    prefecture: "愛媛県"
+    region: "中国・四国"
+  - name: "愛媛県県民文化会館"
+    aliases: ["ひめぎんホール"]
+    prefecture: "愛媛県"
+    region: "中国・四国"
+  - name: "アスティとくしま"
+    aliases: []
+    prefecture: "徳島県"
+    region: "中国・四国"
+  # ---- 九州・沖縄 ----
+  - name: "マリンメッセ福岡"
+    aliases: ["マリンメッセ"]
+    prefecture: "福岡県"
+    region: "九州・沖縄"
+  - name: "西日本総合展示場"
+    aliases: []
+    prefecture: "福岡県"
+    region: "九州・沖縄"
+  - name: "福岡国際センター"
+    aliases: []
+    prefecture: "福岡県"
+    region: "九州・沖縄"
+  - name: "ONE FUKUOKA CONFERENCE HALL"
+    aliases: []
+    prefecture: "福岡県"
+    region: "九州・沖縄"
+  - name: "グランメッセ熊本"
+    aliases: []
+    prefecture: "熊本県"
+    region: "九州・沖縄"
+  - name: "沖縄コンベンションセンター"
+    aliases: []
+    prefecture: "沖縄県"
+    region: "九州・沖縄"
+  # ---- オンライン ----
+  - name: "オンライン"
+    aliases: ["Web開催", "オンライン開催", "Online", "ウェビナー"]
+    prefecture: ""
+    region: "オンライン"
+
+# 会場辞書に無い場合、会場文字列に含まれる市名などから都道府県を推定する
+cities:
+  "札幌": "北海道"
+  "仙台": "宮城県"
+  "横浜": "神奈川県"
+  "川崎": "神奈川県"
+  "名古屋": "愛知県"
+  "金沢": "石川県"
+  "福井市": "福井県"
+  "大阪": "大阪府"
+  "京都市": "京都府"
+  "神戸": "兵庫県"
+  "広島市": "広島県"
+  "今治": "愛媛県"
+  "愛媛": "愛媛県"
+  "福岡": "福岡県"
+  "北九州": "福岡県"
+  "熊本": "熊本県"
+  "那覇": "沖縄県"
+  "石川": "石川県"
+
+regions:
+  北海道・東北: ["北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県"]
+  関東: ["茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県"]
+  中部: ["新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県", "愛知県"]
+  近畿: ["三重県", "滋賀県", "京都府", "大阪府", "兵庫県", "奈良県", "和歌山県"]
+  中国・四国: ["鳥取県", "島根県", "岡山県", "広島県", "山口県", "徳島県", "香川県", "愛媛県", "高知県"]
+  九州・沖縄: ["福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県"]

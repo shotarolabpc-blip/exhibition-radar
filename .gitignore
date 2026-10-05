@@ -1,0 +1,26 @@
+# 社内資料・元データ（絶対にコミットしない）
+*.xlsx
+*.xlsm
+*.xls
+/展示会イベントリスト*.csv
+/input/
+
+# 秘密情報
+.env
+.env.*
+
+# 収集キャッシュ（GitHub Actions のキャッシュ対象）
+data/cache/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

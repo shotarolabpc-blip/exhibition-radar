@@ -1,0 +1,27 @@
+# 人手補正（GitHub上で直接編集してよい）。収集処理はこの内容を最優先で適用する。
+# イベントIDはWeb画面の詳細パネル、または詳細CSVの「イベントID」列で確認できる。
+#
+# exclude：除外（Web・CSVに出さない）
+#   - id: "evt_12ab34cd"
+#     reason: "IT・無線と無関係"
+#   - url_contains: "example.com/old-event"
+#     reason: "過年度ページ"
+#
+# fix：項目の修正（指定した項目だけ上書き）
+#   - id: "evt_8f3a1c2b"
+#     venue: "幕張メッセ"
+#     categories: ["セキュリティ"]
+#     start_date: "2026-10-21"
+#
+# merge：重複の統合（removeを削除し、履歴をkeepへ移す）
+#   - keep: "evt_aaaa1111"
+#     remove: "evt_bbbb2222"
+#     reason: "J-messeと主催者HPの重複"
+#
+# confirm：要確認 → 確認済み（変更なし）にする
+#   - id: "evt_cccc3333"
+
+exclude: []
+fix: []
+merge: []
+confirm: []

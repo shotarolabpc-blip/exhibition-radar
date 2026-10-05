@@ -1,0 +1,1249 @@
+# 既知イベントURL（known_urls 収集元の巡回対象）
+# import_excel.py が既存リストのURLから生成。手で追加・削除してよい。
+urls:
+- url: https://2026.tokyooutdoorshow.jp/
+  name: TOKYO OUTDOOR SHOW 2026
+- url: https://a11y-chiba.com/2026
+  name: アクセシビリティカンファレンスCHIBA2026
+- url: https://adtech-tokyo.com/ja/
+  name: ad:tech tokyo 2023 （アドテック東京2023）
+- url: https://aee.expo-info.jsae.or.jp/ja/nagoya/
+  name: 人とくるまのテクノロジー展 2024 NAGOYA
+- url: https://aee.expo-info.jsae.or.jp/ja/yokohama/
+  name: 人とくるまのテクノロジー展 2025（横浜）
+- url: https://agri-food.jma.or.jp/kyushu/
+  name: 九州アグロ・イノベーション 九州みどりの食料システムEXPO2025
+- url: https://agri-food.jma.or.jp/kyushu/index.php
+  name: 九州アグロイノベーション2024
+- url: https://agri.mynavi.jp/shin-nogyojin/
+  name: 新・農業人フェア 農業EXPO
+- url: https://agribiz.maff.go.jp/
+  name: アグリビジネス創出フェア2026
+- url: https://aismiley.co.jp/ai_hakurankai/
+  name: AI博覧会 Osaka 2025
+- url: https://aismiley.co.jp/ai_hakurankai/2025_spring/
+  name: AI博覧会 Spring 2025
+- url: https://apmc-mwe.org/mwe2023/index.html
+  name: マイクロウェーブ展2023
+- url: https://apmc-mwe.org/mwe2024/index.html
+  name: マイクロウェーブ展 2024
+- url: https://aws.amazon.com/jp/events/summits/japan/
+  name: AWS Summit Japan 2026
+- url: https://axia-expo.nikkan.co.jp/
+  name: AXIA EXPO2024
+- url: https://beautyworld-japan-osaka.jp.messefrankfurt.com/osaka/ja.html
+  name: ビューティーワールド 大阪
+- url: https://beautyworld-japan.jp.messefrankfurt.com/tokyo/ja.html
+  name: ビューティーワールド ジャパン 東京 2026
+- url: https://biz.nikkan.co.jp/eve/bousai/
+  name: 防災産業展2026
+- url: https://biz.nikkan.co.jp/eve/hds/
+  name: 高精度・難加工技術展／表面改質展2026
+- url: https://biz.nikkan.co.jp/eve/s-robot/
+  name: Japan Robot Week 2024
+- url: https://biz.nikkan.co.jp/eve/sampe/
+  name: SAMPE Japan 先端材料技術展 2026
+- url: https://biz.nikkan.co.jp/eve/senjyo/
+  name: 2026洗浄総合展
+- url: https://biz.nikkan.co.jp/eve/smart-factory/
+  name: スマートファクトリーJapan 2024
+- url: https://biz.nikkan.co.jp/eve/vacuum/
+  name: VACUUM 2026 真空展
+- url: https://caferes.jp/
+  name: CAFERES JAPAN 2026
+- url: https://caferes.jp/jbs/
+  name: Japan Bakery & Sweets Show 2026 ※CAFERES JAPAN 2026の共催
+- url: https://caferes.jp/tcs/
+  name: Tokyo Cafe Show 2026 ※CAFERES JAPAN 2026の共催
+- url: https://caferes.jp/tds/
+  name: Take-out & Delivery Show 2026 ※CAFERES JAPAN 2026の共催
+- url: https://caretech.jp/
+  name: 第7回 介護テクノロジー展
+- url: https://cedec.cesa.or.jp/
+  name: CEDEC 2026（Computer Entertainment Developers Conference）
+- url: https://chiba-kanblo56.org/
+  name: 日本病院薬剤師会関東ブロック第56回学術大会
+- url: https://chubu-shokuten.nikkan.co.jp/
+  name: 第1回 中部食品産業創造展’26
+- url: https://cspi-expo.com/
+  name: 第6回 建設・測量生産性向上展 (CSPI-EXPO 2024)
+- url: https://discover.ctcevent.jp/
+  name: CTC DISCOVER 2025
+- url: https://diy-show.com/
+  name: 第62回 JAPAN DIY HOMECENTER SHOW 2026
+- url: https://dxf.solution-expo.jp/gaiyo.php
+  name: 西日本DX推進フェア2024
+- url: https://dxpo.jp/real/box/fukuoka/
+  name: バックオフィスDXPO福岡 2026
+- url: https://dxpo.jp/real/box/fukuoka/ex-legal.html
+  name: 第3回 バックオフィス DXPO福岡’25 電子契約・法務システム展
+- url: https://dxpo.jp/real/box/fukuoka/ex-mgmt.html
+  name: 第3回 バックオフィス DXPO福岡’25 福岡 経営支援・DX推進店
+- url: https://dxpo.jp/real/box/fukuoka/ex-recruit.html
+  name: 第3回 バックオフィス DXPO福岡’25 採用・研修ソリューション展
+- url: https://dxpo.jp/real/box/fukuoka/manufacturing/
+  name: 製造イノベーションDXPO福岡 2026
+- url: https://dxpo.jp/real/box/sapporo/
+  name: バックオフィスDXPO 札幌’26
+- url: https://dxpo.jp/real/box/tokyo/
+  name: バックオフィスDXPO東京’26【夏】
+- url: https://dxpo.jp/real/box/tokyo/aiagent/
+  name: AIエージェントDXPO東京’26【夏】
+- url: https://dxpo.jp/real/box/tokyo/ex-mg.html
+  name: バックオフィス DXPO東京’25 総務ソリューション展
+- url: https://dxpo.jp/real/box/tokyo/ex-mgmt.html
+  name: バックオフィス DXPO東京’25 経営支援・DX推進店
+- url: https://dxpo.jp/real/box/tokyo/ex-recruit.html
+  name: バックオフィス DXPO東京’25 採用・研修ソリューション展
+- url: https://dxpo.jp/real/box/tokyo/ex-rpa.html
+  name: バックオフィス DXPO東京’25 RPA・業務プロセス自動化展展
+- url: https://dxpo.jp/real/box/tokyo/manufacturing/
+  name: 製造イノベーションDXPO東京’26【夏】
+- url: https://dxpo.jp/real/box/tokyo2/
+  name: 第3回 バックオフィスDXPO東京’26【秋】
+- url: https://dxpo.jp/real/box/tokyo2/aiagent/
+  name: 第1回 【管理部門】AIエージェントDXPO東京’26【秋】
+- url: https://dxpo.jp/real/fox/fukuoka/aiagent/
+  name: AIエージェントDXPO福岡 2026
+- url: https://dxpo.jp/real/fox/fukuoka/sales/ex-mktg.html
+  name: 第3回 営業・マーケ DXPO福岡’25 福岡 デジタルマーケ・SNS運用支援展
+- url: https://dxpo.jp/real/fox/fukuoka/sales/ex-system.html
+  name: 第3回 営業・マーケ DXPO福岡’25 福岡 Ai活用・DX推進店
+- url: https://dxpo.jp/real/fox/fukuoka/store/
+  name: 第3回 店舗・EC DXPO福岡’25
+- url: https://dxpo.jp/real/fox/fukuoka/system/
+  name: IT・情シスDXPO福岡 2026
+- url: https://dxpo.jp/real/fox/fukuoka/system/ex-infra.html
+  name: 第1回 IT・情シス DXPO福岡’25 福岡 ITインフラ・セキュリティ展
+- url: https://dxpo.jp/real/fox/fukuoka/system/ex-ithr.html
+  name: 第1回 IT・情シス DXPO福岡’25 福岡 IT人材育成・採用支援展
+- url: https://dxpo.jp/real/fox/fukuoka/system/ex-tools.html
+  name: 第1回 IT・情シス DXPO福岡’25 福岡 社内業務デジタル化展
+- url: https://dxpo.jp/real/fox/sapporo/sales/
+  name: 営業・マーケDXPO 札幌’26
+- url: https://dxpo.jp/real/fox/sapporo/store/
+  name: EC・通販DXPO 札幌’26
+- url: https://dxpo.jp/real/fox/sapporo/system/
+  name: IT・情シスDXPO 札幌’26
+- url: https://dxpo.jp/real/fox/tokyo/aiagent/
+  name: 第1回 AIエージェントDXPO東京’26【夏】（営業・マーケ向け）
+- url: https://dxpo.jp/real/fox/tokyo/sales/
+  name: 営業・マーケDXPO東京’26【夏】
+- url: https://dxpo.jp/real/fox/tokyo/sales/ex-mktg.html
+  name: 営業・マーケDXPO東京25 デジタルマーケ・SNS運用支援展
+- url: https://dxpo.jp/real/fox/tokyo/sales/ex-salesconsul.html
+  name: 営業・マーケDXPO東京25 営業コンサル・アウトソーシング展
+- url: https://dxpo.jp/real/fox/tokyo/sales/ex-system.html
+  name: 営業・マーケDXPO東京25 AI活用・DX推進展
+- url: https://dxpo.jp/real/fox/tokyo/store/
+  name: EC・通販DXPO東京’26【夏】
+- url: https://dxpo.jp/real/fox/tokyo/store2/
+  name: 店舗・商業施設DXPO東京’26【夏】
+- url: https://dxpo.jp/real/fox/tokyo/system/
+  name: IT・情シスDXPO東京’26【夏】
+- url: https://dxpo.jp/real/fox/tokyo/system/ex-infra.html
+  name: IT・情シスDXPO ITインフラ・セキュリティ展
+- url: https://dxpo.jp/real/fox/tokyo/system/ex-ithr
+  name: IT・情シスDXPO IT人材育成・採用支援展
+- url: https://dxpo.jp/real/fox/tokyo2/aiagent/
+  name: 第1回 【営業・マーケ・DX推進】AIエージェントDXPO東京’26【秋】
+- url: https://dxpo.jp/real/fox/tokyo2/store/
+  name: 第3回 EC・通販DXPO東京’26【秋】
+- url: https://dxpo.jp/real/fox/tokyo2/system/
+  name: 第2回 IT・情シスDXPO東京’26【秋】
+- url: https://econosec.jp/
+  name: ECONOSEC JAPAN 経済安全保障対策会議・展示会
+- url: https://eight-event.8card.net/eightexpo/
+  name: Eight EXPO 2026 冬
+- url: https://eight-event.8card.net/eightexpo/ai-sel/
+  name: AI-SEL 2026 冬（物流AX 導入・推進展）
+- url: https://eight-event.8card.net/eightexpo/phaise/
+  name: PHAISE 2026 冬（フィジカルAI実装戦略展）
+- url: https://events.nikkeibp.co.jp/xtechnext/2026tky/ad/
+  name: 未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026（AIリーダーズEXPO／DXソリューションEXPO／情報セキュリティーNEXT／製造業の将来技術EXPO／建設DX EXPO）
+- url: https://ex.ipros.jp/expo/iprosai-2026-12/
+  name: イプロスAI-産業World 2026
+- url: https://exhibition.aloha-group.jp/exhibitions/237
+  name: H.C.R.2026 第53回国際福祉機器展＆フォーラム
+- url: https://f2ff.jp/event/commerce-sns
+  name: AI Commerce EXPO 2026
+- url: https://f2ff.jp/event/dcjapan/exhibition
+  name: Data Center Japan 2025
+- url: https://f2ff.jp/event/dx-ai
+  name: DXシステム開発 Expo 2026
+- url: https://f2ff.jp/event/secd
+  name: Security Days Spring 2025
+- url: https://f2ff.jp/event/secd/2026-fall/nagoya/session
+  name: Security Days Fall 2026 名古屋
+- url: https://fair.j-lis.go.jp/
+  name: 地方自治情報化推進フェア2026
+- url: https://fmiexpo.nikkan.co.jp/
+  name: 未来モノづくり国際EWXPO 2025
+- url: https://foodlogi.jp/
+  name: 食品物流＆3PL総合展 2026
+- url: https://foodpackaging.jp/
+  name: 食品包装資材＆機械展
+- url: https://foodstyle.jp/kyushu/
+  name: FOOD STYLE JAPAN 2026＜九州＞
+- url: https://foodstyle.jp/tokyo/
+  name: FOOD STYLE JAPAN 2026〈東京〉
+- url: https://foundrytechexpo.jp.messefrankfurt.com/tokyo/ja.html
+  name: Foundry Tech + Expo 2026（鋳造産業展）
+- url: https://fukuoka.caretex.jp/
+  name: 第9回 CareTEX福岡’26（介護用品展／介護施設産業展／介護施設ソリューション展／介護テクノロジー展／ケアフード展）
+- url: https://grandfair.jp/gf2026/venue/kansai/
+  name: 関西グランドフェア2026
+- url: https://grandfair.jp/gf2026/venue/kanto/
+  name: 関東グランドフェア2026
+- url: https://hakkoexpo.jp/
+  name: 国際発酵・醸造食品産業展
+- url: https://hamfair.jp/
+  name: 第48回 アマチュア無線フェスティバル ハムフェア2026
+- url: https://hoikuhaku.jp.messefrankfurt.com/tokyo/ja.html
+  name: 保育博
+- url: https://hokkaido-foodtech2026.com/
+  name: FOOD CROSS HOKKAIDO 2026
+- url: https://hospex.jma.or.jp/
+  name: HOSPEX Japan 2026
+- url: https://housing-biz.jp/kansai/
+  name: 住まい・建築・不動産の総合展［BREX関西］2026
+- url: https://housing-biz.jp/kansai/bousai/selling_proposition.html
+  name: 住まい・建築・不動産の総合展 関西 建物の防災EXPO 2025
+- url: https://housing-biz.jp/kansai/building/selling_proposition.html
+  name: 住まい・建築・不動産の総合展 関西 ビル建築・管理EXPO 2025
+- url: https://housing-biz.jp/kansai/housing/selling_proposition.html
+  name: 住まい・建築・不動産の総合展 関西 住宅ビジネスフェア 2025
+- url: https://housing-biz.jp/kansai/mansion/selling_proposition.html
+  name: 住まい・建築・不動産の総合展 関西 マンション総合EXPO 2025
+- url: https://hs-osh.jma.or.jp/content/moushotaisaku/
+  name: 第6回 九州 猛暑対策展
+- url: https://hs-osh.jma.or.jp/content/roudouanzen/
+  name: 第12回 労働安全衛生店
+- url: https://hs-osh.jma.or.jp/content/souonsindou/
+  name: 第34回 東京 騒音・振動対策店
+- url: https://ie.logis-tech-tokyo.gr.jp/
+  name: 国際物流総合展2025 第4回INNOVATION EXPO
+- url: https://iifes.jp/
+  name: IIFES 2024
+- url: https://imohaku.com/2026summer/
+  name: 夏のさつまいも博2026
+- url: https://inchem.jma.or.jp/
+  name: INCHEM TOKYO 2025
+- url: https://innov-w.solution-expo.jp/gaiyo.php
+  name: 西日本製造技術イノベーション2024
+- url: https://innovationjapan.jst.go.jp/
+  name: 大学見本市2026 ～イノベーションジャパン～
+- url: https://intermeasure.org/
+  name: INTERMEASURE 2026
+- url: https://irex.nikkan.co.jp/
+  name: 2023国際ロボット展
+- url: https://jachn29.yupia.net/
+  name: 日本地域看護学会第29回学術集会
+- url: https://japantex.jp/
+  name: JAPANTEX 2026
+- url: https://jcd-expo.jp/jp/
+  name: BioJapan
+- url: https://jcd-expo.jp/jp/about.html
+  name: healthTECH JAPAN 2025
+- url: https://jimtof.org/jp/index.html
+  name: JIMTOF (日本国際工作機械見本市)
+- url: https://jp-ten.jp/jp2026/
+  name: JP2026・印刷DX展
+- url: https://jsa2026.jp/
+  name: 第45回日本思春期学会総会・学術集会
+- url: https://k-semi.jp/
+  name: 九州半導体産業展
+- url: https://kansai.fabex.jp/entry/about02.html
+  name: FABEX関西 2026（第14回）
+- url: https://kgf-chubu.com/
+  name: 建設技術フェア2026 in 中部
+- url: https://kodomotech.jp/kyoto/
+  name: 第2回 こども×Tech 関西
+- url: https://kodomotech.jp/tohoku/
+  name: 第2回こども×Tech東北
+- url: https://ksh.jma.or.jp/
+  name: 第8回 九州・沖縄・宿泊外食産業展／第2回 アジア輸出食品展
+- url: https://kyushu-tf.solution-expo.jp/index.php
+  name: 中小企業テクノフェア in 九州 2025
+- url: https://leisure-japan.jp/
+  name: レジャー&アウトドアジャパン2026
+- url: https://lifeguardtec.com/
+  name: 第14回中部ライフガードTEC2026
+- url: https://localtech.jp/kyoto/
+  name: 第4回地域×Tech関西
+- url: https://localtech.jp/tohoku/
+  name: 第6回地域×Tech東北
+- url: https://lttiekyushu.logis-tech-tokyo.gr.jp/
+  name: 国際物流総合展（九州開催）
+- url: https://manabilink.co.jp/event/
+  name: 学びリンク 通信制高校・サポート校合同相談会
+- url: https://medtecjapan.com/
+  name: Medtec Japan
+- url: https://medtecjapan.com/for-exhibition/
+  name: Medical ICT
+- url: https://mente.jma.or.jp/
+  name: メンテナンス・レジリエンス TOKYO2024
+- url: https://messe.nikkei.co.jp/
+  name: 日経メッセ大阪（総称）
+- url: https://messe.nikkei.co.jp/ac/
+  name: 建築・建材展2024
+- url: https://messe.nikkei.co.jp/as/
+  name: 建築・建材展 大阪2025
+- url: https://messe.nikkei.co.jp/cp/
+  name: サーキュラーパートナーシップEXPO 2026
+- url: https://messe.nikkei.co.jp/fs/
+  name: フランチャイズ・ショー大阪 2026
+- url: https://messe.nikkei.co.jp/ja/
+  name: JAPAN SHOP 大阪 2026
+- url: https://messe.nikkei.co.jp/rs/
+  name: リテールテック大阪2025
+- url: https://messe.nikkei.co.jp/rt/
+  name: リテールテックJAPAN2024
+- url: https://messe.nikkei.co.jp/sa/
+  name: SECURITY SHOW 大阪2025
+- url: https://messe.nikkei.co.jp/sdgs/
+  name: SDGs Week EXPO 2026（エコプロ2026）
+- url: https://messe.nikkei.co.jp/ss/
+  name: SECURITY SHOW 2024
+- url: https://monotech.nikkan.co.jp/
+  name: MONO×TECH
+- url: https://nagoya.caretex.jp/
+  name: 第6回 CareTEX名古屋 2025 -【名古屋】介護用品展 /【名古屋】介護施設産業展 /【名古屋】介護施設ソリューション展
+- url: https://nanotechexpo.jp/
+  name: nano tech 2027（第26回 国際ナノテクノロジー総合展・技術会議）
+- url: https://odex-telex.jp/
+  name: ODEX 大阪（デジタル化・DX推進展）
+- url: https://odex-telex.jp/lp/
+  name: ODEX 第4回 デジタル化・DX推進展
+- url: https://odex-telex.jp/lp/index.php
+  name: 第5回 デジタル化・DX推進展 ～ODEX～ 2025
+- url: https://optimism.rakuten.co.jp/
+  name: Rakuten AI Optimism 2026
+- url: https://osaka.caretech.jp/
+  name: 大阪ケアweak'25内 第５回 Careテクノロジー大阪'25 介護テクノロジー展
+- url: https://osaka.caretex.jp/
+  name: CareTEX大阪'26
+- url: https://osaka.healthcarejapan.jp/
+  name: ヘルスケアJAPAN大阪'26
+- url: https://pifc.jp/
+  name: 第35回 2026知財・情報フェア＆コンファレンス
+- url: https://powtex.com/tokyo/
+  name: POWTEX 国際粉体工業展
+- url: https://r-management.jp/MF_IoT/forum20231017/
+  name: 製造業IoTカンファレンス2023秋(オンライン)
+- url: https://ramenexpo.jp/tokyo.php?gad_source=1&gad_campaignid=24059779103&gbraid=0AAAABAqQHSx41P_4PClNAQXvVBGHv8bUf
+  name: ラーメン産業展
+- url: https://riceexpo.jp/
+  name: 第1回 インバウンドフードビジネス EXOP
+- url: https://robonext.nikkan.co.jp/
+  name: RoboNext
+- url: https://robot-technology.jp/
+  name: ROBOT TECHNOLOGY JAPAN 2024
+- url: https://sapporo.caretex.jp/
+  name: 第6回 CareTEX札幌'26
+- url: https://sapporo.caretex.jp/info/zn_tech
+  name: 第5回 CareTEX 札幌’25 介護テクノロジー展
+- url: https://scajconference.jp/
+  name: SCAJ ワールド スペシャルティコーヒー カンファレンス＆エキシビション 2026
+- url: https://seafoodshow-japan.com/tokyo/
+  name: 第28回 ジャパン・インターナショナル・シーフードショー
+- url: https://sicefes26.sice.jp/
+  name: SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE
+- url: https://site2.convention.co.jp/wces-jses2026/ja/
+  name: 第39回 日本内視鏡外科学会総会／WCES 2026
+- url: https://sports-st.com/
+  name: SPORTEC 2026
+- url: https://sports-st.com/hfj/
+  name: SPORTEC / HEALTH & FITNESS JAPAN
+- url: https://sports-st.com/sfex/
+  name: SPORTEC2025 第11回 スポーツ施設運営 EXPO
+- url: https://sports-st.com/sst/
+  name: SPORTEC2025 第7回スポーツサイエンステクノロジーEXPO
+- url: https://ssl.japan-drone.com/
+  name: Japan Drone / 次世代エアモビリティEXPO
+- url: https://ssl.japan-drone.com/index.html
+  name: 第11回 Japan Drone 2026 第5回 次世代エアモビリティEXPO 2026
+- url: https://ssl.japan-drone.com/outline/iaam.html
+  name: 次世代エアモビリティEXPO2025
+- url: https://summer.caretex.jp/
+  name: 第1回 CareTEX東京’24【夏】
+- url: https://summer.caretex.jp/info/zn_food
+  name: ケアフード展（CareTEX内）
+- url: https://summer.caretex.jp/info/zn_tech
+  name: CareTEX東京 '25【夏】 東京 介護テクノロジー展
+- url: https://sustainable-plant.jma.or.jp/
+  name: プラントショー 2026
+- url: https://the-bars.com/
+  name: リフォーム産業フェア2026
+- url: https://thermotec.jp.messefrankfurt.com/tokyo/ja.html
+  name: サーモテック2026（国際工業炉・関連機器展）
+- url: https://toshiken.jma.or.jp/hkd/index.php?_gl=1%2A1wrugds%2A_ga%2AMTYzNzgyNzg3Ny4xNzc5Njc2MDY0%2A_ga_W8424K5L70%2AczE3OTAyMzQ0MjgkbzIkZzEkdDE3OTAyMzQ0NTYkajMyJGwwJGgw
+  name: 第1回 土木・建設DX／システム／ツール展
+- url: https://toshiken.jma.or.jp/hkd/outline/disaster_index.php
+  name: 北海道 災害リスク対策推進展
+- url: https://toshiken.jma.or.jp/hkd/outline/energy_index.php
+  name: 北海道エネルギー技術革新EXPO
+- url: https://tourismhotel.jma.or.jp/hkd/
+  name: 観光・ホテル・外食産業展 HOKKAIDO 2025
+- url: https://tourismhotel.jma.or.jp/hkd/index.php?_gl=1%2Aoyes9w%2A_gcl_au%2AMTEzMTcyMzg2OC4xNzg3NTQ3NjMz%2A_ga%2AMTYzNzgyNzg3Ny4xNzc5Njc2MDY0%2A_ga_0WC3X1EZKZ%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw%2A_ga_NJR2RPSJKX%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw
+  name: 観光・ホテル・外食産業展 北海道 2026
+- url: https://weldingshow.jp/2026/
+  name: 国際ウエルディングショー
+- url: https://wfjapan.com/
+  name: ウェルネスフードジャパン2026
+- url: https://wjwtp.jp/2025/
+  name: ワイヤレスジャパン2025×ワイヤレス・テクノロジー・パーク(WTP) 2025
+- url: https://wjwtp.jp/2026/outline/
+  name: ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク
+- url: https://www.adcom-media.co.jp/iss/
+  name: 画像センシング展2024
+- url: https://www.adcom-media.co.jp/ite/
+  name: 国際画像機器展2025
+- url: https://www.aff-fair.com/
+  name: 第11回 アジア・ファニシング・フェア 2026
+- url: https://www.agriexpo-week.jp/tokyo/ja-jp/about/agrinext.html
+  name: 国際 スマート農業EXPO
+- url: https://www.am-expo.jp/osaka-1/ja-jp.html
+  name: 資産運用 EXPO【関西】
+- url: https://www.apmc-mwe.org/
+  name: マイクロウェーブ展2025（MWE 2025
+- url: https://www.autoid-expo.com/tokyo/
+  name: 第26回 自動認識総合展
+- url: https://www.automotiveworld.jp/autumn/ja-jp.html
+  name: オートモーティブワールド2025【秋】
+- url: https://www.automotiveworld.jp/nagoya/ja-jp.html
+  name: オートモーティブ ワールド 名古屋展
+- url: https://www.automotiveworld.jp/tokyo/ja-jp.html
+  name: オートモーティブワールド
+- url: https://www.bariship.com/
+  name: バリシップ 2025
+- url: https://www.bicsi.jp/conference/2026.php
+  name: 2026 BICSI Japan Conference & Exhibition
+- url: https://www.bizcrew.jp/expo/ai-nagoya
+  name: AI World 2026 春 名古屋
+- url: https://www.bizcrew.jp/expo/ai-osaka
+  name: AI World 2026春 大阪
+- url: https://www.bizcrew.jp/expo/ai-tokyo
+  name: AI World 2026 夏 東京
+- url: https://www.bizcrew.jp/expo/back-office-osaka
+  name: バックオフィスWorld 2026
+- url: https://www.bizcrew.jp/expo/back-office-osaka-biz-transform-bo
+  name: バックオフィス World 2025 大阪 第2回 バックオフィス業務改革 EXPO
+- url: https://www.bizcrew.jp/expo/back-office-osaka-finance-support
+  name: バックオフィス World 2025 大阪【夏】 第2回 経理支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-osaka-general-affairs-support
+  name: バックオフィス World 2025 大阪 第2回 総務支援 EXPO
+- url: https://www.bizcrew.jp/expo/back-office-osaka-hr-support
+  name: バックオフィス World 2025 大阪 第2回 人事支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-osaka-legal-support
+  name: バックオフィス World 2025 大阪 第2回 法務支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-tokyo
+  name: バックオフィスWorld
+- url: https://www.bizcrew.jp/expo/back-office-tokyo-biz-transform-bo
+  name: バックオフィス World 2025 東京【夏】 第3回 バックオフィス業務改革 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-tokyo-finance-support
+  name: バックオフィス World 2025 東京【夏】 第3回 経理支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-tokyo-general-affairs-support
+  name: バックオフィス World 2025 東京【夏】 第3回 総務支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-tokyo-hr-support
+  name: バックオフィス World 2025 東京【夏】 第3回 人事支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/back-office-tokyo-legal-support
+  name: バックオフィス World 2025 東京【夏】 第3回 法務支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/bij-osaka
+  name: ビジネスイノベーション Japan 2023【冬】
+- url: https://www.bizcrew.jp/expo/bij-osaka-ai
+  name: 第7回 AI World【春】
+- url: https://www.bizcrew.jp/expo/bij-osaka-workstyle-reform
+  name: 第10回 働き方改革Week【春】
+- url: https://www.bizcrew.jp/expo/bij-tokyo
+  name: ビジネスイノベーション Japan 2024【春】
+- url: https://www.bizcrew.jp/expo/bij-tokyo-ai
+  name: 第2回 AI World【春】
+- url: https://www.bizcrew.jp/expo/content-tokyo
+  name: Japan Content Week 2025
+- url: https://www.bizcrew.jp/expo/dx-osaka
+  name: DX 総合EXPO 2025 大阪【春】
+- url: https://www.bizcrew.jp/expo/dx-osaka-biz-transform
+  name: 第10回 業務改革DX EXPO 【春】
+- url: https://www.bizcrew.jp/expo/dx-tokyo
+  name: DX 総合EXPO 2024 春 東京
+- url: https://www.bizcrew.jp/expo/industrial-dx-osaka
+  name: 産業DX総合展 2026春 大阪
+- url: https://www.bizcrew.jp/expo/industrial-dx-osaka-logistics
+  name: 物流DX EXPO 2026 春 大阪
+- url: https://www.bizcrew.jp/expo/industrial-dx-tokyo
+  name: Bizcrew EXPO 産業DX総合展 2025 東京【夏】
+- url: https://www.bizcrew.jp/expo/industrial-dx-tokyo-construction
+  name: 建設・建築DX EXPO（産業DX総合展内）
+- url: https://www.bizcrew.jp/expo/industrial-dx-tokyo-logistics
+  name: 物流DX EXPO（産業DX総合展内）
+- url: https://www.bizcrew.jp/expo/industrial-dx-tokyo-manufacturing
+  name: 製造業DX EXPO 2026 夏 東京
+- url: https://www.bizcrew.jp/expo/marketing-sales-osaka
+  name: マーケティング・セールス World 2026
+- url: https://www.bizcrew.jp/expo/marketing-sales-osaka-biz-transform-fo
+  name: マーケティング・セールスWorld 2025 大阪【夏】 第2回 フロントオフィス業務改革 EXPO
+- url: https://www.bizcrew.jp/expo/marketing-sales-osaka-cs-cx-support
+  name: CS・CX支援 EXPO
+- url: https://www.bizcrew.jp/expo/marketing-sales-osaka-ec-support
+  name: EC通販支援 EXPO
+- url: https://www.bizcrew.jp/expo/marketing-sales-osaka-marketing-support
+  name: マーケティング・セールスWorld 2025 大阪【夏】 第2回 マーケティング支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/marketing-sales-tokyo
+  name: マーケティング・セールスWorld
+- url: https://www.bizcrew.jp/expo/marketing-sales-tokyo-biz-transform-fo
+  name: マーケティング・セールス World 2025 東京【夏】 第3回 フロントオフィス業務改革 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/marketing-sales-tokyo-marketing-support
+  name: マーケティング・セールス World 2025 東京【夏】 第3回 マーケティング支援 EXPO【夏】
+- url: https://www.bizcrew.jp/expo/web3-tokyo
+  name: Japan Web3 Week 2024【春】
+- url: https://www.bizcrew.jp/lp/cp10?gad_source=1&gad_campaignid=24215802625&gbraid=0AAAABECrBDOkkeAnk_Q_AHUpY7L7Md4fV
+  name: 建設DX EXPO 2026
+- url: https://www.bohanbosai.jp/
+  name: 防犯防災総合展
+- url: https://www.business-expo.jp/
+  name: ビジネスEXPO「第40回北海道 技術・ビジネス交流会」
+- url: https://www.business-expo.jp/about_us/
+  name: ビジネスEXPO「第39回北海道 技術・ビジネス交流会」
+- url: https://www.catv-conv.jp/top.html
+  name: ケーブルコンベンション2026
+- url: https://www.catv-f.com/
+  name: ケーブル技術ショー2025
+- url: https://www.cbw-expo.jp/
+  name: COMNEXT 第4回［次世代］通信技術＆ソリューション展
+- url: https://www.cbw-expo.jp/ja-jp.html
+  name: COMNEXT 次世代通信技術＆ソリューション展
+- url: https://www.cbw-expo.jp/ja-jp/about/rem.html
+  name: リモートオペレーション EXPO
+- url: https://www.ceatec.com/ja/
+  name: CEATEC 2023
+- url: https://www.ceatec.com/ja/application/
+  name: CEATEC 2024
+- url: https://www.chemmate.jp/
+  name: ケミカルマテリアル Japan 2026
+- url: https://www.city.imabari.ehime.jp/simingamannaka/kinmirai/event/
+  name: 【愛媛県】しまなみ近未来フェア
+- url: https://www.comiket.co.jp/
+  name: コミックマーケット109（企業ブース）
+- url: https://www.content-tokyo.jp/hub/ja-jp/about/cd.html
+  name: コンテンツ東京 第13回 コミュニケーションデザインEXPO
+- url: https://www.content-tokyo.jp/hub/ja-jp/about/cg.html
+  name: コンテンツ東京 第15回 映像・CG制作展
+- url: https://www.content-tokyo.jp/hub/ja-jp/about/cr.html
+  name: コンテンツ東京 第16回 クリエイターEXPO
+- url: https://www.content-tokyo.jp/hub/ja-jp/about/next.html
+  name: 先端デジタルテクノロジー展
+- url: https://www.cosme-week.jp/osaka/ja-jp.html
+  name: COSME Week 大阪 2026（構成展総称）
+- url: https://www.cpplus.jp/
+  name: CP + 2025（シーピープラス2025）
+- url: https://www.cpplus.jp/outline/
+  name: CP＋（シーピープラス）2024
+- url: https://www.decarbonization-expo.jp/autumn/ja-jp.html
+  name: サステナブル経営WEEK【秋】
+- url: https://www.decarbonization-expo.jp/hub/ja-jp/about/ce.html
+  name: GX経営 WEEK サーキュラー・エコノミーEXPO
+- url: https://www.decarbonization-expo.jp/hub/ja-jp/about/dcm.html
+  name: GX経営 WEEK 脱炭素経営 EXPO
+- url: https://www.decarbonization-expo.jp/osaka/ja-jp.html
+  name: サステナブル経営WEEK2026
+- url: https://www.dietandbeauty.jp/tech/
+  name: WELLNESS ＆BEAUTY TECH2025
+- url: https://www.drinkjapan.jp/ja-jp.html
+  name: 第11回 ドリンク ジャパン
+- url: https://www.drugstoreshow.jp/
+  name: 第25回 JAPANドラッグストアショー（ビジネスショー）
+- url: https://www.dsignage-expo.jp/
+  name: デジタルサイネージ ジャパン 2026
+- url: https://www.e-messe.jp/
+  name: e-messe kanazawa 2025（第40回いしかわ情報システムフェア）
+- url: https://www.edix-expo.jp/osaka/ja-jp.html
+  name: 第8回 EDIX（教育総合展）大阪
+- url: https://www.express-highway.or.jp/hwtf/htf2026/
+  name: ハイウェイテクノフェア 2026
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp.html
+  name: FaW TOKYO（ファッション ワールド 東京）秋 2026
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/fdx.html
+  name: 第16回 ファッションワールド東京 秋 第4回 ファッションテック EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/ifa.html
+  name: 第30回 ブランド＆デザイナー EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/jfa.html
+  name: 第30回 日本のファッション輸出EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/oem.html
+  name: 第23回 アジアの縫製・生産工場 EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/sports.html
+  name: 第4回 スポーツファッション EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/textile.html
+  name: 第23回 生地・素材 EXPO 秋
+- url: https://www.fashion-tokyo.jp/autumn/ja-jp/about/wef.html
+  name: 第7回 健康・美容・機能性ウェア EXPO 秋
+- url: https://www.fiweek.jp/autumn/ja-jp.html
+  name: Factory Innovation Week［秋］2024
+- url: https://www.fiweek.jp/autumn/ja-jp/about/gfe.html
+  name: 製造業カーボンニュートラル展【秋】2026
+- url: https://www.fiweek.jp/autumn/ja-jp/about/mihr.html
+  name: Factory Innovation Week【秋】2025 第1回 製造業 人手不足対策 EXPO 秋
+- url: https://www.fiweek.jp/autumn/ja-jp/about/robo.html
+  name: Factory Innovation Weeek【秋】2025 ロボデックス【秋】
+- url: https://www.fiweek.jp/autumn/ja-jp/about/sfe.html
+  name: Factory Innovation Weeek【秋】2025 スマート工場EXPO【秋】
+- url: https://www.fiweek.jp/nagoya/ja-jp/about/robo.html
+  name: Factory Innovation Week 名古屋 Factory Innovation Week 2025 第8回 名古屋 ロボデックス
+- url: https://www.fiweek.jp/nagoya/ja-jp/about/sfe.html
+  name: Factory Innovation Week 名古屋 Factory Innovation Week 2025 第8回 名古屋 スマート工場EXPO
+- url: https://www.fiweek.jp/nagoya/ja-jp/lp/visit/sfe.html?msclkid=8b1e9bb8ad4c1a841700fd4c54fb8c69
+  name: スマート工場EXPO
+- url: https://www.fiweek.jp/osaka/ja-jp/about/robo.html
+  name: 第1回 [関西] ロボデックス
+- url: https://www.fiweek.jp/osaka/ja-jp/about/sfe.html
+  name: 第1回 [関西] スマート工場 EXPO
+- url: https://www.fiweek.jp/tokyo/ja-jp.html
+  name: Factory Innovation Week 2024
+- url: https://www.fiweek.jp/tokyo/ja-jp/about/robo.html
+  name: ロボテックス ロボット開発・活用展
+- url: https://www.food-exhibition.info/
+  name: FOOD展2026
+- url: https://www.food-exhibition.info/common/pdf/2026_FOOD-DX.pdf
+  name: FOOD-DX 2026 (FOOD展2026内特別展)
+- url: https://www.food-exhibition.info/f-sys/
+  name: FOOD展2025 フードシステムソリューション展 2025
+- url: https://www.food-exhibition.info/fd/
+  name: FOOD展2025 フードディストリビューション 2025
+- url: https://www.food-exhibition.info/ff/
+  name: FOOD展2025 フードファクトリー 2025
+- url: https://www.food-exhibition.info/fsj/
+  name: FOOD展2025 フードセーフティジャパン 2025
+- url: https://www.food-exhibition.info/guideline/
+  name: フードファクトリー2026（FF）
+- url: https://www.food-exhibition.info/sdj/
+  name: FOOD展2025 惣菜・デリカJAPAN 2025
+- url: https://www.food-selection.com/
+  name: 地方銀行フードセレクション2026
+- url: https://www.foodstore-s.jp/
+  name: フードストアソリューションズフェア2026
+- url: https://www.foodtechjapan.jp/osaka/ja-jp.html
+  name: 第5回 食品工場Week 大阪
+- url: https://www.foodtechjapan.jp/osaka/ja-jp/about/fhi.html
+  name: 第2回 食品安全・衛生イノベーション展 大阪
+- url: https://www.foodtechjapan.jp/osaka/ja-jp/about/ftech.html
+  name: 第5回 食品工場の自動化・DX展 大阪（FoodTech Japan）
+- url: https://www.foodtechjapan.jp/riw/ja-jp/about/sre.html
+  name: スマートレストランEXPO
+- url: https://www.foodtechjapan.jp/tokyo/ja-jp.html
+  name: 食品工場 Week 東京 2026
+- url: https://www.foomajapan.jp/
+  name: FOOMA JAPAN 2026
+- url: https://www.forestrise.jp/
+  name: FORESTRISE 2026
+- url: https://www.gardex.jp/
+  name: GARDEX（国際 ガーデン＆アウトドア EXPO）
+- url: https://www.gartner.com/jp/conferences/apac/symposium-japan
+  name: Gartner IT Symposium/Xpo 2026
+- url: https://www.gesuidouten.jp/
+  name: 下水道展’26 東京
+- url: https://www.giftshow.co.jp/tigs/102tigs/
+  name: 第102回 東京インターナショナル・ギフト・ショー秋2026
+- url: https://www.giftshow.co.jp/tigs/life20/
+  name: 第20回 LIFE×DESIGN 2026
+- url: https://www.googlecloudevents.com/next-tokyo/
+  name: Google Cloud Next Tokyo
+- url: https://www.gourmetshow.jp/40gs/
+  name: 第40回 グルメショー秋2026
+- url: https://www.gpec.jp/
+  name: 施設園芸・植物工場展（GPEC）
+- url: https://www.gpec.jp/aqua/
+  name: アクアポニックス・陸上養殖設備展
+- url: https://www.gpec.jp/saj/
+  name: スマートアグリ ジャパン スマート農業機器・技術展
+- url: https://www.hijapan.info/
+  name: 食品開発展2026
+- url: https://www.hospitality-show.jp/tokyo/ja-jp.html
+  name: 第1回 ホスピタリティテックEXPO
+- url: https://www.ifiajapan.com/
+  name: ifia JAPAN 2026 / HFE JAPAN 2026
+- url: https://www.ijt.jp/autumn/ja-jp.html
+  name: 第14回 国際宝飾展 秋（秋のIJT）2026
+- url: https://www.inter-bee.com/ja/
+  name: Inter BEE 2026
+- url: https://www.interaqua.jp/
+  name: InterAqua 2027
+- url: https://www.intercross-com.co.jp/event-japan/
+  name: イベントJAPAN2026（第17回）
+- url: https://www.interop.jp/
+  name: Interop 24 Tokyo
+- url: https://www.interop.jp/2026/about/
+  name: Interop Tokyo 2026（幕張メッセ開催）
+- url: https://www.interphex.jp/osaka/ja-jp.html
+  name: インターフェックス Week 大阪 2026 (再生医療EXPO 大阪 2026)
+- url: https://www.interphex.jp/osaka/ja-jp/about/ipjk.html
+  name: インターフェックス
+- url: https://www.interphex.jp/osaka/ja-jp/about/prdk.html
+  name: 第6回 ファーマラボ EXPO 大阪
+- url: https://www.interphex.jp/osaka/ja-jp/about/rmk.html
+  name: 再生医療 EXPO 大阪
+- url: https://www.interphex.jp/tokyo/ja-jp.html
+  name: 第27回 インターフェックスWeek 東京
+- url: https://www.itt-show.jp/tokyo/ja-jp/about/dx.html
+  name: 第１回 観光DX・マーケティングEXPO
+- url: https://www.jagri-global.jp/
+  name: 農業WEEK（J-AGRI）
+- url: https://www.jagri-global.jp/hub/ja-jp.html
+  name: JAGRI（旧：農業WEEK）
+- url: https://www.jagri-global.jp/hub/ja-jp/about/agribusiness.html
+  name: 第11回 次世代 農業経営EXPO
+- url: https://www.jagri-global.jp/hub/ja-jp/about/agrigreen.html
+  name: 第4回 農業 脱炭素・SDGs EXPO
+- url: https://www.jagri-global.jp/hub/ja-jp/about/agrilivestock.html
+  name: 第15回 農業WEEK（通称 J-AGRI TOKYO) 第6回 畜産資材EXPO
+- url: https://www.jagri-global.jp/hub/ja-jp/about/agritech.html
+  name: 第15回 農業WEEK（通称 J-AGRI TOKYO) 第12回 スマート農業EXPO
+- url: https://www.jagri-global.jp/hub/ja-jp/about/livestockhealth.html
+  name: 第1回 畜産 予防・衛生EXPO
+- url: https://www.jagri-global.jp/hub/ja-jp/lp/vis/tokyo/jagri-pc.html?msclkid=10f5b72376ef1464a39edda8b9eeac33
+  name: 農業資材 EXPO
+- url: https://www.janog.gr.jp/
+  name: JANOG59 Meeting
+- url: https://www.janog.gr.jp/meeting/janog58/
+  name: JANOG58 Meeting in Matsuyama
+- url: https://www.japan-build.jp/
+  name: 第11回 JAPAN BUILD TOKYO
+- url: https://www.japan-build.jp/hub/ja-jp/about/home.html
+  name: JAPAN BUILD [大阪] 第8回 スマートハウスEXPO［大阪］
+- url: https://www.japan-build.jp/hub/ja-jp/about/jdx.html
+  name: 第10回 JAPAN BUILD 第1回 住宅産業DX展
+- url: https://www.japan-build.jp/hub/ja-jp/about/kdx.html
+  name: JAPAN BUILD [大阪] 第5回 建設DX展 [大阪]
+- url: https://www.japan-build.jp/hub/ja-jp/about/kz.html
+  name: 建材・設備 EXPO
+- url: https://www.japan-build.jp/hub/ja-jp/about/ret.html
+  name: JAPAN BUILD [大阪] 第6回 不動産テックEXPO [大阪]
+- url: https://www.japan-build.jp/hub/ja-jp/about/rnv.html
+  name: JAPAN BUILD [大阪] 第8回 建物リニューアルEXPO［大阪］ 旧称：施設リノベーションEXPO
+- url: https://www.japan-build.jp/hub/ja-jp/about/sbd.html
+  name: JAPAN BUILD [大阪] 第9回 スマートビルディングEXPO [大阪]
+- url: https://www.japan-build.jp/hub/ja-jp/about/sdx.html
+  name: 第10回 JAPAN BUILD 第5回 商業施設・店舗DX展[東京]
+- url: https://www.japan-build.jp/hub/ja-jp/exhibit/bmt.html
+  name: JAPAN BUILD [大阪] 第1回 ビルメンテナンスEXPO［大阪］
+- url: https://www.japan-build.jp/hub/ja-jp/exhibit/jdx.html
+  name: JAPAN BUILD [大阪] 第1回 住宅産業DX展［大阪］
+- url: https://www.japan-build.jp/hub/ja-jp/exhibit/kdx.html
+  name: 建設DX展
+- url: https://www.japan-build.jp/osaka/ja-jp.html
+  name: JAPAN BUILD OSAKA 2026（建築の先端技術展）
+- url: https://www.japan-build.jp/osaka/ja-jp/visit/cm.html
+  name: 建設現場イノベーション展【大阪】（JAPAN BUILD内）
+- url: https://www.japan-build.jp/osaka/ja-jp/visit/sdx.html
+  name: JAPAN BUILD [大阪] 第4回 商業施設・店舗DX展 [大阪]
+- url: https://www.japan-build.jp/tokyo-2/ja-jp.html
+  name: 建設DX展＋ ※ものづくり ワールド [東京]と同時開催
+- url: https://www.japan-build.jp/tokyo/ja-jp.html
+  name: JAPAN BUILD TOKYO
+- url: https://www.japan-it.jp/autumn/ja-jp/about/ai.html
+  name: Japan IT Week秋 AI・業務自動化 展
+- url: https://www.japan-it.jp/autumn/ja-jp/about/iot.html
+  name: Japan IT Week秋 IoTソリューション展
+- url: https://www.japan-it.jp/autumn/ja-jp/about/meta.html
+  name: Japan IT Week秋 メタバース活用EXPO
+- url: https://www.japan-it.jp/dx/ja-jp.html
+  name: Japan DX & AX Week【秋】2026
+- url: https://www.japan-it.jp/dx/ja-jp/visit/deskless.html
+  name: 現場DX EXPO
+- url: https://www.japan-it.jp/dx/ja-jp/visit/office.html
+  name: 社内業務DX EXPO
+- url: https://www.japan-it.jp/ec-store/ja-jp.html
+  name: EC・店舗 Week【秋】2026
+- url: https://www.japan-it.jp/ec-store/ja-jp/visit/storex.html
+  name: 売れる店舗づくり EXPO
+- url: https://www.japan-it.jp/hub/ja-jp/visit/ai.html
+  name: IT・DX・AI総合展 Japan DX Week 秋 2025 AI・業務自動化展 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/deskless.html
+  name: IT・DX・AI総合展 Japan DX Week 秋 2025 現場DX EXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/dse.html
+  name: AIインフラ・データセンターEXPO【秋】
+- url: https://www.japan-it.jp/hub/ja-jp/visit/ec.html
+  name: IT・DX・AI総合展 EC・店舗 Week 秋 2025 秋 EC管理・物流 EXPO
+- url: https://www.japan-it.jp/hub/ja-jp/visit/ecui.html
+  name: IT・DX・AI総合展 EC・店舗 Week 秋 2025 秋 ECサイトのUI/UXEXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/esec.html
+  name: IT・DX・AI総合展 Japan IT Week 秋 2025 Iot・エッジコンピューティング EXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/ist.html
+  name: IT・DX・AI総合展 Japan IT Week 秋 2025 情報セキュリティ EXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/ith.html
+  name: ITエンジニア派遣・育成 EXPO
+- url: https://www.japan-it.jp/hub/ja-jp/visit/office.html
+  name: IT・DX・AI総合展 Japan DX Week 秋 2025 社内業務DX EXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/sdx.html
+  name: IT・DX・AI総合展 営業・デジタルマーケティング Week 秋 2025 営業DX EXPO 秋
+- url: https://www.japan-it.jp/hub/ja-jp/visit/sodec.html
+  name: ソフトウェア受託開発・開発支援展
+- url: https://www.japan-it.jp/hub/ja-jp/visit/sth.html
+  name: IT・DX・AI総合展 EC・店舗 Week 秋 2025 秋 店舗の人手不足対策 EXPO
+- url: https://www.japan-it.jp/hub/ja-jp/visit/storex.html
+  name: IT・DX・AI総合展 EC・店舗 Week 秋 2025 秋 店舗管理・運営 EXPO
+- url: https://www.japan-it.jp/hub/ja-jp/visit/web.html
+  name: IT・DX・AI総合展 営業・デジタルマーケティング Week 秋 2025 デジタルマーケティング EXPO 秋
+- url: https://www.japan-it.jp/it/ja-jp.html
+  name: Japan IT Week【秋】2026
+- url: https://www.japan-it.jp/it/ja-jp/visit/esec.html
+  name: 組込み・エッジ・IoT開発EXPO（ESEC）
+- url: https://www.japan-it.jp/it/ja-jp/visit/iot.html
+  name: IoTシステム開発 EXPO【秋】
+- url: https://www.japan-it.jp/it/ja-jp/visit/ist.html
+  name: '"AI時代の" 情報セキュリティEXPO'
+- url: https://www.japan-it.jp/nagoya/ja-jp.html
+  name: Japan IT Week 名古屋 2025
+- url: https://www.japan-it.jp/osaka/ja-jp.html
+  name: Japan DX Week 関西 2025
+- url: https://www.japan-it.jp/sales-marketing/ja-jp.html
+  name: 営業・デジタルマーケティング Week【秋】2026
+- url: https://www.japan-it.jp/sales-marketing/ja-jp/visit/sdx.html
+  name: 営業DX EXPO
+- url: https://www.japan-it.jp/sales-marketing/ja-jp/visit/web.html
+  name: デジタルマーケティング EXPO
+- url: https://www.japan-it.jp/spring/ja-jp.html
+  name: Japan IT Week【春】
+- url: https://www.japan-mobility-show.com/
+  name: Japan Mobility Show Bizweek 2026（CEATEC併催）
+- url: https://www.japanjewelleryfair.com/
+  name: Japan Jewellery Fair 2026
+- url: https://www.jasa.or.jp/etwest/
+  name: EdgeTech＋ West 2025
+- url: https://www.jasa.or.jp/expo/
+  name: EdgeTech＋ 2025
+- url: https://www.jasis.jp/
+  name: JASIS 2025
+- url: https://www.jcdsc.org/news/260421.php
+  name: カードセキュリティフォーラム2026
+- url: https://www.jecafair.jp/
+  name: JECA FAIR 2025
+- url: https://www.jetro.go.jp/j-messe/tradefair/detail/144620
+  name: 第3回 製造業DX展[福岡]
+- url: https://www.jewelry-fes.jp/
+  name: TOKYO JEWELRY FES 2026
+- url: https://www.jfex.jp/hub/ja-jp.html
+  name: “日本の食品”輸出EXPO【SUMMER】
+- url: https://www.jfex.jp/jfex/ja-jp.html
+  name: JFEX WINTER（国際 食品・飲料 商談Week）
+- url: https://www.jfex.jp/jpfood/ja-jp.html
+  name: 第13回 日本の食品 輸出EXPO WINTER
+- url: https://www.jima-show.jp/
+  name: 自動認識総合展
+- url: https://www.jma.or.jp/BMCL/
+  name: ビルメンヒューマンフェア＆クリーンEXPO 2026
+- url: https://www.jma.or.jp/TF/
+  name: TECHNO×FRONTIER 2025
+- url: https://www.jma.or.jp/homeshow/tokyo/
+  name: Japan Home Show & Building Show 2026
+- url: https://www.jma.or.jp/khs/
+  name: 九州ホーム＆ビルディングショー 2025
+- url: https://www.jma.or.jp/tf/index.html
+  name: TECHNO-FRONTIER 2024
+- url: https://www.jma.or.jp/tf/outline/dx.html
+  name: TECHNO-FRONTIER 2025 工場内のデジタルトランスフォーメーション(DX)展
+- url: https://www.jma.or.jp/tf/outline/index.html
+  name: TECHNO-FRONTIER 2025
+- url: https://www.jma.or.jp/tf/outline/motion.html
+  name: TECHNO-FRONTIER 2025 第34回 モーション・エンジニアリング展
+- url: https://www.jma.or.jp/tf/outline/robot.html
+  name: TECHNO-FRONTIER 2025 第5回 スマート工場内の搬送系および協働ロボット利活用展
+- url: https://www.jma.or.jp/tf/outline/visualization.html
+  name: TECHNO-FRONTIER 2025 第18回 工場内のシステム見える化展
+- url: https://www.jma.or.jp/toshiken/hkd/index.php
+  name: インフラ検査・維持管理・更新展
+- url: https://www.jma.or.jp/toshiken/hkd/outline/disaster_index.php
+  name: 北海道 建設開発総合展
+- url: https://www.jma.or.jp/toshiken/index.php
+  name: 九州 インフラ検査・維持管理展2025
+- url: https://www.jma.or.jp/toshiken/ksh/index.php
+  name: 【福岡県】九州 都市開発・建設総合展2024
+- url: https://www.jpcashow.com/show2024/index.html
+  name: 電子機器トータルソリューション展
+- url: https://www.jpcashow.com/show2025/index.html
+  name: 電子機器トータルソリューション展 2025
+- url: https://www.jpcashow.com/show2025/outline/index.html
+  name: AIデバイス展
+- url: https://www.jpcashow.com/show2026/
+  name: 電子機器トータルソリューション展 2026
+- url: https://www.jumbo-fair.jp/
+  name: 第51回ジャンボびっくり見本市 東京
+- url: https://www.k-ene.jp/
+  name: 九州次世代エネルギー展
+- url: https://www.kansai-exfair.com/
+  name: 関西エクステリアフェア 2026
+- url: https://www.keysight.com/jp/ja/events/japan/keysight-world-tech-days.html?elq_cid=13301857&cmpid=ELQ-39508
+  name: Keysight World
+- url: https://www.kikikanri.biz/
+  name: 危機管理産業展 (RISCON TOKYO) 2025
+- url: https://www.kobemesse.com/
+  name: 国際フロンティア産業メッセ2024
+- url: https://www.ksrp.or.jp/fais/robot/forum/
+  name: ロボット産業マッチングフェア北九州2025
+- url: https://www.kyouikuict.jp/
+  name: 関西教育ICT展
+- url: https://www.labelforum.jp/
+  name: ラベルフォーラムジャパン2026
+- url: https://www.libraryfair.jp/
+  name: 第28回 図書館総合展 2026
+- url: https://www.lifestyle-expo.jp/autumn/ja-jp.html
+  name: ライフスタイル Week【秋】
+- url: https://www.living-and-design.com/2026aw/index.htm
+  name: LIVING & DESIGN 2026
+- url: https://www.logis-tech-tokyo.gr.jp/ltt/index.html
+  name: 国際物流総合展 INNOVATION EXPO 2024
+- url: https://www.low-cf.jp/east/
+  name: Offshore Tech Japan 2027
+- url: https://www.low-cf.jp/east/index.html
+  name: ENEX 2027
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/am.html
+  name: 次世代 3Dプリンタ展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/cybersecurity.html
+  name: 第11回 ものづくりワールド [名古屋] 製造業サイバーセキュリティ展
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/dms.html
+  name: 設計・製造ソリューション展（DMS Tokyo） ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/factex.html
+  name: 工場設備・備品展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/kyushu-semiconductor-world.html
+  name: 半導体装置 開発展（九州 半導体ワールド in 福岡内）
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/maintenance.html
+  name: スマートメンテナンス展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/mdx.html
+  name: 製造業DX展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/medix.html
+  name: ヘルスケア・医療機器 開発展（MEDIX） ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/mtech.html
+  name: 機械要素技術展（M-Tech） ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/mts.html
+  name: 計測・検査・センサ展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/next.html
+  name: ものづくりNEXT（ものづくり ワールド［福岡］内）
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/odm.html
+  name: ものづくりODM/EMS展
+- url: https://www.manufacturing-world.jp/hub/ja-jp/about/physicalai.html
+  name: フィジカルAI展 ※ものづくり ワールド [東京]の構成展示会
+- url: https://www.manufacturing-world.jp/kyushu/ja-jp.html
+  name: 第2回 ものづくり ワールド [九州]
+- url: https://www.manufacturing-world.jp/kyushu/ja-jp/about/cybersecurity.html
+  name: 第2回 製造業サイバーセキュリティ展 [福岡] 第3回 ものづくり ワールド [福岡]
+- url: https://www.manufacturing-world.jp/nagoya/ja-jp.html
+  name: ものづくり ワールド 名古屋
+- url: https://www.manufacturing-world.jp/nagoya/ja-jp/about/cybersecurity.html
+  name: 第1回 製造業サイバーセキュリティ展 [名古屋]
+- url: https://www.manufacturing-world.jp/nagoya/ja-jp/about/dms.html
+  name: 設計・製造ソリューション展［名古屋］
+- url: https://www.manufacturing-world.jp/nagoya/ja-jp/about/factex.html
+  name: 工場設備・備品展［名古屋］
+- url: https://www.manufacturing-world.jp/nagoya/ja-jp/about/mdx.html
+  name: 製造業DX展［名古屋］
+- url: https://www.manufacturing-world.jp/osaka/ja-jp.html
+  name: 第29回 ものづくり ワールド［大阪］
+- url: https://www.manufacturing-world.jp/osaka/ja-jp/about/cybersecurity.html
+  name: ものづくりワールド大阪 第2回 製造業サイバーセキュリティ展 [大阪]
+- url: https://www.manufacturing-world.jp/osaka/ja-jp/about/dms.html
+  name: ものづくりワールド大阪 第28回 設計・製造ソリューション展 [大阪]
+- url: https://www.manufacturing-world.jp/osaka/ja-jp/about/maintenance.html
+  name: 第28回 ものづくりワールド大阪 第1回 スマートメンテナンス展 大阪
+- url: https://www.manufacturing-world.jp/osaka/ja-jp/about/mdx.html
+  name: ものづくりワールド大阪 第4回 製造業DX展 [大阪]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp.html
+  name: ものづくり ワールド [東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about.html
+  name: 第38回 ものづくり ワールド [東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/cybersecurity.html
+  name: 第1回 製造業サイバーセキュリティ展 [東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/dms.html
+  name: ものづくりワールド［東京］ 第37回 設計・製造ソリューション展[東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/factex.html
+  name: ものづくりワールド［東京］ 第8回 工場設備・備品展 [東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/maintenance.html
+  name: ものづくりワールド［東京］ スマートメンテナンス展 東京
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/mdx.html
+  name: ものづくりワールド［東京］ 第3回 製造業DX展 [東京]
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/medix.html
+  name: ものづくりワールド［東京］ ヘルスケア・医療機器 開発/展
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/mts.html
+  name: ものづくりワールド東京 2025 計測・検査・センサ展
+- url: https://www.manufacturing-world.jp/tokyo/ja-jp/about/odm.html
+  name: ものづくりワールド［東京］ 第3回 ものづくりODM/EMS展 [東京]
+- url: https://www.marketing-week.jp/
+  name: マーケティングWeek【秋】
+- url: https://www.marketing-week.jp/autumn/ja-jp.html
+  name: 第19回 デジタルマーケティング強化 EXPO -秋-
+- url: https://www.marketing-week.jp/hub/ja-jp/about.html
+  name: 第17回 マーケティングWeek -夏 2025-
+- url: https://www.marketing-week.jp/hub/ja-jp/about/ct.html
+  name: 第6回 マーケティング Week大阪2025 クリエイティブTech EXPO 大阪
+- url: https://www.marketing-week.jp/hub/ja-jp/about/mrt.html
+  name: 第6回 マーケティング Week大阪2025 マーケター採用・育成支援 EXPO 大阪
+- url: https://www.marketing-week.jp/hub/ja-jp/about/sse.html
+  name: 第6回 マーケティング Week大阪2025 営業支援 EXPO 大阪
+- url: https://www.marketing-week.jp/osaka/ja-jp.html
+  name: マーケティングWeek 大阪 2026
+- url: https://www.marketing-week.jp/summer/ja-jp.html
+  name: マーケティングWeek 東京【夏】
+- url: https://www.material-expo.jp/
+  name: 高機能素材 Week 2026（幕張）
+- url: https://www.material-expo.jp/osaka/ja-jp/visit/photo.html
+  name: 第5回 Photonix [大阪]
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/cera.html
+  name: 第11回 高機能セラミックス展 CERAMIC JAPAN
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/coat.html
+  name: 第9回 塗料・塗装設備展 COATING JAPAN
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/dry.html
+  name: 第1回 [次世代]乾燥プロセス展 -ドライテック-
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/ehc.html
+  name: 第1回 猛暑テック -猛暑対策テクノロジー展-
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/film.html
+  name: 第17回 高機能フィルム展 FILMTECH JAPAN
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/ftj.html
+  name: FINETECH JAPAN 2026（高機能素材 Week 同時開催）
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/gpj.html
+  name: 第3回 素材工場の脱炭素化展 Green Process Japan
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/joi.html
+  name: 第10回 接着・接合 EXPO
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/mate.html
+  name: 第1回 高機能マテリアル展
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/metal.html
+  name: 第13回 高機能 金属展 METAL JAPAN
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/photo.html
+  name: Photonix（光・レーザー技術展）
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/pla.html
+  name: 第15回 高機能プラスチック開発・製造展
+- url: https://www.material-expo.jp/tokyo/ja-jp/visit/rtj.html
+  name: リサイクルテック ジャパン 2026
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp-inv/hea.html
+  name: 未病・予防・健康EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp-inv/pha.html
+  name: 次世代薬局EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/cli.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京) クリニック EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/cli.html?co=tokyo_fv
+  name: クリニックEXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/dx.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京) 医療 DX・IT EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/dx.html?co=hub_fv
+  name: 医療DX EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/hos.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京) 第8回 病院 EXPO 東京
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/hos.html?co=tokyo_fv
+  name: 第7回 病院EXPO [東京]
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/ks.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京) 感染対策 EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/ns.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京) 介護・福祉 EXPO
+- url: https://www.medical-jpn.jp/hub/ja-jp/lp/ns.html?co=tokyo_fv
+  name: 第7回 介護&看護 EXPO [東京]
+- url: https://www.medical-jpn.jp/tokyo/ja-jp.html
+  name: 第8回 メディカルジャパン 東京 (医療・介護・薬局 Week 東京)
+- url: https://www.medical-jpn.jp/tokyo/ja-jp.html?co=hubtop
+  name: メディカル ジャパン（医療・介護・薬局 Week）
+- url: https://www.messenagoya.jp/
+  name: メッセナゴヤ2026
+- url: https://www.metaverse-expo.jp/hub/ja-jp.html
+  name: メタバース総合展 meta NEXT
+- url: https://www.mf-tokyo.jp/j/index.html
+  name: MF-TOKYO 2025 第8回 プレス・板金・フォーミング展
+- url: https://www.mfg.cj-exhibition.com/
+  name: CONVERTECH 2027
+- url: https://www.mobacshow.com/
+  name: ２０２５モバックショウ
+- url: https://www.mt-expo.jp/
+  name: 測定計測展2025
+- url: https://www.n-expo.jp/
+  name: 2026NEW環境展
+- url: https://www.n-plus.biz/
+  name: エヌプラス(N-Plus)2025 フライングカーテクノロジー2025
+- url: https://www.n-plus.biz/outline/
+  name: エヌプラス(N-Plus)2025 N＋Sustainability
+- url: https://www.nanotechexpo.jp/
+  name: nano tech 2026（第26回 国際ナノテクノロジー総合展・技術会議）
+- url: https://www.nepconjapan.jp/autumn/ja-jp.html
+  name: 第4回 ネプコン ジャパン
+- url: https://www.nepconjapan.jp/nagoya/ja-jp.html
+  name: 第８回 ネプコン ジャパン
+- url: https://www.nextech-week.jp/
+  name: AI・人工知能 EXPO NEO
+- url: https://www.nextech-week.jp/autumn/ja-jp.html
+  name: Nextech Week 【秋】、XR総合展
+- url: https://www.nextech-week.jp/hub/ja-jp.html
+  name: NexTech Week 2024【秋】
+- url: https://www.nextech-week.jp/hub/ja-jp/about/ai.html
+  name: AI・人工知能 EXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/about/bc.html
+  name: ブロックチェーン EXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/about/dxh.html
+  name: AI時代の人材・組織改革EXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/about/hr.html
+  name: ヒューマノイドロボットEXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/about/ph.html
+  name: フィジカルAI EXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/about/qc.html
+  name: 量子コンピューティング EXPO
+- url: https://www.nextech-week.jp/hub/ja-jp/visit/ai.html
+  name: 第5回 AI・人工知能 EXPO【秋】
+- url: https://www.nextech-week.jp/hub/ja-jp/visit/bc.html
+  name: 第6回 ブロックチェーンEXPO【春】
+- url: https://www.nextech-week.jp/hub/ja-jp/visit/dxh.html
+  name: NexTech Week デジタル人材育成支援EXPO 秋
+- url: https://www.nextech-week.jp/hub/ja-jp/visit/qc.html
+  name: 第5回 量子コンピューティングEXPO【春】
+- url: https://www.nextech-week.jp/spring/ja-jp.html
+  name: Nextech Week 【春】
+- url: https://www.nice-o.or.jp/wp-content/uploads/2026/02/01_%E4%B8%89%E4%BA%95%E7%89%A9%E7%94%A3%E6%B5%81%E9%80%9A%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97FOODSHOW2026_%E5%87%BA%E5%B1%95%E8%80%85%E5%8B%9F%E9%9B%86%E8%A6%81%E9%A0%85.pdf
+  name: 三井物産流通グループ フードショー2026 （クローズド商談会/公式サイト無/エントリーサイトのみ）
+- url: https://www.nikkanseibu-eve.com/mono/
+  name: モノづくりフェア 2025
+- url: https://www.noma-bcd.com/
+  name: 企業立地フェア
+- url: https://www.noma-hs.com/
+  name: 構成モダンホスピタルショウ
+- url: https://www.noma-lgf.com/
+  name: 第28回 自治体総合フェア 2024
+- url: https://www.office-expo.jp/hub/ja-jp/about/ai.html
+  name: バックオフィスAIエージェント EXPO【東京】
+- url: https://www.office-expo.jp/hub/ja-jp/about/bousai.html
+  name: 第24回 総務・人事・経理 Week オフィス防災 EXPO 2025［秋］
+- url: https://www.office-expo.jp/hub/ja-jp/about/hr.html
+  name: 第24回 総務・人事・経理 Week HR EXPO
+- url: https://www.office-expo.jp/hub/ja-jp/about/legal.html
+  name: 第24回 総務・人事・経理 Week 法務・コンプライアンス EXPO
+- url: https://www.office-expo.jp/hub/ja-jp/about/ofs.html
+  name: 第24回 総務・人事・経理 Week 総務サービス EXPO 2025［秋］
+- url: https://www.office-expo.jp/hub/ja-jp/about/pr.html
+  name: 第24回 総務・人事・経理 Week PR EXPO
+- url: https://www.office-expo.jp/hub/ja-jp/about/ws.html
+  name: 第24回 総務・人事・経理 Week 働き方改革 EXPO 2025［秋］
+- url: https://www.office-expo.jp/kansai/ja-jp.html
+  name: 総務・人事・経理Week（RX Japan）
+- url: https://www.office-expo.jp/tokyo/ja-jp.html
+  name: 総務・人事・経理Week【東京】2026（構成展：HR EXPO、働き方改革EXPO 等）
+- url: https://www.office-expo.jp/tokyo/ja-jp/visit.html?co=lp-inv-week
+  name: 総務・人事・経理Week 2026
+- url: https://www.opie.jp/about/exhibition/
+  name: 光と画像のセンサ＆イメージングEXPO 2025
+- url: https://www.optojapan.jp/mems/ja/
+  name: MEMSセンシング&ネットワークシステム展2024
+- url: https://www.orgatec-tokyo.jp/
+  name: オルガテック東京2026
+- url: https://www.pharmait-expo.com/
+  name: ファーマIT＆デジタルヘルス エキスポ 2024
+- url: https://www.photonext.jp/
+  name: PHOTONEXT 2026
+- url: https://www.print.or.jp/event/hope2026.html
+  name: HOPE 2026（HOKKAIDO PRINT EXPO）
+- url: https://www.publicweek.jp/
+  name: 自治体・公共Week
+- url: https://www.rd.ntt/as/tforum/
+  name: TSUKUBA FORUM 2025
+- url: https://www.rd.ntt/forum/2023/
+  name: NTT R&Dフォーラム
+- url: https://www.rd.ntt/forum/2025/
+  name: NTT R&Dフォーラム（NTT社員内覧会）
+- url: https://www.ric.co.jp/expo/local5g2024/
+  name: ローカル5Gサミット2024
+- url: https://www.s-kumamoto.jp/
+  name: 先進建設・防災・減災技術フェアin熊本2025
+- url: https://www.sangyo-koryuten.tokyo/
+  name: 産業交流展2026
+- url: https://www.seajapan.ne.jp/aboutseajapan/
+  name: Sea Japan 2024
+- url: https://www.seecat.biz/
+  name: テロ対策特殊装備展 (SEECAT) '25
+- url: https://www.semiconjapan.org/jp
+  name: SEMICON Japan 2026
+- url: https://www.sensorexpojapan.com/
+  name: SENSOR EXPO JAPAN センサエキスポジャパン 2024
+- url: https://www.sgrte.jp/
+  name: 地盤技術フォーラム 2026
+- url: https://www.smart-logistic.jp/hub/ja-jp/exhibit/ldx.html
+  name: 物流DX展 ※ものづくり ワールド [東京]と同時開催
+- url: https://www.smart-logistic.jp/nagoya/ja-jp.html
+  name: 第5回 名古屋 スマート物流 EXPO
+- url: https://www.smart-logistic.jp/tokyo/ja-jp.html
+  name: スマート物流 EXPO
+- url: https://www.smartsensingexpo.com/
+  name: Smart Sensing 2026 / SEMISOL 2026（半導体後工程技術＆ソリューション展）
+- url: https://www.sogo-unicom.co.jp/funeral/fair/
+  name: Funeral Business Fair 2026（フューネラルビジネスフェア横浜）
+- url: https://www.sogo-unicom.co.jp/lhf/
+  name: レジャーホテルフェア2025
+- url: https://www.sogo-unicom.co.jp/lsi/
+  name: レジャー＆サービス産業展2025
+- url: https://www.spexa.jp/tokyo/ja-jp.html
+  name: SPEXA -Space Business Expo-
+- url: https://www.sportsexpo.jp/ja-jp.html
+  name: スタジアム・アリーナ EXPO
+- url: https://www.srobo.jp/
+  name: 横浜ロボットワールド
+- url: https://www.srobo.jp/index.html
+  name: 横浜ロボットワールド2024
+- url: https://www.surtech.jp/
+  name: SURTECH 2026 表面技術要素展
+- url: https://www.t-expo.jp/
+  name: ツーリズムEXPOジャパン2026
+- url: https://www.t-expo.jp/biz/travel_solutions
+  name: トラベルソリューション展2025
+- url: https://www.t-expo.jp/biz/travel_solutions2026
+  name: トラベルソリューション展2026 （ツーリズムEXPO内）
+- url: https://www.tctjapan.jp/
+  name: TCT Japan 2027
+- url: https://www.tech-yokohama.jp/
+  name: テクニカルショウヨコハマ2024
+- url: https://www.techbizexpo.com/
+  name: 次世代ものづくり基盤技術産業展 2024
+- url: https://www.technofair.jp/about/
+  name: 北陸技術交流テクノフェア2025
+- url: https://www.this.ne.jp/
+  name: 健康博覧会【秋】
+- url: https://www.tokyo-pack.jp/event/13994
+  name: TOKYO PACK 2026（2026東京国際包装展）
+- url: https://www.tooljapan.jp/ja-jp.html
+  name: TOOL JAPAN 2026
+- url: https://www.truckexpo.jp/2024/
+  name: 運輸安全・物流DX EXPO 2024
+- url: https://www.truckexpo.jp/2025/
+  name: 運輸安全・物流DX EXPO 2025
+- url: https://www.tv-osaka.co.jp/kbe/
+  name: 第10回関西放送機器展
+- url: https://www.tvoe.co.jp/bmk/
+  name: バリアフリー2025 ー第31回 高齢者・障がい者の快適な生活を提案する総合福祉展ー
+- url: https://www.wearable-expo.jp/
+  name: ウェアラブルEXPO
+- url: https://www.worldhealthexpo.com/events/healthcare/japan/ja/
+  name: WHX Osaka（World Health Expo Osaka）
+- url: https://www.wsew.jp/autumn/ja-jp.html
+  name: Smart Energy Week【秋】2026
+- url: https://www.wsew.jp/autumn/ja-jp/about/pv.html
+  name: PV EXPO【秋】（国際太陽光発電展）
+- url: https://www.wsew.jp/autumn/ja-jp/lp/wd.html?gad_source=1&gad_campaignid=23971922391&gbraid=0AAAAACzyvagZ_p0SbJOh9zjq_TwuoKVEO
+  name: WIND EXPO【秋】（国際風力発電展）
+- url: https://www.wsew.jp/hub/ja-jp/about/bj.html
+  name: BATTERY JAPAN（国際二次電池展）
+- url: https://www.wsew.jp/hub/ja-jp/about/ccus.html
+  name: CCUS EXPO
+- url: https://www.wsew.jp/hub/ja-jp/about/fc.html
+  name: H2 & FC EXPO【秋】（国際水素・燃料電池展）
+- url: https://www.wsew.jp/hub/ja-jp/about/fck.html
+  name: H2 POWER WORLD OSAKA
+- url: https://www.wsew.jp/hub/ja-jp/about/fusion.html
+  name: スマートエネルギーWEEK 秋 2025 FUSION POWER EXPO
+- url: https://www.wsew.jp/hub/ja-jp/about/sg.html
+  name: SMART GRID EXPO【秋】
+- url: https://www.wsew.jp/hub/ja-jp/about/tex.html
+  name: 【国際】熱エネルギー展（I-TEX JAPAN）
+- url: https://www.wsew.jp/osaka/ja-jp.html
+  name: SMART ENERGY WEEK2026
+- url: https://www.xr-fair.jp/
+  name: 第5回 XR・メタバース総合展【秋】
+- url: https://www.xr-fair.jp/hub/ja-jp.html
+  name: 第4回 XR総合展【夏】
+- url: https://www8.ric.co.jp/expo/wj/
+  name: ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク
+- url: https://xr-meta-biz.tokyo/
+  name: TOKYO XR・メタバース&コンテンツビジネスワールド
+- url: https://zenchin-fair.com/
+  name: 賃貸住宅フェア 2026大阪
+- url: https://zhejiangfair-osaka.com/jp/
+  name: 2026大阪国際ライフスタイルショー
+- url: https://zhejiangfair-osaka.com/jp/zhejiang/
+  name: 2026浙江省輸出商品（大阪）交易会

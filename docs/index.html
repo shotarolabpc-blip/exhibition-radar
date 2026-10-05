@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>展示会レーダー</title>
+  <meta name="description" content="日本国内のIT・無線関連展示会情報を公開Web情報から自動収集した一覧">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <h1>展示会レーダー <span class="sub">IT・無線</span></h1>
+      <p class="updated" id="lastUpdated">読み込み中…</p>
+    </div>
+    <div class="wrap">
+      <ul class="stats" id="stats" aria-label="集計"></ul>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <form class="filters" id="filters" autocomplete="off" onsubmit="return false">
+      <div class="row">
+        <label class="search">
+          <span class="visually-hidden">キーワード検索</span>
+          <input type="search" id="q" placeholder="キーワード検索（イベント名・概要・会場・カテゴリ）">
+        </label>
+      </div>
+
+      <div class="row">
+        <span class="label">期間</span>
+        <div class="presets" role="group" aria-label="期間プリセット">
+          <button type="button" data-preset="this">今月</button>
+          <button type="button" data-preset="next">来月</button>
+          <button type="button" data-preset="m3">3か月以内</button>
+          <button type="button" data-preset="m5">5か月以内</button>
+          <button type="button" data-preset="all">すべて</button>
+        </div>
+        <label class="date">From <input type="date" id="from"></label>
+        <label class="date">To <input type="date" id="to"></label>
+        <label class="check"><input type="checkbox" id="undated" checked> 日程未定を含める</label>
+      </div>
+
+      <fieldset class="row regions">
+        <legend class="label">地域</legend>
+        <div id="regionBoxes" class="checks"></div>
+      </fieldset>
+
+      <div class="row selects">
+        <details class="multi" id="catSelect">
+          <summary>カテゴリ：<span class="multi-value">すべて</span></summary>
+          <div class="multi-panel" role="group" aria-label="カテゴリ"></div>
+        </details>
+        <details class="multi" id="venueSelect">
+          <summary>会場：<span class="multi-value">すべて</span></summary>
+          <div class="multi-panel" role="group" aria-label="会場"></div>
+        </details>
+        <details class="multi" id="statusSelect">
+          <summary>ステータス：<span class="multi-value">すべて</span></summary>
+          <div class="multi-panel" role="group" aria-label="ステータス"></div>
+        </details>
+        <label class="check"><input type="checkbox" id="group"> 総合展でまとめる</label>
+        <button type="button" id="clear" class="link-button">条件クリア</button>
+      </div>
+    </form>
+
+    <div class="toolbar">
+      <p class="count" id="count" aria-live="polite"></p>
+      <div class="downloads">
+        <button type="button" id="dlView" title="表示中のイベントを詳細列付きでダウンロード">⬇ 表示中をCSV</button>
+        <button type="button" id="dlExcel" title="表示中のイベントを既存Excelの列構成でダウンロード">⬇ Excel転記用CSV</button>
+        <button type="button" id="dlNew" title="直近の収集で新規・更新になったイベントのみ（Excel列構成）">⬇ 今回新規・更新のみ</button>
+      </div>
+    </div>
+
+    <div class="table-wrap">
+      <table id="table">
+        <thead>
+          <tr>
+            <th scope="col" data-sort="status">状態</th>
+            <th scope="col" data-sort="event_name">イベント名</th>
+            <th scope="col" data-sort="start_date">開始日</th>
+            <th scope="col" data-sort="end_date">終了日</th>
+            <th scope="col" data-sort="venue">会場</th>
+            <th scope="col" data-sort="region" class="col-region">地域</th>
+            <th scope="col" data-sort="categories" class="col-cat">カテゴリ</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+      <p class="empty" id="empty" hidden>条件に一致するイベントはありません。</p>
+    </div>
+  </main>
+
+  <dialog id="detail" aria-labelledby="detailTitle">
+    <div class="detail-head">
+      <h2 id="detailTitle"></h2>
+      <button type="button" class="close" id="detailClose" aria-label="閉じる">×</button>
+    </div>
+    <div id="detailBody"></div>
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>公開情報を自動で収集したものです。正確な情報は各公式サイトでご確認ください。</p>
+      <p>全件CSV：<a href="data/events.csv" download>Excel転記用（全件）</a> ／ <a href="data/events_detail.csv" download>詳細（全件）</a></p>
+    </div>
+  </footer>
+
+  <script src="assets/csv.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

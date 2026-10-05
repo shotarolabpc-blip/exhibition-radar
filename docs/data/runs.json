@@ -1,0 +1,21 @@
+[
+ {
+  "run_at": "2026-10-05T15:00:04+09:00",
+  "type": "import",
+  "period": {
+   "from": "2026-10-05",
+   "to": "2027-03-31"
+  },
+  "sources_total": 0,
+  "sources_failed": 0,
+  "pages_fetched": 0,
+  "gemini_requests": 0,
+  "new": 0,
+  "updated": 0,
+  "needs_review": 8,
+  "imported": 861,
+  "archived": 567,
+  "total": 294,
+  "errors": []
+ }
+]

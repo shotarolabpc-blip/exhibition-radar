@@ -1,0 +1,536 @@
+[
+ {
+  "id": "evt_16e7ce36",
+  "event_name": "国際 スマート農業EXPO",
+  "parent_event_name": "国際 スマート農業EXPO",
+  "sub_event_name": "",
+  "start_date": "2023-10-11",
+  "end_date": "2023-10-13",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "最新のIT・DX、ドローン、ロボット、参入支援など最新技術が一堂に集結",
+  "url": "https://www.agriexpo-week.jp/tokyo/ja-jp/about/agrinext.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4046e74f",
+  "event_name": "CEATEC 2023",
+  "parent_event_name": "CEATEC 2023",
+  "sub_event_name": "",
+  "start_date": "2023-10-17",
+  "end_date": "2023-10-20",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本最大のIT展示会",
+  "url": "https://www.ceatec.com/ja/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_69186911",
+  "event_name": "製造業IoTカンファレンス2023秋(オンライン)",
+  "parent_event_name": "製造業IoTカンファレンス2023秋(オンライン)",
+  "sub_event_name": "",
+  "start_date": "2023-10-17",
+  "end_date": "2023-10-17",
+  "date_status": "fixed",
+  "venue": "オンライン",
+  "prefecture": "",
+  "region": "オンライン",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "製造現場における、データ・AIの活用～品質改善から生産性向上",
+  "url": "https://r-management.jp/MF_IoT/forum20231017/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4df3b086",
+  "event_name": "ad:tech tokyo 2023 （アドテック東京2023）",
+  "parent_event_name": "ad:tech tokyo 2023 （アドテック東京2023）",
+  "sub_event_name": "",
+  "start_date": "2023-10-19",
+  "end_date": "2023-10-20",
+  "date_status": "fixed",
+  "venue": "東京ミッドタウン",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "アドテクノロジーにとどまらず、あらゆるテクノロジーが企業のマーケティングマネジメントにかかわるようになる中で、常に最先端の情報を届けている",
+  "url": "https://adtech-tokyo.com/ja/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_143976ea",
+  "event_name": "Japan IT Week秋 メタバース活用EXPO",
+  "parent_event_name": "Japan IT Week秋 メタバース活用EXPO",
+  "sub_event_name": "",
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-27",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "映像・放送"
+  ],
+  "summary": "ビジネス活用のためのメタバース製品 / サービスが一堂に出展する専門展",
+  "url": "https://www.japan-it.jp/autumn/ja-jp/about/meta.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2ab0272b",
+  "event_name": "Nextech Week 【秋】、XR総合展",
+  "parent_event_name": "Nextech Week 【秋】、XR総合展",
+  "sub_event_name": "",
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-27",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AI・人工知能EXPO、ブロックチェーンEXPO、量子コンピューティングEXPO、デジタル人材育成支援EXPOの4つのEXPOで構成される、次世代を担う最新のテクノロジーと、DXの推進に不可欠なDX人材育成関連サービスの展示会",
+  "url": "https://www.nextech-week.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_53c4dd5b",
+  "event_name": "Japan IT Week秋 AI・業務自動化 展",
+  "parent_event_name": "Japan IT Week秋 AI・業務自動化 展",
+  "sub_event_name": "",
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-27",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AI＆ビジネスオートメーションに関連するあらゆる種類の最先端の技術と製品が集められます",
+  "url": "https://www.japan-it.jp/autumn/ja-jp/about/ai.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_57429a12",
+  "event_name": "Japan IT Week秋 IoTソリューション展",
+  "parent_event_name": "Japan IT Week秋 IoTソリューション展",
+  "sub_event_name": "",
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-27",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "IoT / M2M Expo（IoT Autumn）は、あらゆるIoT（モノのインターネット）/ M2M関連の製品やサービスを集めた待望の特別展",
+  "url": "https://www.japan-it.jp/autumn/ja-jp/about/iot.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_80c50ebf",
+  "event_name": "オートモーティブ ワールド 名古屋展",
+  "parent_event_name": "オートモーティブ ワールド 名古屋展",
+  "sub_event_name": "",
+  "start_date": "2023-10-25",
+  "end_date": "2023-10-27",
+  "date_status": "fixed",
+  "venue": "ポートメッセなごや",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "自動運転、クルマの電子化・電動化、コネクティッド・カー、軽量化など、自動車業界における先端テーマの最新技術が一堂に出展",
+  "url": "https://www.automotiveworld.jp/nagoya/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d50ced79",
+  "event_name": "横浜ロボットワールド",
+  "parent_event_name": "横浜ロボットワールド",
+  "sub_event_name": "",
+  "start_date": "2023-11-08",
+  "end_date": "2023-11-09",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "ロボットと次世代モビリティの開発・導入を促進する専門技術展",
+  "url": "https://www.srobo.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_c99abf6b",
+  "event_name": "NTT R&Dフォーラム",
+  "parent_event_name": "NTT R&Dフォーラム",
+  "sub_event_name": "",
+  "start_date": "2023-11-13",
+  "end_date": "2023-11-17",
+  "date_status": "fixed",
+  "venue": "NTT武蔵野研究開発センタ",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX"
+  ],
+  "summary": "新たなユースケースのニーズを創出する無線ネットワークの紹介や6G時代に向けた未来的サービスの実現",
+  "url": "https://www.rd.ntt/forum/2023/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_c32e21f8",
+  "event_name": "2023国際ロボット展",
+  "parent_event_name": "2023国際ロボット展",
+  "sub_event_name": "",
+  "start_date": "2023-11-29",
+  "end_date": "2023-12-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "国内外の最先端のロボットのほか、AI・ICT・要素技術などロボットに関わる高度な技術を展示する専門展",
+  "url": "https://irex.nikkan.co.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e397970d",
+  "event_name": "マイクロウェーブ展2023",
+  "parent_event_name": "マイクロウェーブ展2023",
+  "sub_event_name": "",
+  "start_date": "2023-11-29",
+  "end_date": "2023-12-01",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "IoT・センサ"
+  ],
+  "summary": "OpenRAN、Beyond5G、6G、ミリ波活用等の無線通信の最新技術等の発表・展示",
+  "url": "https://apmc-mwe.org/mwe2023/index.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_dc3ccd33",
+  "event_name": "先端デジタルテクノロジー展",
+  "parent_event_name": "先端デジタルテクノロジー展",
+  "sub_event_name": "",
+  "start_date": "2023-12-06",
+  "end_date": "2023-12-08",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "映像・放送"
+  ],
+  "summary": "最新の映像表現技術を集めたクリエイティブ産業と最新テクノロジーを結ぶ新しい商談展",
+  "url": "https://www.content-tokyo.jp/hub/ja-jp/about/next.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_351c6939",
+  "event_name": "ビジネスイノベーション Japan 2023【冬】",
+  "parent_event_name": "ビジネスイノベーション Japan 2023【冬】",
+  "sub_event_name": "",
+  "start_date": "2023-12-13",
+  "end_date": "2023-12-15",
+  "date_status": "fixed",
+  "venue": "ATCホール",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "VUCA・ニューノーマル時代に直面する企業の経営課題を解決するための多彩なソリューションが一堂に集う総合展示会",
+  "url": "https://www.bizcrew.jp/expo/bij-osaka",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e503c576",
+  "event_name": "建設DX展",
+  "parent_event_name": "建設DX展",
+  "sub_event_name": "",
+  "start_date": "2023-12-13",
+  "end_date": "2023-12-15",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "ドローン・ロボット"
+  ],
+  "summary": "AI・IoT関連技術、建設DXなどが世界中から出展",
+  "url": "https://www.japan-build.jp/hub/ja-jp/exhibit/kdx.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2023",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ }
+]
