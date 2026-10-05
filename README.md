@@ -74,6 +74,8 @@ $env:PYTHONUTF8=1
 | 公開リポジトリ `exhibition-radar` | GitHubの「New repository」で作成（Public） | — |
 | Gemini APIキー | Google AI Studio の「Get API key」 | GitHub の **Secrets** → `GEMINI_API_KEY` |
 | Geminiのモデル名 | Google AI Studio で、無料枠で使えるモデル名を確認 | GitHub の **Variables** → `GEMINI_MODEL` |
+| Groq APIキー（任意・予備） | https://console.groq.com/keys の「Create API Key」 | GitHub の **Secrets** → `GROQ_API_KEY` |
+| Groqのモデル名（任意・予備） | Groq のドキュメントで無料枠のモデルを確認 | GitHub の **Variables** → `GROQ_MODEL` |
 | GitHubのユーザー名 | STEP 1で決める | `config/settings.yaml` の `fetch.user_agent` にある `<GitHubユーザー名>` を置き換える（push前） |
 
 **APIキーはファイル・チャット・コミットに絶対に書かないでください。** GitHub の Secrets だけに保存します。
@@ -184,7 +186,13 @@ $env:PYTHONUTF8=1
 無効の収集元の開催分は、既知URL巡回（既存リストの公式URL）と、主催者HPで補います。
 JavaScript描画のサイトは Playwright で対応できますが、Actionsの実行時間とインストール負荷が増えるため、導入するかは別途判断してください（設計書2.2）。
 
-### 6.2 Gemini の使い方
+### 6.2 LLM（Gemini＋予備のGroq）の使い方
+- 普段は Gemini（`GEMINI_MODEL`）を使い、1回あたりの上限到達・レート制限が続く・エラーが続く場合は、自動で Groq（`GROQ_MODEL`）に切り替える（`config/settings.yaml` の `gemini.fallbacks`）
+- Groq を使うには GitHub の Secrets に `GROQ_API_KEY` を登録する（未登録なら Gemini だけで動く）
+- LLM処理の時間上限は40分（`time_budget_minutes`）。超えた分は次回に持ち越し、それまでの結果は保存する
+- 呼び出し回数の内訳は `runs.json` の `llm_usage` に記録される
+- GitHub Models は 2026年7月30日に提供終了したため使っていない
+
 - 構造化サイト（ビッグサイト・幕張）：キーワード判定を通過したイベントを15件ずつまとめて送り、関連性・カテゴリ・概要だけを付与する
 - 汎用サイト・既知URL：ページ本文を送って全項目を抽出する（会場カレンダーはキーワード判定を省略）
 - 1回の実行の上限（`gemini.max_requests_per_run`）に達した、またはレート制限が続いた場合、残りのページは処理せず、次回の実行に持ち越す（`runs.json` の `gemini_pending` に件数を記録）

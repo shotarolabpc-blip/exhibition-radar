@@ -349,6 +349,8 @@ def run(
         gemini = GeminiClient(gemini_cfg)
     if gemini.disabled_reason:
         log.warning("Gemini 無効：%s（構造化サイトのHTML抽出のみ行う）", gemini.disabled_reason)
+    for reason in gemini.skipped:
+        log.info("LLM呼び出し先を使わない：%s", reason)
     fetch_cfg = cfg.section("fetch")
     if fetcher is None:
         fetcher = Fetcher(fetch_cfg, cfg.path(fetch_cfg.get("cache_dir", "data/cache")))
@@ -394,6 +396,7 @@ def run(
         "sources_failed": collector.sources_failed,
         "pages_fetched": fetcher.pages_fetched,
         "gemini_requests": gemini.requests_made,
+        "llm_usage": gemini.usage,
         "gemini_pending": collector.gemini_pending,
         "new": sum(1 for e in pub if e.status == "new"),
         "updated": sum(1 for e in pub if e.status == "updated"),
@@ -440,6 +443,7 @@ def main(argv: Iterable[str] | None = None) -> int:
         "total",
     ):
         log.info("%s: %s", key, summary[key])
+    log.info("llm_usage: %s", summary["llm_usage"])
     for err in summary["errors"]:
         log.warning("error: %s", err)
     return 0

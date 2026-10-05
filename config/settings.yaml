@@ -19,9 +19,19 @@ gemini:
   model_env: "GEMINI_MODEL"        # モデル名は環境変数で指定（無料枠対象モデルをAI Studioで確認して設定）
   max_requests_per_run: 150
   sleep_sec: 5
-  max_input_chars: 12000
+  max_input_chars: 6000
   request_timeout_sec: 60          # 1回の呼び出しのタイムアウト
-  time_budget_minutes: 40          # Gemini処理に使う時間の上限。超えたら残りは次回に持ち越し、結果は保存する
+  time_budget_minutes: 40          # LLM処理に使う時間の上限。超えたら残りは次回に持ち越し、結果は保存する
+  # Gemini が使えなくなったとき（上限・枠切れ・エラー続き）に上から順に切り替える予備（OpenAI互換API）
+  fallbacks:
+    - name: groq
+      type: openai_compatible
+      endpoint: "https://api.groq.com/openai/v1/chat/completions"
+      api_key_env: "GROQ_API_KEY"   # GitHub Secrets
+      model_env: "GROQ_MODEL"       # GitHub Variables（例：openai/gpt-oss-120b）
+      max_requests_per_run: 100
+      sleep_sec: 3
+      max_input_chars: 4000         # 無料枠は1分あたり8,000トークンのため短めに
 
 judge:
   keyword_score_threshold: 40

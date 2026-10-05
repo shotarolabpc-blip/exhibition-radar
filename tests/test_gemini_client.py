@@ -129,3 +129,57 @@ def test_time_budget_stops_calls(monkeypatch) -> None:
     assert not c.available
     with pytest.raises(GeminiUnavailable, match="時間上限"):
         c.extract_events(PAGE, PERIOD, [])
+
+
+# ------------------------------------------------------------------ 呼び出し先の切り替え（Gemini → Groq）
+
+
+def _providers(a: Script, b: Script, **a_kw):
+    from collector.gemini_client import Provider
+
+    return [
+        Provider(name="gemini", transport=a, sleep_sec=0, **a_kw),
+        Provider(name="groq", transport=b, sleep_sec=0, max_input_chars=10, json_note="\nJSONオブジェクトで"),
+    ]
+
+
+def test_fallback_on_persistent_rate_limit() -> None:
+    a, b = Script(*[RateLimitError()] * 4), Script(json.dumps({"items": [EVENT]}))
+    c = GeminiClient({}, providers=_providers(a, b), sleep=lambda s: None)
+    assert c.extract_events(PAGE, PERIOD, []) == [EVENT]  # {"items": [...]} を配列に戻す
+    assert c.providers[0].exhausted and c.usage == {"gemini": 4, "groq": 1}
+    assert b.prompts[0].endswith("JSONオブジェクトで")
+    assert b.prompts[0].split("ページ本文：", 1)[1].startswith("\n" + "本文" * 5)  # Groqは短く切り詰め
+
+
+def test_fallback_when_request_cap_reached() -> None:
+    a, b = Script(json.dumps([])), Script(json.dumps([EVENT]))
+    c = GeminiClient({}, providers=_providers(a, b, max_requests=1), sleep=lambda s: None)
+    assert c.extract_events(PAGE, PERIOD, []) == []
+    assert c.extract_events(PAGE, PERIOD, []) == [EVENT]
+
+
+def test_fallback_on_repeated_errors_and_all_exhausted() -> None:
+    a, b = Script(ConnectionError(), ConnectionError()), Script(*[RateLimitError()] * 4)
+    c = GeminiClient({}, providers=_providers(a, b), sleep=lambda s: None)
+    with pytest.raises(GeminiUnavailable, match="枠切れ"):
+        c.extract_events(PAGE, PERIOD, [])
+    assert c.exhausted and not c.available
+
+
+def test_build_providers_skips_unconfigured(monkeypatch) -> None:
+    from collector.gemini_client import build_providers
+
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    monkeypatch.setenv("GEMINI_MODEL", "gemini-test")
+    monkeypatch.delenv("GROQ_API_KEY", raising=False)
+    cfg = {
+        "api_key_env": "GEMINI_API_KEY",
+        "model_env": "GEMINI_MODEL",
+        "fallbacks": [
+            {"name": "groq", "type": "openai_compatible", "endpoint": "https://x", "api_key_env": "GROQ_API_KEY", "model_env": "GROQ_MODEL"}
+        ],
+    }
+    providers, skipped = build_providers(cfg)
+    assert [p.name for p in providers] == ["gemini:gemini-test"]
+    assert "groq" in skipped[0]
