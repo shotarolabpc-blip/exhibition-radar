@@ -1,848 +1,5 @@
 [
  {
-  "id": "evt_fbb00742",
-  "event_name": "第39回 日本内視鏡外科学会総会／WCES 2026",
-  "parent_event_name": "第39回 日本内視鏡外科学会総会／WCES 2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-02",
-  "end_date": "2026-09-05",
-  "date_status": "fixed",
-  "venue": "パシフィコ横浜",
-  "prefecture": "神奈川県",
-  "region": "関東",
-  "categories": [
-   "その他IT"
-  ],
-  "summary": "内視鏡外科・低侵襲手術をテーマとした国際学術集会。医療機器企業の展示も併設され、医工連携や最新医療技術の交流が行われる。",
-  "url": "https://site2.convention.co.jp/wces-jses2026/ja/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_5ad336dd",
-  "event_name": "アクセシビリティカンファレンスCHIBA2026",
-  "parent_event_name": "アクセシビリティカンファレンスCHIBA2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-05",
-  "end_date": "2026-09-05",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "AI・DX",
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "企業・自治体・教育機関などが参加し、誰もが利用しやすいデジタル環境づくりをテーマに開催されるカンファレンス。公共分野のデジタル活用とも関連が深い。",
-  "url": "https://a11y-chiba.com/2026",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_cf86badc",
-  "event_name": "日本地域看護学会第29回学術集会",
-  "parent_event_name": "日本地域看護学会第29回学術集会",
-  "sub_event_name": "",
-  "start_date": "2026-09-05",
-  "end_date": "2026-09-06",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "その他IT"
-  ],
-  "summary": "日本地域看護学会による学術集会です。関係者と一般の両方を対象としています。",
-  "url": "https://jachn29.yupia.net/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_87921b49",
-  "event_name": "国際物流総合展 2026（Logis-Tech Tokyo 2026）",
-  "parent_event_name": "国際物流総合展 2026（Logis-Tech Tokyo 2026）",
-  "sub_event_name": "",
-  "start_date": "2026-09-08",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "AI・DX",
-   "ドローン・ロボット"
-  ],
-  "summary": "日本最大級の物流・ロジスティクス専門展示会。物流機器、自動化システム、ロボティクス、SCM、物流DX関連技術が集結し、物流現場の効率化・省人化をテーマに商談が行われる。",
-  "url": "https://www.logis-tech-tokyo.gr.jp/ltt/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「国際物流総合展2026」））",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   },
-   {
-    "date": "2026-10-05",
-    "change": "人手修正：url"
-   },
-   {
-    "date": "2026-10-05",
-    "change": "確認済み"
-   }
-  ]
- },
- {
-  "id": "evt_0cf516b7",
-  "event_name": "2026大阪国際ライフスタイルショー",
-  "parent_event_name": "2026大阪国際ライフスタイルショー",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "インテックス大阪",
-  "prefecture": "大阪府",
-  "region": "近畿",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "アジア各国・地域の生活関連製品やスマートプロダクトを紹介する国際商談会。日本市場向けの新製品・技術の発掘を目的とする。",
-  "url": "https://zhejiangfair-osaka.com/jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_97a86c53",
-  "event_name": "2026浙江省輸出商品（大阪）交易会",
-  "parent_event_name": "2026浙江省輸出商品（大阪）交易会",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "インテックス大阪",
-  "prefecture": "大阪府",
-  "region": "近畿",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "浙江省企業約300社による国際展示商談会。スマートプロダクトや各種産業関連製品を対象としたBtoB展示会。",
-  "url": "https://zhejiangfair-osaka.com/jp/zhejiang/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_39609cb5",
-  "event_name": "BATTERY JAPAN（国際二次電池展）",
-  "parent_event_name": "BATTERY JAPAN（国際二次電池展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ",
-   "ドローン・ロボット"
-  ],
-  "summary": "EVや蓄電池向けの二次電池技術展示会。研究開発、製造設備、材料、評価装置等が出展される。",
-  "url": "https://www.wsew.jp/hub/ja-jp/about/bj.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_a9ae0c93",
-  "event_name": "CCUS EXPO",
-  "parent_event_name": "CCUS EXPO",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "CO₂回収・利用・貯留技術を扱う専門展示会。エネルギー・化学・製造分野向けの脱炭素ソリューションが集まる。",
-  "url": "https://www.wsew.jp/hub/ja-jp/about/ccus.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_f9cbc2e1",
-  "event_name": "Foundry Tech + Expo 2026（鋳造産業展）",
-  "parent_event_name": "Foundry Tech + Expo 2026（鋳造産業展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ",
-   "ドローン・ロボット"
-  ],
-  "summary": "鋳造技術・材料・生産設備を対象とする製造業向け専門展示会。生産効率化や産業機械関連技術の展示が行われる。",
-  "url": "https://foundrytechexpo.jp.messefrankfurt.com/tokyo/ja.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_35ef1ec6",
-  "event_name": "H2 & FC EXPO【秋】（国際水素・燃料電池展）",
-  "parent_event_name": "H2 & FC EXPO【秋】（国際水素・燃料電池展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "無線・通信",
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "水素製造・輸送・利用技術を対象とした専門展示会。脱炭素社会を支えるエネルギーインフラ技術が集まる。",
-  "url": "https://www.wsew.jp/hub/ja-jp/about/fc.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_4db5d226",
-  "event_name": "PV EXPO【秋】（国際太陽光発電展）",
-  "parent_event_name": "PV EXPO【秋】（国際太陽光発電展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "AI・DX",
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "太陽光発電システム、関連部材、保守・運用技術を対象とする専門展。エネルギー管理システムなどの関連技術も紹介される。",
-  "url": "https://www.wsew.jp/autumn/ja-jp/about/pv.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_d17480cf",
-  "event_name": "SMART GRID EXPO【秋】",
-  "parent_event_name": "SMART GRID EXPO【秋】",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "無線・通信",
-   "AI・DX",
-   "IoT・センサ"
-  ],
-  "summary": "次世代電力網やEMS、VPPなど電力DX技術の専門展示会。電力・通信・制御技術の融合ソリューションが集まる。",
-  "url": "https://www.wsew.jp/hub/ja-jp/about/sg.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_e45a99ec",
-  "event_name": "Smart Energy Week【秋】2026",
-  "parent_event_name": "Smart Energy Week【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "無線・通信"
-  ],
-  "summary": "再生可能エネルギー・水素・電池・スマートグリッドなどエネルギー分野の最新技術を扱う国際展示会。インフラ・産業分野との連携も強い。",
-  "url": "https://www.wsew.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_4db75d36",
-  "event_name": "WIND EXPO【秋】（国際風力発電展）",
-  "parent_event_name": "WIND EXPO【秋】（国際風力発電展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "風力発電設備、洋上風力、保守技術などを扱う専門展示会。インフラ・エネルギー事業者向けの商談展。",
-  "url": "https://www.wsew.jp/autumn/ja-jp/lp/wd.html?gad_source=1&gad_campaignid=23971922391&gbraid=0AAAAACzyvagZ_p0SbJOh9zjq_TwuoKVEO",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_bf197235",
-  "event_name": "【国際】熱エネルギー展（I-TEX JAPAN）",
-  "parent_event_name": "【国際】熱エネルギー展（I-TEX JAPAN）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "熱エネルギーの生成・利用・回収・制御技術に特化した専門展示会。脱炭素・エネルギー効率化に向けた産業・公共インフラ技術が集結する。",
-  "url": "https://www.wsew.jp/hub/ja-jp/about/tex.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_f396ad7f",
-  "event_name": "オートモーティブワールド【秋】2026",
-  "parent_event_name": "オートモーティブワールド【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "ドローン・ロボット"
-  ],
-  "summary": "自動車の先端技術展示会。EV、ADAS、自動運転、車載ソフトなどモビリティ分野の最新技術を網羅する。",
-  "url": "https://www.automotiveworld.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_f22760c0",
-  "event_name": "サステナブル経営WEEK【秋】",
-  "parent_event_name": "サステナブル経営WEEK【秋】",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "AI・DX",
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "ESG、脱炭素、サーキュラーエコノミー、SCMを対象とする企業向け展示会。自治体や製造業のサステナビリティ推進担当者も来場する。",
-  "url": "https://www.decarbonization-expo.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_f8538160",
-  "event_name": "サーモテック2026（国際工業炉・関連機器展）",
-  "parent_event_name": "サーモテック2026（国際工業炉・関連機器展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "工業炉、熱処理装置、加熱設備などを対象とした産業技術展示会。製造プロセス高度化や省エネルギー技術が集まる。",
-  "url": "https://thermotec.jp.messefrankfurt.com/tokyo/ja.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_e09a44e3",
-  "event_name": "スマート工場EXPO【秋】2026",
-  "parent_event_name": "スマート工場EXPO【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "IoT・AIによる工場の見える化・自動化をテーマとした専門展示会。生産管理・設備監視・データ活用などの最新技術が展示される。",
-  "url": "https://www.fiweek.jp/autumn/ja-jp/about/sfe.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_57f70ccf",
-  "event_name": "ネプコンジャパン【秋】2026",
-  "parent_event_name": "ネプコンジャパン【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "電子部品・半導体・実装技術などの開発・製造技術を扱う専門展。検査・測定装置や材料技術の展示・商談が行われる。",
-  "url": "https://www.nepconjapan.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_88389cd4",
-  "event_name": "ファクトリーイノベーションWeek【秋】2026",
-  "parent_event_name": "ファクトリーイノベーションWeek【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "AI・DX"
-  ],
-  "summary": "スマート工場・ロボット・生産DXなど製造業の革新をテーマにした大規模展示会。IoT・AI・自動化技術による工場高度化を網羅。",
-  "url": "https://www.fiweek.jp/autumn/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_31aeb2f5",
-  "event_name": "フードストアソリューションズフェア2026",
-  "parent_event_name": "フードストアソリューションズフェア2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-10",
-  "date_status": "fixed",
-  "venue": "インテックス大阪",
-  "prefecture": "大阪府",
-  "region": "近畿",
-  "categories": [
-   "AI・DX",
-   "ドローン・ロボット"
-  ],
-  "summary": "流通・小売業向けの課題解決型展示会。食品流通、店舗運営、自動化、省人化、物流改善ソリューションの提案が行われる。",
-  "url": "https://www.foodstore-s.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_0e827065",
-  "event_name": "ロボデックス【秋】2026",
-  "parent_event_name": "ロボデックス【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "ドローン・ロボット"
-  ],
-  "summary": "製造・物流現場で活用されるロボット技術を紹介する専門展。AGV/AMRなど省人化・自動化技術の実演展示が行われる。",
-  "url": "https://www.fiweek.jp/autumn/ja-jp/about/robo.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_e0fa962e",
-  "event_name": "自動認識総合展",
-  "parent_event_name": "自動認識総合展",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "RFID、バーコード、生体認証などの自動認識技術に特化。流通・製造分野のデジタル化を支える技術を紹介。",
-  "url": "https://www.jima-show.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_d3deb3f0",
-  "event_name": "製造業カーボンニュートラル展【秋】2026",
-  "parent_event_name": "製造業カーボンニュートラル展【秋】2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-09",
-  "end_date": "2026-09-11",
-  "date_status": "fixed",
-  "venue": "幕張メッセ",
-  "prefecture": "千葉県",
-  "region": "関東",
-  "categories": [
-   "その他IT"
-  ],
-  "summary": "工場の省エネ・脱炭素化をテーマとした展示会。エネルギー効率化や環境対応製品など製造業の持続可能化技術を紹介する。",
-  "url": "https://www.fiweek.jp/autumn/ja-jp/about/gfe.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
   "id": "evt_6f00a0c7",
   "event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
   "parent_event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
@@ -2720,7 +1877,7 @@
   "keywords": [],
   "confidence": 85,
   "reason": "エプソンの技術や課題解決ソリューションを発見・体験できるイベントであり、IT・DX関連の要素が含まれるため抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -2760,7 +1917,7 @@
   ],
   "confidence": 100,
   "reason": "指定された期間内（2026-10-07～2026-10-09）に東京ビッグサイトで開催されるアパレル向けIT・DX専門展であり、条件を満たしているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -2799,7 +1956,7 @@
   ],
   "confidence": 95,
   "reason": "指定されたイベントページ内でファッション業界向けDXソリューションやITサービスを出展する構成展が確認でき、開催期間も2026年10月7日～9日と指定条件に合致するため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4057,7 +3214,7 @@
   ],
   "confidence": 95,
   "reason": "ページ内に記載されている「第1回 土木・建設DX/システム/ツール展」および関連出展対象（ロボット、BIM/CIM、AR/VR等）に基づき抽出。会期は2026年10月7日〜8日。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4270,7 +3427,7 @@
   ],
   "confidence": 100,
   "reason": "指定された期間内（2026年10月）に日本国内（幕張メッセ）で開催される固定日時のIT・ドローン・ロボット関連展示会であるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4310,7 +3467,7 @@
   ],
   "confidence": 95,
   "reason": "指定された開催期間内（2026-10-07～2026-10-09）の日本国内開催であり、IoTシステム等の関連技術が出展対象に含まれるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4351,7 +3508,7 @@
   ],
   "confidence": 95,
   "reason": "指定された期間内（2026年10月7日〜9日）に日本国内（幕張メッセ）で開催されるITや生体管理に関連する展示会であるため抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4468,7 +3625,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -4503,7 +3660,7 @@
   ],
   "confidence": 95,
   "reason": "CEATEC 2026の企画展示「X（Transformation）パーク」に関する公式情報を抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4539,7 +3696,7 @@
   ],
   "confidence": 95,
   "reason": "CEATEC 2026の企画展示「ネクストジェネレーションパーク」に関する公式情報を抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4575,7 +3732,7 @@
   ],
   "confidence": 95,
   "reason": "CEATEC 2026の一般展示プランに関する公式情報を抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4647,7 +3804,7 @@
   ],
   "confidence": 90,
   "reason": "学校・教育機関向けのDXやIT関連製品が多数出展される教育総合展であり、指定された開催期間・国内条件に適合しているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -4694,7 +3851,7 @@
   ],
   "confidence": 100,
   "reason": "CEATEC 2026の公式サイト内に併催イベントとして掲載されており、会期および会場情報が明確なため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5133,7 +4290,7 @@
   ],
   "confidence": 95,
   "reason": "金融分野のIT技術展であり、指定された対象期間内（2026年10月15日〜16日）に東京国際フォーラムで開催されるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5169,7 +4326,7 @@
   ],
   "confidence": 100,
   "reason": "指定された開催期間（2026-10-05以降）に広島県立広島産業会館で開催されるIT関連の展示会であるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5486,11 +4643,11 @@
    "情報セキュリティ"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -5522,11 +4679,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -5558,11 +4715,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -5601,11 +4758,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -5649,7 +4806,7 @@
   ],
   "confidence": 100,
   "reason": "日本国内開催かつ指定期間内の開催であり、構成展の一つとして明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5689,7 +4846,7 @@
   ],
   "confidence": 100,
   "reason": "日本国内開催かつ指定期間内の開催であり、構成展の一つとして明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5839,11 +4996,11 @@
    "IoT"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -5881,7 +5038,7 @@
   ],
   "confidence": 100,
   "reason": "公式ページに記載されている2026年10月の秋展に関する情報を正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5924,7 +5081,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年秋展の正確な日程、会場、およびイベント情報に基づき抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -5965,7 +5122,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年10月開催のJapan DX & AX Week 秋展の構成展であり、対象期間内かつ日本国内での開催情報が明確に確認できるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -6048,7 +5205,7 @@
   ],
   "confidence": 100,
   "reason": "Japan DX & AX Week内の社内業務DX EXPO秋展について、幕張メッセでの開催日時が明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -6093,7 +5250,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6134,7 +5291,7 @@
   ],
   "confidence": 100,
   "reason": "指定された期間内（2026-10-21～23）に幕張メッセで開催されるJapan IT Week 秋の構成展であり、AI・DXおよびIoT関連の明確な日程と会場が確認できるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -6172,11 +5329,11 @@
    "Japan IT Week"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6306,11 +5463,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6515,11 +5672,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6550,11 +5707,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6586,11 +5743,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -6624,11 +5781,11 @@
    "組込み"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -7037,7 +6194,7 @@
   ],
   "confidence": 100,
   "reason": "公式サイトの構成展情報および開催概要に基づき正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7076,7 +6233,7 @@
   ],
   "confidence": 100,
   "reason": "公式サイトの構成展情報および開催概要に基づき正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7115,7 +6272,7 @@
   ],
   "confidence": 100,
   "reason": "公式サイトの構成展情報および開催概要に基づき正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7150,11 +6307,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -7191,7 +6348,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている開催概要および構成展の情報を正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7231,7 +6388,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている開催概要および構成展の情報を正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7411,7 +6568,7 @@
   ],
   "confidence": 95,
   "reason": "北海道最大級のビジネスイベント「ビジネスEXPO」の構成展であり、IT分野に関連する「北のITシーズフェア2026」の開催期間（2026年11月5日〜6日）が明確に記載されているため抽出。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7452,7 +6609,7 @@
   ],
   "confidence": 95,
   "reason": "ビジネスEXPO内で同時開催されるロボット・機械に関連する構成展であり、指定された期間内（2026年11月5日〜6日）に日本国内で開催されることが確実であるため抽出。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7595,7 +6752,7 @@
   ],
   "confidence": 95,
   "reason": "公式ウェブサイトに掲載されている2026年11月5日・6日開催の「第40回北海道ビジネスEXPO」の構成展であるITビジネスゾーンに関する情報を抽出した。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7636,7 +6793,7 @@
   ],
   "confidence": 95,
   "reason": "公式ウェブサイトに掲載されている2026年11月5日・6日開催の「第40回北海道ビジネスEXPO」の構成展である先端技術ゾーンに関する情報を抽出した。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -7704,11 +6861,11 @@
    "人工知能"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -7740,11 +6897,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -7779,7 +6936,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -7945,11 +7102,11 @@
    "NexTech Week"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -8057,11 +7214,11 @@
    "ロボット"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -8094,11 +7251,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -8364,7 +7521,7 @@
   "keywords": [],
   "confidence": 85,
   "reason": "医療情報学連合大会は医療分野のIT・DX・情報システムに関連するイベントであり、指定期間内に開催されるため抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -8469,11 +7626,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -8505,11 +7662,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -8746,11 +7903,11 @@
    "Inter BEE"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -9694,7 +8851,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -9730,7 +8887,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -9798,7 +8955,7 @@
   ],
   "confidence": 90,
   "reason": "指定された期間内の日本国内開催であり、エネルギーマネジメントや見える化などIT関連のソリューションを含む脱炭素経営の専門展であるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9837,7 +8994,7 @@
   ],
   "confidence": 90,
   "reason": "食品工場 Week 東京内の安全対策・作業環境改善に関する構成展であり、AI監視カメラやデジタルツールなどのIT関連技術が含まれるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9877,7 +9034,7 @@
   ],
   "confidence": 95,
   "reason": "食品工場 Week 東京内の自動化・DXに関する構成展であり、AIやロボット、IoTなどIT関連の出展が含まれるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -9916,7 +9073,7 @@
   ],
   "confidence": 90,
   "reason": "食品工場 Week 東京内の衛生管理・HACCPに関する構成展であり、AI外観検査や監視カメラなどのセキュリティ・AI関連技術が含まれるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10152,7 +9309,7 @@
   "keywords": [],
   "confidence": 90,
   "reason": "ポートメッセなごやで開催される製造業向けの基盤技術展であり、IoTや自動化技術などIT・DXに関連する要素が含まれるため抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10188,11 +9345,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -10226,11 +9383,11 @@
    "セキュリティ"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -10261,11 +9418,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -10297,11 +9454,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）／要確認：類似イベントあり：evt_74173f89「営業・マーケDXPO福岡 2026」",
+  "reason": "会場公式のイベント一覧に掲載",
   "status": "needs_review",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -10406,7 +9563,7 @@
   ],
   "confidence": 100,
   "reason": "公式ページの情報に基づき、開催日、会場、イベント名、カテゴリ、概要を正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10488,7 +9645,7 @@
   ],
   "confidence": 90,
   "reason": "オートモーティブ ワールド 名古屋の構成展であり、EV・HV・FCVに関する先端技術展であるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10528,7 +9685,7 @@
   ],
   "confidence": 90,
   "reason": "SDVおよびソフトウェア開発効率化を支援する専門技術展として開催が予定されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10568,7 +9725,7 @@
   ],
   "confidence": 90,
   "reason": "オートモーティブ ワールド 名古屋の構成展であり、カーエレクトロニクス技術に関連する出展内容が明記されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10608,7 +9765,7 @@
   ],
   "confidence": 90,
   "reason": "設計・開発DXをテーマにした構成展として公式ページに記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10649,7 +9806,7 @@
   ],
   "confidence": 100,
   "reason": "公式ページに記載されている2026年11月開催のロボデックスに関する正確な日程、会場、カテゴリ情報を抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10717,7 +9874,7 @@
   "keywords": [],
   "confidence": 90,
   "reason": "北海道スマート農業SUMMIT2026はスマート農業やIoT、ドローン・ロボット関連の技術を扱うため条件に合致し、指定期間内の開催であるため抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10866,7 +10023,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに掲載されているCOMNEXTの構成展であり、開催日時と会場が明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10914,7 +10071,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトのWhat's Newおよび関連ページ一覧に新規開催として掲載されており、COMNEXTの会期・会場に準拠しているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -10961,7 +10118,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに掲載されているCOMNEXTの構成展であり、開催日時と会場が明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11013,7 +10170,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -11045,7 +10202,7 @@
   ],
   "confidence": 95,
   "reason": "日本国内開催であり、指定された対象期間内（2026-12-02〜2026-12-04）に東京ビッグサイトで開催される住宅DX展の開催情報が明確に確認できるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11093,7 +10250,7 @@
   ],
   "confidence": 100,
   "reason": "建設DX展の東京開催日（2026年12月2日〜4日）が明記されており、対象期間内のため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11138,7 +10295,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年12月開催のJAPAN BUILD TOKYOの構成展であり、ビル向けIoTや警備ロボットが出展されるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11182,7 +10339,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年12月開催のJAPAN BUILD TOKYOの構成展であり、管理支援システム等のIT関連出展を含むため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11226,7 +10383,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年12月開催のJAPAN BUILD TOKYOの構成展であり、AI価格査定やDXツール等が出展されるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11270,7 +10427,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに記載されている2026年12月開催のJAPAN BUILD TOKYOの構成展であり、DXや建設ロボットに関連する技術が出展されるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11360,7 +10517,7 @@
   ],
   "confidence": 95,
   "reason": "JAPAN BUILDの構成展であり、脱炭素・IoTに関連する建物の脱炭素 EXPOの東京展開催期間が合致するため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11547,7 +10704,7 @@
   ],
   "confidence": 90,
   "reason": "JAPAN BUILDの構成展であり、マンション経営・管理支援 EXPOの東京展開催期間が合致するため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -11803,7 +10960,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -11840,7 +10997,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -12000,7 +11157,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -12207,7 +11364,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -12320,7 +11477,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -12774,7 +11931,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -12947,7 +12104,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13019,7 +12176,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13189,7 +12346,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13224,7 +12381,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13260,7 +12417,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13296,7 +12453,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13365,11 +12522,11 @@
    "ロボット"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（東1-3ホール）（Geminiで関連性を確認）",
+  "reason": "会場公式のイベント一覧に掲載（東1-3ホール）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-12",
   "year": "2026",
   "history": [
    {
@@ -13506,7 +12663,7 @@
   ],
   "confidence": 95,
   "reason": "Webページ内に「次回展 2027.2.16(火)〜18(木)」という記載があり、対象期間内のため抽出対象としました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13545,7 +12702,7 @@
   ],
   "confidence": 95,
   "reason": "公式ウェブサイトに記載されている2027年2月開催のオートモーティブ ワールドの構成展であり、条件に完全に合致します。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13584,7 +12741,7 @@
   ],
   "confidence": 95,
   "reason": "公式ウェブサイトに記載されている2027年2月開催のオートモーティブ ワールドの構成展であり、条件に完全に合致します。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13627,7 +12784,7 @@
   ],
   "confidence": 100,
   "reason": "公式Webページに記載されている2027年2月17日から19日までの開催日程、会場、構成展の情報を正確に抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13669,7 +12826,7 @@
   ],
   "confidence": 100,
   "reason": "ファクトリーイノベーション Weekの構成展としてページ内で言及されているため、親展の日程を適用して抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13709,7 +12866,7 @@
   ],
   "confidence": 100,
   "reason": "ファクトリーイノベーション Weekの構成展であるロボデックスの公式ページより、2027年2月17日〜19日に東京ビッグサイトで開催されることが明確に記載されているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13750,7 +12907,7 @@
   ],
   "confidence": 95,
   "reason": "ファクトリーイノベーション Weekの構成展としてページ内で言及されているため、親展の日程を適用して抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13791,7 +12948,7 @@
   ],
   "confidence": 95,
   "reason": "ファクトリーイノベーション Weekの構成展としてページ内で言及されているため、親展の日程を適用して抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13834,7 +12991,7 @@
   ],
   "confidence": 95,
   "reason": "ファクトリーイノベーション Weekの構成展としてページ内で言及されているため、親展の日程を適用して抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13882,7 +13039,7 @@
   ],
   "confidence": 100,
   "reason": "建設DX展＋の開催日（2027年3月17日〜19日）が明記されており、対象期間内のため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13920,7 +13077,7 @@
   ],
   "confidence": 100,
   "reason": "公式ウェブサイトに2027年3月17日から19日までの東京ビッグサイト開催が明記されており、条件を満たしているため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -13964,7 +13121,7 @@
   ],
   "confidence": 95,
   "reason": "公式Webページから、2027年3月17日〜19日に東京ビッグサイトで開催される「建設DX展＋（プラス）」の正確な開催日程、会場、出展製品情報を取得できたため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -14004,7 +13161,7 @@
   ],
   "confidence": 90,
   "reason": "AI・IoT・ブロックチェーンなどのIT関連技術を活用したサーキュラーエコノミー支援技術が出展対象に含まれるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -14042,7 +13199,7 @@
   ],
   "confidence": 90,
   "reason": "指定された期間内の日本国内開催であり、エネルギーマネジメントや見える化などIT関連のソリューションを含む脱炭素経営の専門展であるため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -14157,7 +13314,7 @@
   ],
   "confidence": 90,
   "reason": "本文中にInter BEE 2026内の構成企画としてAIやメディア技術に関する記載があり、対象条件に合致するため。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -15020,7 +14177,7 @@
   ],
   "confidence": 90,
   "reason": "公式サイトの新着情報に2026年9月11日付で「e-messe kanazawa 2027 開催日決定」という記載があるため。ただし具体的な月日は本文中に明記されていないため日付は空欄かつtentativeとしている。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -15341,7 +14498,7 @@
   ],
   "confidence": 95,
   "reason": "Webページ上に記載されている防犯防災総合展2027の出展対象から、IT・AI・セキュリティ・ロボットに関連する領域を構成展として抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",
@@ -15380,7 +14537,7 @@
   ],
   "confidence": 95,
   "reason": "Webページ内のランサムウェア・ウイルス・ハッキング・脆弱性・情報漏洩対策、データバックアップ、DRに関する記述に基づき抽出しました。",
-  "status": "new",
+  "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-05",

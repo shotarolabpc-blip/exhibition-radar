@@ -6010,6 +6010,39 @@
   ]
  },
  {
+  "id": "evt_fbb00742",
+  "event_name": "第39回 日本内視鏡外科学会総会／WCES 2026",
+  "parent_event_name": "第39回 日本内視鏡外科学会総会／WCES 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-02",
+  "end_date": "2026-09-05",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "内視鏡外科・低侵襲手術をテーマとした国際学術集会。医療機器企業の展示も併設され、医工連携や最新医療技術の交流が行われる。",
+  "url": "https://site2.convention.co.jp/wces-jses2026/ja/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
   "id": "evt_29284c01",
   "event_name": "DXシステム開発 Expo 2026",
   "parent_event_name": "DXシステム開発 Expo 2026",
@@ -6159,6 +6192,816 @@
   ],
   "summary": "AI時代のSNS運用やデジタルマーケティング支援に特化した展示会。SNS分析、生成AI活用、運用自動化などのサービスを紹介する。",
   "url": "https://f2ff.jp/event/commerce-sns",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5ad336dd",
+  "event_name": "アクセシビリティカンファレンスCHIBA2026",
+  "parent_event_name": "アクセシビリティカンファレンスCHIBA2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-05",
+  "end_date": "2026-09-05",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "企業・自治体・教育機関などが参加し、誰もが利用しやすいデジタル環境づくりをテーマに開催されるカンファレンス。公共分野のデジタル活用とも関連が深い。",
+  "url": "https://a11y-chiba.com/2026",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_cf86badc",
+  "event_name": "日本地域看護学会第29回学術集会",
+  "parent_event_name": "日本地域看護学会第29回学術集会",
+  "sub_event_name": "",
+  "start_date": "2026-09-05",
+  "end_date": "2026-09-06",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "日本地域看護学会による学術集会です。関係者と一般の両方を対象としています。",
+  "url": "https://jachn29.yupia.net/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_87921b49",
+  "event_name": "国際物流総合展 2026（Logis-Tech Tokyo 2026）",
+  "parent_event_name": "国際物流総合展 2026（Logis-Tech Tokyo 2026）",
+  "sub_event_name": "",
+  "start_date": "2026-09-08",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "日本最大級の物流・ロジスティクス専門展示会。物流機器、自動化システム、ロボティクス、SCM、物流DX関連技術が集結し、物流現場の効率化・省人化をテーマに商談が行われる。",
+  "url": "https://www.logis-tech-tokyo.gr.jp/ltt/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「国際物流総合展2026」））",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
+   }
+  ]
+ },
+ {
+  "id": "evt_0cf516b7",
+  "event_name": "2026大阪国際ライフスタイルショー",
+  "parent_event_name": "2026大阪国際ライフスタイルショー",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "アジア各国・地域の生活関連製品やスマートプロダクトを紹介する国際商談会。日本市場向けの新製品・技術の発掘を目的とする。",
+  "url": "https://zhejiangfair-osaka.com/jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0e827065",
+  "event_name": "ロボデックス【秋】2026",
+  "parent_event_name": "ロボデックス【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "製造・物流現場で活用されるロボット技術を紹介する専門展。AGV/AMRなど省人化・自動化技術の実演展示が行われる。",
+  "url": "https://www.fiweek.jp/autumn/ja-jp/about/robo.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_31aeb2f5",
+  "event_name": "フードストアソリューションズフェア2026",
+  "parent_event_name": "フードストアソリューションズフェア2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-10",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "流通・小売業向けの課題解決型展示会。食品流通、店舗運営、自動化、省人化、物流改善ソリューションの提案が行われる。",
+  "url": "https://www.foodstore-s.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_35ef1ec6",
+  "event_name": "H2 & FC EXPO【秋】（国際水素・燃料電池展）",
+  "parent_event_name": "H2 & FC EXPO【秋】（国際水素・燃料電池展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "水素製造・輸送・利用技術を対象とした専門展示会。脱炭素社会を支えるエネルギーインフラ技術が集まる。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/fc.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_39609cb5",
+  "event_name": "BATTERY JAPAN（国際二次電池展）",
+  "parent_event_name": "BATTERY JAPAN（国際二次電池展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "EVや蓄電池向けの二次電池技術展示会。研究開発、製造設備、材料、評価装置等が出展される。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/bj.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4db5d226",
+  "event_name": "PV EXPO【秋】（国際太陽光発電展）",
+  "parent_event_name": "PV EXPO【秋】（国際太陽光発電展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "太陽光発電システム、関連部材、保守・運用技術を対象とする専門展。エネルギー管理システムなどの関連技術も紹介される。",
+  "url": "https://www.wsew.jp/autumn/ja-jp/about/pv.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4db75d36",
+  "event_name": "WIND EXPO【秋】（国際風力発電展）",
+  "parent_event_name": "WIND EXPO【秋】（国際風力発電展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "風力発電設備、洋上風力、保守技術などを扱う専門展示会。インフラ・エネルギー事業者向けの商談展。",
+  "url": "https://www.wsew.jp/autumn/ja-jp/lp/wd.html?gad_source=1&gad_campaignid=23971922391&gbraid=0AAAAACzyvagZ_p0SbJOh9zjq_TwuoKVEO",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_57f70ccf",
+  "event_name": "ネプコンジャパン【秋】2026",
+  "parent_event_name": "ネプコンジャパン【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "電子部品・半導体・実装技術などの開発・製造技術を扱う専門展。検査・測定装置や材料技術の展示・商談が行われる。",
+  "url": "https://www.nepconjapan.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_88389cd4",
+  "event_name": "ファクトリーイノベーションWeek【秋】2026",
+  "parent_event_name": "ファクトリーイノベーションWeek【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "スマート工場・ロボット・生産DXなど製造業の革新をテーマにした大規模展示会。IoT・AI・自動化技術による工場高度化を網羅。",
+  "url": "https://www.fiweek.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_97a86c53",
+  "event_name": "2026浙江省輸出商品（大阪）交易会",
+  "parent_event_name": "2026浙江省輸出商品（大阪）交易会",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "浙江省企業約300社による国際展示商談会。スマートプロダクトや各種産業関連製品を対象としたBtoB展示会。",
+  "url": "https://zhejiangfair-osaka.com/jp/zhejiang/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_a9ae0c93",
+  "event_name": "CCUS EXPO",
+  "parent_event_name": "CCUS EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "CO₂回収・利用・貯留技術を扱う専門展示会。エネルギー・化学・製造分野向けの脱炭素ソリューションが集まる。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/ccus.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bf197235",
+  "event_name": "【国際】熱エネルギー展（I-TEX JAPAN）",
+  "parent_event_name": "【国際】熱エネルギー展（I-TEX JAPAN）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "熱エネルギーの生成・利用・回収・制御技術に特化した専門展示会。脱炭素・エネルギー効率化に向けた産業・公共インフラ技術が集結する。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/tex.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d17480cf",
+  "event_name": "SMART GRID EXPO【秋】",
+  "parent_event_name": "SMART GRID EXPO【秋】",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "次世代電力網やEMS、VPPなど電力DX技術の専門展示会。電力・通信・制御技術の融合ソリューションが集まる。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/sg.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d3deb3f0",
+  "event_name": "製造業カーボンニュートラル展【秋】2026",
+  "parent_event_name": "製造業カーボンニュートラル展【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "工場の省エネ・脱炭素化をテーマとした展示会。エネルギー効率化や環境対応製品など製造業の持続可能化技術を紹介する。",
+  "url": "https://www.fiweek.jp/autumn/ja-jp/about/gfe.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e09a44e3",
+  "event_name": "スマート工場EXPO【秋】2026",
+  "parent_event_name": "スマート工場EXPO【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "IoT・AIによる工場の見える化・自動化をテーマとした専門展示会。生産管理・設備監視・データ活用などの最新技術が展示される。",
+  "url": "https://www.fiweek.jp/autumn/ja-jp/about/sfe.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e0fa962e",
+  "event_name": "自動認識総合展",
+  "parent_event_name": "自動認識総合展",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "RFID、バーコード、生体認証などの自動認識技術に特化。流通・製造分野のデジタル化を支える技術を紹介。",
+  "url": "https://www.jima-show.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e45a99ec",
+  "event_name": "Smart Energy Week【秋】2026",
+  "parent_event_name": "Smart Energy Week【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "再生可能エネルギー・水素・電池・スマートグリッドなどエネルギー分野の最新技術を扱う国際展示会。インフラ・産業分野との連携も強い。",
+  "url": "https://www.wsew.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f22760c0",
+  "event_name": "サステナブル経営WEEK【秋】",
+  "parent_event_name": "サステナブル経営WEEK【秋】",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "ESG、脱炭素、サーキュラーエコノミー、SCMを対象とする企業向け展示会。自治体や製造業のサステナビリティ推進担当者も来場する。",
+  "url": "https://www.decarbonization-expo.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f396ad7f",
+  "event_name": "オートモーティブワールド【秋】2026",
+  "parent_event_name": "オートモーティブワールド【秋】2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "自動車の先端技術展示会。EV、ADAS、自動運転、車載ソフトなどモビリティ分野の最新技術を網羅する。",
+  "url": "https://www.automotiveworld.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f8538160",
+  "event_name": "サーモテック2026（国際工業炉・関連機器展）",
+  "parent_event_name": "サーモテック2026（国際工業炉・関連機器展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "工業炉、熱処理装置、加熱設備などを対象とした産業技術展示会。製造プロセス高度化や省エネルギー技術が集まる。",
+  "url": "https://thermotec.jp.messefrankfurt.com/tokyo/ja.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f9cbc2e1",
+  "event_name": "Foundry Tech + Expo 2026（鋳造産業展）",
+  "parent_event_name": "Foundry Tech + Expo 2026（鋳造産業展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-11",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "鋳造技術・材料・生産設備を対象とする製造業向け専門展示会。生産効率化や産業機械関連技術の展示が行われる。",
+  "url": "https://foundrytechexpo.jp.messefrankfurt.com/tokyo/ja.html",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
