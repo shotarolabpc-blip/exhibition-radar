@@ -7018,5 +7018,376 @@
     "change": "既存Excelから取込"
    }
   ]
+ },
+ {
+  "id": "evt_6f00a0c7",
+  "event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
+  "parent_event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
+  "sub_event_name": "",
+  "start_date": "2026-09-14",
+  "end_date": "2026-09-17",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "計測自動制御学会（SICE）が開催する国際会議。計測、制御、システム工学分野の研究発表や技術展示が行われ、産業DXやロボティクス関連技術が集まる。",
+  "url": "https://sicefes26.sice.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1ae0b978",
+  "event_name": "総務・人事・経理Week【東京】2026（構成展：HR EXPO、働き方改革EXPO 等）",
+  "parent_event_name": "総務・人事・経理Week【東京】2026（構成展：HR EXPO、働き方改革EXPO 等）",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "バックオフィス部門の業務改革をテーマとした日本最大級の展示会。AIやRPA、業務自動化ツールなどが集結し、企業のDX推進を支援する。",
+  "url": "https://www.office-expo.jp/tokyo/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1f7cbdd0",
+  "event_name": "第6回 CareTEX札幌'26",
+  "parent_event_name": "第6回 CareTEX札幌'26",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-17",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "介護施設・介護事業者向けの商談展示会。介護ロボット、見守りシステム、介護ICT、リハビリ機器などが集まる。",
+  "url": "https://sapporo.caretex.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_45230987",
+  "event_name": "JIMA 2026（計測展）",
+  "parent_event_name": "JIMA 2026（計測展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "計測・検査・分析機器の専門展示会。製造業や研究分野向けの精密測定技術・検査装置が集まり、高度な品質管理ソリューションを提供。",
+  "url": "https://www.jima-show.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_51eb3fb5",
+  "event_name": "バックオフィスAIエージェント EXPO【東京】",
+  "parent_event_name": "バックオフィスAIエージェント EXPO【東京】",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "バックオフィス業務のAI活用・自動化に特化した専門展。生成AI、AIエージェント、社内LLM、RAGなどのソリューションが集まる。",
+  "url": "https://www.office-expo.jp/hub/ja-jp/about/ai.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_57005f1c",
+  "event_name": "第35回 2026知財・情報フェア＆コンファレンス",
+  "parent_event_name": "第35回 2026知財・情報フェア＆コンファレンス",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "知財情報の活用・分析をテーマにした専門展示会。データベース、解析ツール、AI活用による知財戦略支援などが紹介される。",
+  "url": "https://pifc.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_63db4cb5",
+  "event_name": "FORESTRISE 2026",
+  "parent_event_name": "FORESTRISE 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "林業・森林産業に関する展示会。スマート林業、機械化・自動化技術など、持続可能な資源活用とインフラ管理に関わる技術展示が行われる。",
+  "url": "https://www.forestrise.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6dfe4da5",
+  "event_name": "地盤技術フォーラム 2026",
+  "parent_event_name": "地盤技術フォーラム 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "地盤改良、基礎工、土壌浄化、災害対策技術などを扱う専門展示会群で構成。社会インフラ整備や防災・減災分野の最新技術が集まる。",
+  "url": "https://www.sgrte.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_71b961ec",
+  "event_name": "SENSOR EXPO JAPAN",
+  "parent_event_name": "SENSOR EXPO JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "センシング技術とデータ活用をテーマとした専門展。IoT・AIと連携した計測技術の最新動向を紹介。",
+  "url": "https://www.sensorexpojapan.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b9ee807c",
+  "event_name": "INTERMEASURE 2026",
+  "parent_event_name": "INTERMEASURE 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "計測機器・センサ技術に関する専門展。各種測定・計量技術、データ取得・解析関連製品が展示され、産業分野の精度向上を支援。",
+  "url": "https://intermeasure.org/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_17b40b12",
+  "event_name": "関西グランドフェア2026",
+  "parent_event_name": "関西グランドフェア2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-17",
+  "end_date": "2026-09-18",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "セキュリティ",
+   "ドローン・ロボット"
+  ],
+  "summary": "ユアサやまずみ会主催の産業総合展示会。工作機械、FA・ロボット、セキュリティ、製造DX、省人化・省エネ技術など現場課題解決に向けた製品・ソリューションが展示される。",
+  "url": "https://grandfair.jp/gf2026/venue/kansai/",
+  "source": "主催者HP（既知URL）：関西グランドフェア2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "セキュリティ",
+   "ロボット"
+  ],
+  "confidence": 90,
+  "reason": "すでに閉幕したイベントであり、対象期間の2026年10月19日以降に開催されたか、または過去の情報である可能性が示唆されていますが、公開情報に基づき抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
  }
 ]

@@ -1,205 +1,5 @@
 [
  {
-  "id": "evt_6f00a0c7",
-  "event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
-  "parent_event_name": "SICE FESTIVAL 2026 WITH ANNUAL CONFERENCE",
-  "sub_event_name": "",
-  "start_date": "2026-09-14",
-  "end_date": "2026-09-17",
-  "date_status": "fixed",
-  "venue": "パシフィコ横浜",
-  "prefecture": "神奈川県",
-  "region": "関東",
-  "categories": [
-   "AI・DX",
-   "IoT・センサ",
-   "ドローン・ロボット"
-  ],
-  "summary": "計測自動制御学会（SICE）が開催する国際会議。計測、制御、システム工学分野の研究発表や技術展示が行われ、産業DXやロボティクス関連技術が集まる。",
-  "url": "https://sicefes26.sice.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_63db4cb5",
-  "event_name": "FORESTRISE 2026",
-  "parent_event_name": "FORESTRISE 2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "林業・森林産業に関する展示会。スマート林業、機械化・自動化技術など、持続可能な資源活用とインフラ管理に関わる技術展示が行われる。",
-  "url": "https://www.forestrise.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_b9ee807c",
-  "event_name": "INTERMEASURE 2026",
-  "parent_event_name": "INTERMEASURE 2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "計測機器・センサ技術に関する専門展。各種測定・計量技術、データ取得・解析関連製品が展示され、産業分野の精度向上を支援。",
-  "url": "https://intermeasure.org/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_45230987",
-  "event_name": "JIMA 2026（計測展）",
-  "parent_event_name": "JIMA 2026（計測展）",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "計測・検査・分析機器の専門展示会。製造業や研究分野向けの精密測定技術・検査装置が集まり、高度な品質管理ソリューションを提供。",
-  "url": "https://www.jima-show.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_71b961ec",
-  "event_name": "SENSOR EXPO JAPAN",
-  "parent_event_name": "SENSOR EXPO JAPAN",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "IoT・センサ"
-  ],
-  "summary": "センシング技術とデータ活用をテーマとした専門展。IoT・AIと連携した計測技術の最新動向を紹介。",
-  "url": "https://www.sensorexpojapan.com/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_51eb3fb5",
-  "event_name": "バックオフィスAIエージェント EXPO【東京】",
-  "parent_event_name": "バックオフィスAIエージェント EXPO【東京】",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "AI・DX"
-  ],
-  "summary": "バックオフィス業務のAI活用・自動化に特化した専門展。生成AI、AIエージェント、社内LLM、RAGなどのソリューションが集まる。",
-  "url": "https://www.office-expo.jp/hub/ja-jp/about/ai.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
   "id": "evt_84059313",
   "event_name": "国際ウエルディングショー",
   "parent_event_name": "国際ウエルディングショー",
@@ -215,173 +15,6 @@
   ],
   "summary": "溶接・接合技術の専門展示会。ロボット溶接や自動化技術など製造現場の高度化を支援する技術が集結。",
   "url": "https://weldingshow.jp/2026/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_6dfe4da5",
-  "event_name": "地盤技術フォーラム 2026",
-  "parent_event_name": "地盤技術フォーラム 2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "スマートシティ・自治体DX"
-  ],
-  "summary": "地盤改良、基礎工、土壌浄化、災害対策技術などを扱う専門展示会群で構成。社会インフラ整備や防災・減災分野の最新技術が集まる。",
-  "url": "https://www.sgrte.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_57005f1c",
-  "event_name": "第35回 2026知財・情報フェア＆コンファレンス",
-  "parent_event_name": "第35回 2026知財・情報フェア＆コンファレンス",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "AI・DX"
-  ],
-  "summary": "知財情報の活用・分析をテーマにした専門展示会。データベース、解析ツール、AI活用による知財戦略支援などが紹介される。",
-  "url": "https://pifc.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_1f7cbdd0",
-  "event_name": "第6回 CareTEX札幌'26",
-  "parent_event_name": "第6回 CareTEX札幌'26",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-17",
-  "date_status": "fixed",
-  "venue": "アクセスサッポロ",
-  "prefecture": "北海道",
-  "region": "北海道・東北",
-  "categories": [
-   "ドローン・ロボット"
-  ],
-  "summary": "介護施設・介護事業者向けの商談展示会。介護ロボット、見守りシステム、介護ICT、リハビリ機器などが集まる。",
-  "url": "https://sapporo.caretex.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_1ae0b978",
-  "event_name": "総務・人事・経理Week【東京】2026（構成展：HR EXPO、働き方改革EXPO 等）",
-  "parent_event_name": "総務・人事・経理Week【東京】2026（構成展：HR EXPO、働き方改革EXPO 等）",
-  "sub_event_name": "",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "東京ビッグサイト",
-  "prefecture": "東京都",
-  "region": "関東",
-  "categories": [
-   "AI・DX"
-  ],
-  "summary": "バックオフィス部門の業務改革をテーマとした日本最大級の展示会。AIやRPA、業務自動化ツールなどが集結し、企業のDX推進を支援する。",
-  "url": "https://www.office-expo.jp/tokyo/ja-jp.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
-  "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
-  "year": "2026",
-  "history": [
-   {
-    "date": "2026-10-05",
-    "change": "既存Excelから取込"
-   }
-  ]
- },
- {
-  "id": "evt_17b40b12",
-  "event_name": "関西グランドフェア2026",
-  "parent_event_name": "関西グランドフェア2026",
-  "sub_event_name": "",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-18",
-  "date_status": "fixed",
-  "venue": "インテックス大阪",
-  "prefecture": "大阪府",
-  "region": "近畿",
-  "categories": [
-   "AI・DX",
-   "セキュリティ",
-   "ドローン・ロボット"
-  ],
-  "summary": "ユアサやまずみ会主催の産業総合展示会。工作機械、FA・ロボット、セキュリティ、製造DX、省人化・省エネ技術など現場課題解決に向けた製品・ソリューションが展示される。",
-  "url": "https://grandfair.jp/gf2026/venue/kansai/",
   "source": "既存Excel取込",
   "source_type": "import",
   "keywords": [],
@@ -4643,11 +4276,11 @@
    "情報セキュリティ"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -4679,11 +4312,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -4715,11 +4348,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -4758,11 +4391,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -4996,11 +4629,11 @@
    "IoT"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5250,7 +4883,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5329,16 +4962,61 @@
    "Japan IT Week"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d917bbe1",
+  "event_name": "SPEXAサテライト in Japan IT Week - SPEXAサテライト",
+  "parent_event_name": "SPEXAサテライト in Japan IT Week",
+  "sub_event_name": "SPEXAサテライト",
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "宇宙データセンター実現のためのカンファレンスおよび展示会として緊急開催が決定されたイベントです。ロケットや人工衛星、宇宙データセンター、AI、衛星データ活用など、宇宙ビジネスに関するあらゆる製品や技術、サービスが集結し、宇宙産業の発展に向けたオープンな出会いと最適なマッチングを提供します。",
+  "url": "https://www.spexa.jp/tokyo/ja-jp.html",
+  "source": "主催者HP（既知URL）：SPEXA -Space Business Expo-",
+  "source_type": "known_url",
+  "keywords": [
+   "衛星通信",
+   "通信",
+   "AI",
+   "データ活用",
+   "エッジ",
+   "ロボット",
+   "自治体",
+   "Japan IT Week",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "指定された開催期間内に行われる宇宙データセンター関連の展示会であり、AIやIT分野の要素を含むため抽出対象としました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SPEXA -Space Business Expo-）"
    }
   ]
  },
@@ -5358,20 +5036,70 @@
   ],
   "summary": "2026年で初開催から14年目を迎える情報セキュリティの専門イベントです。常にアップデートが必要なセキュリティ対策の最新動向を共有します。",
   "url": "https://f2ff.jp/event/secd",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "source": "主催者HP（既知URL）：Security Days Fall 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "ICT",
+   "IT",
+   "IoT",
+   "クラウド",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ネットワーク",
+   "情報セキュリティ",
+   "情報通信",
+   "通信"
+  ],
+  "confidence": 95,
+  "reason": "公式サイトの開催概要に東京会場の日程と会場が明確に記載されているため。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8eecb387",
+  "event_name": "ad:tech tokyo 2026",
+  "parent_event_name": "ad:tech tokyo 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "date_status": "fixed",
+  "venue": "東京ミッドタウン",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "ad:tech tokyoは、アジア最大級の国際マーケティングカンファレンスです。広告主、 agencia、メディア、ソリューションプロバイダーなど、マーケティングの最前線で活躍する国内外のリーダーが多数登壇し、最新のトレンドやテクノロジーを活用した事業成果の創出について議論を交わします。AIやデータ活用の実践、組織変革など多岐にわたるセッションが行われ、毎年多くのマーケターが参加する大規模なイベントとなっています。",
+  "url": "https://adtech-tokyo.com/ja/",
+  "source": "主催者HP（既知URL）：ad:tech tokyo 2023 （アドテック東京2023）",
+  "source_type": "known_url",
+  "keywords": [
+   "生成AI",
+   "AI",
+   "データ活用",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "イベントページに2026年10月21日から23日までの開催日程が明確に記載されており、AIやデータ活用などDX領域に関連するマーケティングの国際カンファレンスであるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：ad:tech tokyo 2023 （アドテック東京2023））"
    }
   ]
  },
@@ -5463,11 +5191,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5672,11 +5400,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5707,11 +5435,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5743,11 +5471,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5781,11 +5509,11 @@
    "組込み"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -5862,6 +5590,42 @@
   ]
  },
  {
+  "id": "evt_501ff050",
+  "event_name": "15th IEEE Global Conference on Consumer Electronics",
+  "parent_event_name": "15th IEEE Global Conference on Consumer Electronics",
+  "sub_event_name": "",
+  "start_date": "2026-10-26",
+  "end_date": "2026-10-29",
+  "date_status": "fixed",
+  "venue": "神戸国際会議場",
+  "prefecture": "兵庫県",
+  "region": "近畿",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "15th IEEE Global Conference on Consumer Electronics（IEEE GCCE 2026）は、家電やコンシューマエレクトロニクス分野における最新の技術動向や研究成果を発表・議論するための国際会議です。世界中から研究者や技術者が集まり、通信技術、IoT、AI、デバイスなど幅広い最先端テーマについて活発な意見交換を行います。",
+  "url": "https://kobe-cc.jp/ja/visitors/upcoming-events/",
+  "source": "展示会場HP：神戸国際展示場",
+  "source_type": "venue",
+  "keywords": [
+   "Wi-Fi",
+   "通信"
+  ],
+  "confidence": 90,
+  "reason": "コンシューマエレクトロニクスや関連する通信・IT技術を扱う国際的な学術会議であり、対象期間内の2026年10月26日から29日まで神戸国際会議場で開催されるため抽出対象とした。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（展示会場HP：神戸国際展示場）"
+   }
+  ]
+ },
+ {
   "id": "evt_fc0cae49",
   "event_name": "JIMTOF (日本国際工作機械見本市)",
   "parent_event_name": "JIMTOF (日本国際工作機械見本市)",
@@ -5913,20 +5677,75 @@
   ],
   "summary": "自治体の情報システム、行政DX、デジタルガバメント分野に関する展示会。自治体向けICTソリューションや情報セキュリティ、行政サービス高度化に関する製品・サービスが集まる。",
   "url": "https://fair.j-lis.go.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "source": "主催者HP（既知URL）：地方自治情報化推進フェア2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "クラウド",
+   "セキュリティ",
+   "生成AI",
+   "自治体"
+  ],
+  "confidence": 100,
+  "reason": "提供されたページの情報に基づき、2026年10月27日〜28日に開催される「地方自治情報化推進フェア 2026」の正確な日程と会場、概要を抽出しました。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d4c38da9",
+  "event_name": "Security Days Fall 2026 - 名古屋会場",
+  "parent_event_name": "Security Days Fall 2026",
+  "sub_event_name": "名古屋会場",
+  "start_date": "2026-10-28",
+  "end_date": "2026-10-29",
+  "date_status": "fixed",
+  "venue": "名古屋",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "Security Days Fall 2026の名古屋会場では、サイバーセキュリティ、ゼロトラスト、AIを活用したセキュリティ対策、ランサムウェア対策など、現代の企業活動に不可欠な最新のセキュリティ脅威と防御策に関する多数のセッションや展示が行われます。重要インフラやサプライチェーンセキュリティに関する実務的な課題についても深く掘り下げられます。",
+  "url": "https://f2ff.jp/event/secd/2026-fall/nagoya/session",
+  "source": "主催者HP（既知URL）：Security Days Fall 2026 名古屋",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "AI",
+   "デジタルトランスフォーメーション",
+   "クラウド",
+   "IoT",
+   "エッジ",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ゼロトラスト",
+   "自動運転",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "Provided text clearly shows Security Days Fall 2026 Nagoya session details with fixed dates in October 2026, matching the criteria for IT and security exhibitions in Japan.／要確認：重複疑い：evt_1c6cdc55「Security Days Fall 2026 名古屋」",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Security Days Fall 2026 名古屋）"
    }
   ]
  },
@@ -5946,21 +5765,37 @@
    "セキュリティ"
   ],
   "summary": "情報セキュリティ分野の専門イベント。サイバー攻撃対策、ゼロトラスト、生成AI時代のセキュリティ運用など最新の実践事例や技術動向を扱う。",
-  "url": "https://f2ff.jp/event/secd/2026-fall/nagoya/session",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
+  "url": "https://f2ff.jp/event/secd",
+  "source": "主催者HP（既知URL）：Security Days Fall 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "ICT",
+   "IT",
+   "IoT",
+   "クラウド",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ネットワーク",
+   "情報セキュリティ",
+   "情報通信",
+   "通信"
+  ],
+  "confidence": 95,
+  "reason": "公式サイトの開催概要に名古屋会場の日程と会場が明確に記載されているため。",
+  "status": "updated",
   "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-19",
+    "change": "更新：URL：https://f2ff.jp/event/secd/2026-fall/nagoya/session→https://f2ff.jp/event/secd"
    }
   ]
  },
@@ -6029,6 +5864,47 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6ebedeb3",
+  "event_name": "第8回 九州・沖縄 宿泊外食産業展 2026 - 厨房機器・DX",
+  "parent_event_name": "第8回 九州・沖縄 宿泊外食産業展 2026",
+  "sub_event_name": "厨房機器・DX",
+  "start_date": "2026-10-28",
+  "end_date": "2026-10-29",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "九州・沖縄地域の宿泊・外食産業に向けた最新のソリューションやサービスが一堂に会する専門展示会です。深刻化する人手不足を解消するための自動チェックイン機や配膳・清掃ロボット、各種DXツールなど、業務効率化や省人化に貢献する最先端のテクノロジーや機器が出展され、地場のホテルや飲食店との新たなビジネスチャンスを創出します。",
+  "url": "https://ksh.jma.or.jp/",
+  "source": "主催者HP（既知URL）：第8回 九州・沖縄・宿泊外食産業展／第2回 アジア輸出食品展",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "AI",
+   "DX",
+   "ロボット",
+   "自治体",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "宿泊・外食産業向けDXや自動化関連のソリューションが出展されるため抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：第8回 九州・沖縄・宿泊外食産業展／第2回 アジア輸出食品展）"
    }
   ]
  },
@@ -6116,15 +5992,18 @@
   ],
   "summary": "住宅、非住宅木造建築、マンション、賃貸住宅、建築・不動産DXを対象とした専門展示会。AI活用・DX企画も実施され、建設・不動産業界のデジタル化や業務効率化をテーマとする。",
   "url": "https://housing-biz.jp/kansai/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "source": "主催者HP（既知URL）：住まい・建築・不動産の総合展［BREX関西］2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX"
+  ],
+  "confidence": 95,
+  "reason": "指定された対象期間内（2026-10-29〜30）にインテックス大阪で開催されるBREX関西内のAI・DX関連の特別企画であり、条件を満たしているため。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -6307,11 +6186,11 @@
    "DX"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -6657,6 +6536,42 @@
   ]
  },
  {
+  "id": "evt_382c2236",
+  "event_name": "レジャー&サービス産業展2026 - レジャーホテルフェア2026",
+  "parent_event_name": "レジャー&サービス産業展2026",
+  "sub_event_name": "レジャーホテルフェア2026",
+  "start_date": "2026-11-05",
+  "end_date": "2026-11-06",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "レジャー&サービス産業展2026内で同時開催されるレジャーホテルフェア2026は、レジャーホテルのハード、ソフト、オペレーションの革新を実現する最新設備機器や新商品、新システムが一堂に会するBtoB展示会です。ホテル事業への参入や施設開発、運営効率化に役立つ情報が集結し、経営者や事業者向けにビジネスチャンスや最新の業界動向を提供します。",
+  "url": "https://www.sogo-unicom.co.jp/lsi/",
+  "source": "主催者HP（既知URL）：レジャー＆サービス産業展2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "レジャーホテルフェア2026はIT関連システムやオペレーション改善のための設備なども対象に含まれており、2026年11月5日から6日まで東京ビッグサイトでの開催が確定しているため抽出対象としました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：レジャー＆サービス産業展2026）"
+   }
+  ]
+ },
+ {
   "id": "evt_84bdc09c",
   "event_name": "レジャーホテルフェア2026",
   "parent_event_name": "レジャーホテルフェア2026",
@@ -6861,11 +6776,11 @@
    "人工知能"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -6897,11 +6812,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -6936,7 +6851,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7080,6 +6995,50 @@
   ]
  },
  {
+  "id": "evt_95ad152a",
+  "event_name": "NexTech Week - XR産業活用展",
+  "parent_event_name": "NexTech Week",
+  "sub_event_name": "XR産業活用展",
+  "start_date": "2026-11-11",
+  "end_date": "2026-11-13",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "映像・放送"
+  ],
+  "summary": "XR産業活用展は、設計・検証、教育訓練、技術伝承、保守運用など産業活動を支援する仮想と現実を一体化する産業XRの専門展示会です。XRデバイス、VR研修コンテンツ、空間コンピューティング、イマーシブ技術などの最新ソリューションが一堂に会し、製造、建設、物流、インフラなど幅広い産業分野の導入検討者が多数来場します。",
+  "url": "https://www.nextech-week.jp/hub/ja-jp/about/xr.html",
+  "source": "主催者HP（既知URL）：第4回 XR総合展【夏】",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "NexTech Week",
+   "エッジ",
+   "テクノロジー",
+   "ロボット",
+   "人工知能",
+   "放送",
+   "自治体"
+  ],
+  "confidence": 100,
+  "reason": "提供されたページURLおよび本文から、開催日時、会場、イベント名が明確に確認できるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：第5回 XR・メタバース総合展【秋】）"
+   }
+  ]
+ },
+ {
   "id": "evt_197c1d19",
   "event_name": "NexTech Week 2026",
   "parent_event_name": "NexTech Week 2026",
@@ -7102,11 +7061,11 @@
    "NexTech Week"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7214,11 +7173,11 @@
    "ロボット"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7251,11 +7210,11 @@
    "AI"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7381,15 +7340,15 @@
   ],
   "summary": "日本最大級の異業種交流展示会。製造業、物流、建設、IT、社会インフラなど幅広い業界の企業が参加し、新規販路開拓や技術交流を行う。",
   "url": "https://www.messenagoya.jp/",
-  "source": "既存Excel取込",
-  "source_type": "import",
+  "source": "展示会場HP：ポートメッセなごや",
+  "source_type": "venue",
   "keywords": [],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "日本国内のポートメッセなごやで2026年11月11日から13日に開催され、IT・DX・IoTに関連する総合的なビジネス展示会であるため。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7626,11 +7585,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7662,11 +7621,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7724,15 +7683,20 @@
   ],
   "summary": "二次電池技術専門展。EV・蓄電池・エネルギーマネジメント向け材料、製造装置、評価設備が出展される。",
   "url": "https://www.wsew.jp/hub/ja-jp/about/bj.html",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "source": "主催者HP（既知URL）：BATTERY JAPAN（国際二次電池展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "センサ",
+   "テクノロジー",
+   "ネットワーク"
+  ],
+  "confidence": 95,
+  "reason": "指定された期間内かつ日本国内で開催される二次電池の専門展であり、構成展の一つとして明確に日程と会場が記載されているため。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -7846,6 +7810,54 @@
   ]
  },
  {
+  "id": "evt_4f10971e",
+  "event_name": "HOSPEX Japan - デジタル・DX・AI",
+  "parent_event_name": "HOSPEX Japan",
+  "sub_event_name": "デジタル・DX・AI",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "医療・福祉施設のための設備・機器・DXの総合展示会であるHOSPEX Japan内のデジタル・DX・AIゾーン。映像管理システム、業務用無線機、電子カルテ、ITセキュリティ、遠隔医療製品、画像診断AI、生成AI・音声AIなど、医療現場のDXや業務効率化を推進する最新のITソリューションが一堂に会する専門展示エリアです。",
+  "url": "https://hospex.jma.or.jp/",
+  "source": "主催者HP（既知URL）：HOSPEX Japan 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "無線",
+   "生成AI",
+   "AI",
+   "DX",
+   "センサ",
+   "セキュリティ",
+   "ドローン",
+   "ロボット",
+   "映像",
+   "IT",
+   "ICT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "医療・福祉分野に特化した総合展示会HOSPEX Japanの構成展であり、2026年11月18日〜20日開催の確定日程、会場が明確に記載されているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：HOSPEX Japan 2026）"
+   }
+  ]
+ },
+ {
   "id": "evt_d7b14910",
   "event_name": "HOSPEX Japan 2026",
   "parent_event_name": "HOSPEX Japan 2026",
@@ -7903,11 +7915,11 @@
    "Inter BEE"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）",
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -8422,6 +8434,44 @@
   ]
  },
  {
+  "id": "evt_d87685cb",
+  "event_name": "PV EXPO 太陽光発電展 - 関西展",
+  "parent_event_name": "PV EXPO 太陽光発電展",
+  "sub_event_name": "関西展",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "日本最大の太陽光発電業界向け展示会であるPV EXPOの関西展。次世代太陽電池、太陽光発電システム、パワコン、施工技術、保守・メンテナンス、遠隔監視システムなどあらゆる製品・技術が一堂に会し、発電事業者や施工・EPC事業者が多数来場する。ビジネス加速の重要なプラットフォームとして業界関係者の注目を集めている。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/pv.html",
+  "source": "主催者HP（既知URL）：PV EXPO【秋】（国際太陽光発電展）",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "ドローン",
+   "ロボット",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "日本国内で開催される太陽光発電関連の展示会であり、指定された開催期間に合致するため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：PV EXPO【秋】（国際太陽光発電展））"
+   }
+  ]
+ },
+ {
   "id": "evt_b43d4f9f",
   "event_name": "SAMPE Japan 先端材料技術展 2026",
   "parent_event_name": "SAMPE Japan 先端材料技術展 2026",
@@ -8451,6 +8501,118 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_fde54e0a",
+  "event_name": "SMART ENERGY WEEK [関西] - BATTERY JAPAN 二次電池展",
+  "parent_event_name": "SMART ENERGY WEEK [関西]",
+  "sub_event_name": "BATTERY JAPAN 二次電池展",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "次世代電池や二次電池の開発・製造に必要な技術や材料、装置が一堂に出展する専門展示会。西日本最大級のエネルギー総合展の構成展として、リチウムイオン電池から全固体電池まで幅広い最新動向を網羅し、エネルギー分野や自動車産業の専門家による活発な技術交流や商談が行われる。",
+  "url": "https://www.wsew.jp/osaka/ja-jp.html",
+  "source": "主催者HP（既知URL）：SMART ENERGY WEEK2026",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "スマートシティ",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "指定期間内でインテックス大阪にて開催される二次電池に関する構成展であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SMART ENERGY WEEK2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_beec856e",
+  "event_name": "SMART ENERGY WEEK [関西] - PV EXPO 太陽光発電展",
+  "parent_event_name": "SMART ENERGY WEEK [関西]",
+  "sub_event_name": "PV EXPO 太陽光発電展",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "西日本最大級の新エネルギー総合展であるスマートエネルギーWeekの構成展として開催される太陽光発電展。太陽光発電に関する最新技術、製品、サービスが一堂に集まり、発電事業者やメーカー、自治体などの専門家が多数来場して活発な商談や情報収集が行われる重要なビジネスプラットフォームである。",
+  "url": "https://www.wsew.jp/osaka/ja-jp.html",
+  "source": "主催者HP（既知URL）：SMART ENERGY WEEK2026",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "スマートシティ",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "指定された開催期間内であり、インテックス大阪で開催される太陽光発電に関する構成展であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SMART ENERGY WEEK2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_e90ba752",
+  "event_name": "SMART ENERGY WEEK [関西] - SMART GRID EXPO スマートグリッド展",
+  "parent_event_name": "SMART ENERGY WEEK [関西]",
+  "sub_event_name": "SMART GRID EXPO スマートグリッド展",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "次世代の電力網やエネルギーマネジメント、系統用蓄電池などスマートグリッドに関連する技術やソリューションが出展する専門展。再生可能エネルギーの普及に欠かせない電力システムの最適化やデジタル制御技術が集まり、エネルギー業界や自治体関係者にとって不可欠な情報発信地となっている。",
+  "url": "https://www.wsew.jp/osaka/ja-jp.html",
+  "source": "主催者HP（既知URL）：SMART ENERGY WEEK2026",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "スマートシティ",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "指定期間内でインテックス大阪にて開催されるスマートグリッドに関する構成展であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SMART ENERGY WEEK2026）"
    }
   ]
  },
@@ -8485,6 +8647,48 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_48f11d0b",
+  "event_name": "SMART GRID EXPO スマートグリッド展 - 関西展",
+  "parent_event_name": "SMART GRID EXPO スマートグリッド展",
+  "sub_event_name": "関西展",
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "2050年のカーボンニュートラル実現の鍵を握るスマートグリッド分野の日本最大の専門展示会。VPPやデマンドレスポンス関連技術、エネルギーマネジメントシステム、蓄電池、EV活用などの最新技術が一堂に会し、電力ビジネスを加速させるための商談や技術提案が行われる重要なプラットフォームとなっている。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/sg.html",
+  "source": "主催者HP（既知URL）：SMART GRID EXPO【秋】",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "ネットワーク",
+   "AI",
+   "クラウド",
+   "IoT",
+   "センサ",
+   "自治体",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "指定された開催期間内（2026-11-18～20）にインテックス大阪で開催されることが公式サイトに明記されているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SMART GRID EXPO【秋】）"
    }
   ]
  },
@@ -8851,7 +9055,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -8887,7 +9091,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9236,21 +9440,70 @@
    "AI・DX"
   ],
   "summary": "建設・土木分野の最新技術を紹介する専門展示会。ICT施工、インフラ維持管理、建設DXなどの技術展示が中心。",
-  "url": "https://kgf-chubu.com/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
-  "status": "unchanged",
+  "url": "https://www.kgf-chubu.com/",
+  "source": "主催者HP（既知URL）：建設技術フェア2026 in 中部",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "ICT",
+   "放送",
+   "通信"
+  ],
+  "confidence": 95,
+  "reason": "建設技術フェア2026in中部公式サイトの情報に基づき、開催期間、会場、AI・DXに関連するセミナーなどの内容が確認できたため。",
+  "status": "updated",
   "first_seen": "2026-10-05",
-  "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-19",
+    "change": "更新：URL：https://kgf-chubu.com/→https://www.kgf-chubu.com/"
+   }
+  ]
+ },
+ {
+  "id": "evt_4fd1f7f6",
+  "event_name": "次世代ものづくり基盤技術産業展―TECH Biz EXPO 2026―",
+  "parent_event_name": "次世代ものづくり基盤技術産業展―TECH Biz EXPO 2026―",
+  "sub_event_name": "",
+  "start_date": "2026-11-19",
+  "end_date": "2026-11-20",
+  "date_status": "fixed",
+  "venue": "ポートメッセなごや",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "未来を創る技術が集うものづくり展示会であり、独自の加工技術、特殊素材、高精度部品など、ニッチで高度な技術力を有する中小・零細製造業の優れた技術を広く発信し、新たなビジネス機会を創出することを目的として開催される。ロボットやAIに関するシンポジウムや、多彩な出展者によるピッチ情報、バイヤー商談会なども同時展開され、製造業の最新トレンドや課題解決につながる情報が集結する。",
+  "url": "https://www.techbizexpo.com/",
+  "source": "主催者HP（既知URL）：TECH Biz EXPO 2026（次世代ものづくり基盤技術産業展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "ロボット",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "指定された開催期間に合致し、ロボット・AI等に関連するシンポジウムや技術展示が含まれる日本国内の展示会であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：TECH Biz EXPO 2026（次世代ものづくり基盤技術産業展））"
    }
   ]
  },
@@ -9345,11 +9598,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9383,11 +9636,11 @@
    "セキュリティ"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9418,11 +9671,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9454,11 +9707,11 @@
    "DXPO"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載",
+  "reason": "会場公式のイベント一覧に掲載（Geminiで関連性を確認）",
   "status": "needs_review",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9483,15 +9736,20 @@
   ],
   "summary": "北海道経済産業局が、FOOD CROSS HOKKAIDO 2026において、「バイオものづくり×フードテックブース」への出展者を募集しています。これは、食の未来を創造するイベントで、関連技術の展示や商談の機会が期待できます。",
   "url": "https://hokkaido-foodtech2026.com/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
-  "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "source": "主催者HP（既知URL）：FOOD CROSS HOKKAIDO 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "テクノロジー",
+   "自治体",
+   "通信"
+  ],
+  "confidence": 95,
+  "reason": "FOOD CROSS HOKKAIDO 2026 is a food tech and agritech exhibition held in Sapporo, Japan on November 25, 2026. It fits the date range and industry categories.",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -9530,6 +9788,50 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_12d5ebae",
+  "event_name": "[名古屋] スマート物流 EXPO",
+  "parent_event_name": "[名古屋] スマート物流 EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-11-25",
+  "end_date": "2026-11-27",
+  "date_status": "fixed",
+  "venue": "Aichi Sky Expo",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "運輸や倉庫業、荷主企業が直面する人手不足や業務効率化、物流DXなどの課題を解決するためのAI、システム、ロボット、設備・サービスが一堂に出展する中部最大級の物流総合展です。最新の業界動向が学べるセミナーや特別企画も多数開催されます。",
+  "url": "https://www.smart-logistic.jp/nagoya/ja-jp.html",
+  "source": "主催者HP（既知URL）：第5回 名古屋 スマート物流 EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "スマート物流 EXPOの構成展（同時開催展）として記載されており、開催期間や会場などの詳細が明確であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：第5回 名古屋 スマート物流 EXPO）"
    }
   ]
  },
@@ -9873,11 +10175,11 @@
   "source_type": "venue",
   "keywords": [],
   "confidence": 90,
-  "reason": "北海道スマート農業SUMMIT2026はスマート農業やIoT、ドローン・ロボット関連の技術を扱うため条件に合致し、指定期間内の開催であるため抽出しました。",
+  "reason": "イベント名と概要からIoTやAIなどの先端技術を活用したスマート農業に関連する展示・サミットであると判断できるため。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -10170,7 +10472,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -10960,7 +11262,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -10997,7 +11299,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -11157,7 +11459,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -11364,7 +11666,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -11477,7 +11779,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -11786,15 +12088,24 @@
   ],
   "summary": "AI、産業DX、IoTに関する最新技術やソリューションが集まる展示会です。産業界のデジタルトランスフォーメーションを推進する製品・サービスが展示されます。",
   "url": "https://ex.ipros.jp/expo/iprosai-2026-12/",
-  "source": "既存Excel取込",
-  "source_type": "import",
-  "keywords": [],
+  "source": "主催者HP（既知URL）：イプロスAI-産業World 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "エッジ",
+   "データ活用",
+   "ドローン",
+   "ロボット",
+   "生成AI"
+  ],
   "confidence": 90,
-  "reason": "既存の展示会イベントリストから取込",
+  "reason": "製造業・建設業向けのAI/DX展示会であり、提供された本文からイベント名が確認できるため。具体的な開催日時は本文中に記載がないため空欄とした。",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-05",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -11931,7 +12242,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12041,6 +12352,282 @@
   ]
  },
  {
+  "id": "evt_e1d2451b",
+  "event_name": "Eight EXPO 2026 冬 - 第1回 フィジカルAI 実装戦略展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第1回 フィジカルAI 実装戦略展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "Eight EXPO 2026 冬の構成展として初開催されるフィジカルAI実装に特化した専門展です。フィジカルAI・ロボット制御ソフト、デジタルツイン基盤、AIビジョン技術、協働ロボットやヒューマノイドなど、現実空間とAIを融合させる先端技術が展示されます。",
+  "url": "https://eight-event.8card.net/eightexpo/",
+  "source": "主催者HP（既知URL）：PHAISE 2026 冬（フィジカルAI実装戦略展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "イベントページに記載されている「第1回 フィジカルAI 実装戦略展」の情報を正確に抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Eight EXPO 2026 冬）"
+   }
+  ]
+ },
+ {
+  "id": "evt_ade19d68",
+  "event_name": "Eight EXPO 2026 冬 - 第1回 物流AX 導入・推進展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第1回 物流AX 導入・推進展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "Eight EXPO 2026 冬内で新設される物流・サプライチェーン領域に特化した展示会です。WMSや配車管理システム、倉庫自動化設備、需要予測・在庫最適化AI、IoTセンサー、セキュリティ・BCP対策など最新の物流AXソリューションが展示されます。",
+  "url": "https://eight-event.8card.net/eightexpo/",
+  "source": "主催者HP（既知URL）：PHAISE 2026 冬（フィジカルAI実装戦略展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "同時開催展として記載されている物流AX導入・推進展の情報を抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Eight EXPO 2026 冬）"
+   }
+  ]
+ },
+ {
+  "id": "evt_0c39e42f",
+  "event_name": "Eight EXPO 2026 冬 - 第1回 製造AX 導入・推進展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第1回 製造AX 導入・推進展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "第1回製造AX導入・推進展は、製造業におけるAIやIoT活用に特化した展示会です。画像認識や異常検知、生産管理、予知保全、設備監視、現場のペーパーレス化や点検DX、AIセキュリティなど、製造現場の変革を支える最先端のソリューションが出展されます。",
+  "url": "https://eight-event.8card.net/eightexpo/ai-sel/",
+  "source": "主催者HP（既知URL）：PHAISE 2026 冬（フィジカルAI実装戦略展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "同時開催展として記載されている製造AX導入・推進展の情報を抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：AI-SEL 2026 冬（物流AX 導入・推進展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_e433e2e3",
+  "event_name": "Eight EXPO 2026 冬 - 第4回 AIの実践的な活用展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第4回 AIの実践的な活用展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "Eight EXPO 2026 冬の構成展の一つとして開催されるAI活用に特化した専門展示会です。業務効率化AIやカスタムAI、AI全社活用、データ整備、AI-OCR、生成AI関連サービスなど、ビジネスに直結する実践的なAIソリューションが一堂に会します。",
+  "url": "https://eight-event.8card.net/eightexpo/",
+  "source": "主催者HP（既知URL）：PHAISE 2026 冬（フィジカルAI実装戦略展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "イベントの同時開催展として記載されているAIの実践的な活用展の情報を抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Eight EXPO 2026 冬）"
+   }
+  ]
+ },
+ {
+  "id": "evt_27f627e6",
+  "event_name": "Eight EXPO 2026 冬 - 第7回 マーケソリューション 比較・導入展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第7回 マーケソリューション 比較・導入展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "Eight EXPO 2026 冬内で同時開催される、マーケティング領域に特化した専門展示会です。MAや顧客分析ツール、Web・SNS運用、データ分析ツールなど、企業のマーケティング活動を強力に支援する最新ソリューションやサービスが集結します。",
+  "url": "https://eight-event.8card.net/eightexpo/",
+  "source": "主催者HP（既知URL）：AI-SEL 2026 冬（物流AX 導入・推進展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "同時開催展としてマーケソリューション比較・導入展の開催概要と出展内容が確認できるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Eight EXPO 2026 冬）"
+   }
+  ]
+ },
+ {
+  "id": "evt_c69b0cff",
+  "event_name": "Eight EXPO 2026 冬 - 第7回 営業DX 比較・導入展",
+  "parent_event_name": "Eight EXPO 2026 冬",
+  "sub_event_name": "第7回 営業DX 比較・導入展",
+  "start_date": "2026-12-16",
+  "end_date": "2026-12-17",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "Eight EXPO 2026 冬の構成展として開催される営業DXに特化した展示会です。CRMやSFA、インテントセールス、セールスイネーブルメント、名刺管理、営業支援ツールなど、営業活動の効率化やDXを推進する最新のソリューションやサービスが一堂に集結します。",
+  "url": "https://eight-event.8card.net/eightexpo/",
+  "source": "主催者HP（既知URL）：PHAISE 2026 冬（フィジカルAI実装戦略展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "エッジ",
+   "セキュリティ",
+   "センサ",
+   "データ活用",
+   "ロボット",
+   "放送",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "イベントの同時開催展として記載されている営業DX比較・導入展の情報を抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Eight EXPO 2026 冬）"
+   }
+  ]
+ },
+ {
   "id": "evt_ba733e6a",
   "event_name": "InterAqua 2027",
   "parent_event_name": "InterAqua 2027",
@@ -12104,7 +12691,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12176,7 +12763,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12346,7 +12933,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12381,7 +12968,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12417,7 +13004,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12453,7 +13040,7 @@
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12522,11 +13109,11 @@
    "ロボット"
   ],
   "confidence": 90,
-  "reason": "会場公式のイベント一覧に掲載（東1-3ホール）",
+  "reason": "会場公式のイベント一覧に掲載（東1-3ホール）（Geminiで関連性を確認）",
   "status": "unchanged",
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
-  "last_checked": "2026-10-12",
+  "last_checked": "2026-10-19",
   "year": "2026",
   "history": [
    {
@@ -12566,6 +13153,51 @@
    {
     "date": "2026-10-05",
     "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_88089585",
+  "event_name": "TOKYO DIGICONX 2027",
+  "parent_event_name": "TOKYO DIGICONX 2027",
+  "sub_event_name": "",
+  "start_date": "2027-01-13",
+  "end_date": "2027-01-15",
+  "date_status": "fixed",
+  "venue": "有明GYM-EX",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "TOKYO DIGICONX 2027は、AI、XR、メタバース、Web3、IoTなどの最先端デジタルコンテンツ技術が一堂に会する日本国内最大級の展示・商談会です。事業者やクリエイター間の新たな企業間連携の創出、販路拡大、情報交換のための多様なビジネスチャンスを提供します。",
+  "url": "https://xr-meta-biz.tokyo/",
+  "source": "主催者HP（既知URL）：TOKYO XR・メタバース&コンテンツビジネスワールド",
+  "source_type": "known_url",
+  "keywords": [
+   "5G",
+   "6G",
+   "生成AI",
+   "AI",
+   "クラウド",
+   "IoT",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "自動運転",
+   "映像"
+  ],
+  "confidence": 95,
+  "reason": "AIやIoT、XRなど関連技術を網羅し、2027年1月に有明GYM-EXでの開催が確定しているため抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：TOKYO XR・メタバース&コンテンツビジネスワールド）"
    }
   ]
  },
@@ -13004,6 +13636,236 @@
   ]
  },
  {
+  "id": "evt_b48dffb6",
+  "event_name": "AI Innovation Expo 2027 春 - AI Innovation Expo",
+  "parent_event_name": "AI Innovation Expo 2027 春",
+  "sub_event_name": "AI Innovation Expo",
+  "start_date": "2027-02-26",
+  "end_date": "2027-02-26",
+  "date_status": "fixed",
+  "venue": "JPタワー名古屋 ホール＆カンファレンス",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "試行から成果への移行を目指し、製造とITの現場から挑むDXおよびAX（AI Transformation）の実装をテーマにした最先端の展示会とセミナーです。名古屋会場では2027年2月26日に開催され、AIスタートアップ関係者や自社データのAI活用を検討する多様な業界の意思決定者が来場します。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の名古屋会場におけるAI Innovation Expoの開催情報に基づき、日付と会場を正確に抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_70b7a2af",
+  "event_name": "DXシステム開発 Expo 2027 春 - DXシステム開発 Expo",
+  "parent_event_name": "DXシステム開発 Expo 2027 春",
+  "sub_event_name": "DXシステム開発 Expo",
+  "start_date": "2027-02-26",
+  "end_date": "2027-02-26",
+  "date_status": "fixed",
+  "venue": "JPタワー名古屋 ホール＆カンファレンス",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AIエージェント等の進展によるシステム開発の内製化シフトを背景に、基幹基盤やデータAI活用の軸からバリューチェーン全体のDX実装を提案する展示会とセミナーです。名古屋会場では2027年2月26日に開催され、DXプロジェクトの責任者やIT投資の決裁者、システム内製化の推進リーダーなど多くの実務者が来場します。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の名古屋会場におけるDXシステム開発Expoの開催情報に基づき、日付と会場を正確に抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_0490935f",
+  "event_name": "ものづくりDX Expo 2027 春 - ものづくりDX Expo",
+  "parent_event_name": "ものづくりDX Expo 2027 春",
+  "sub_event_name": "ものづくりDX Expo",
+  "start_date": "2027-02-26",
+  "end_date": "2027-02-26",
+  "date_status": "fixed",
+  "venue": "JPタワー名古屋 ホール＆カンファレンス",
+  "prefecture": "愛知県",
+  "region": "中部",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "人手不足や技能継承、レガシーの壁を打破し、製造現場の課題解決を目指すスマートファクトリー化や製造業DXに特化した展示会とセミナーです。名古屋会場では2027年2月26日に開催され、製造業の経営層や工場・生産現場の実務責任者、製造業特化のIT推進企業などが多数集まります。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の名古屋会場におけるものづくりDX Expoの開催情報に基づき、日付と会場を正確に抽出しました。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_f64880e5",
+  "event_name": "AI Innovation Expo 2027 春 - AI Innovation Expo",
+  "parent_event_name": "AI Innovation Expo 2027 春",
+  "sub_event_name": "AI Innovation Expo",
+  "start_date": "2027-03-02",
+  "end_date": "2027-03-02",
+  "date_status": "fixed",
+  "venue": "ナレッジキャピタル カンファレンスルーム（グランフロント大阪 北館 タワーC 8F）",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "試行から成果への移行を目指し、製造とITの現場から挑むDXおよびAX（AI Transformation）の実装をテーマにした最先端の展示会とセミナーです。大阪会場では2027年3月2日に開催され、AIスタートアップ関係者や自社データのAI活用を検討する多様な業界の意思決定者が来場します。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の大阪会場におけるAI Innovation Expoの開催情報に基づき、日付と会場を正確に抽出しました。／要確認：重複疑い：evt_b48dffb6「AI Innovation Expo 2027 春 - AI Innovation Expo」",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_b9301a14",
+  "event_name": "DXシステム開発 Expo 2027 春 - DXシステム開発 Expo",
+  "parent_event_name": "DXシステム開発 Expo 2027 春",
+  "sub_event_name": "DXシステム開発 Expo",
+  "start_date": "2027-03-02",
+  "end_date": "2027-03-02",
+  "date_status": "fixed",
+  "venue": "ナレッジキャピタル カンファレンスルーム（グランフロント大阪 北館 タワーC 8F）",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "AIエージェント等の進展によるシステム開発の内製化シフトを背景に、基幹基盤やデータAI活用の軸からバリューチェーン全体のDX実装を提案する展示会とセミナーです。大阪会場では2027年3月2日に開催され、DXプロジェクトの責任者やIT投資の決裁者、システム内製化の推進リーダーなど多くの実務者が来場します。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の大阪会場におけるDXシステム開発Expoの開催情報に基づき、日付と会場を正確に抽出しました。／要確認：重複疑い：evt_70b7a2af「DXシステム開発 Expo 2027 春 - DXシステム開発 Expo」",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_61d5d4cb",
+  "event_name": "ものづくりDX Expo 2027 春 - ものづくりDX Expo",
+  "parent_event_name": "ものづくりDX Expo 2027 春",
+  "sub_event_name": "ものづくりDX Expo",
+  "start_date": "2027-03-02",
+  "end_date": "2027-03-02",
+  "date_status": "fixed",
+  "venue": "ナレッジキャピタル カンファレンスルーム（グランフロント大阪 北館 タワーC 8F）",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "人手不足や技能継承、レガシーの壁を打破し、製造現場の課題解決を目指すスマートファクトリー化や製造業DXに特化した展示会とセミナーです。大阪会場では2027年3月2日に開催され、製造業の経営層や工場・生産現場の実務責任者、製造業特化のIT推進企業などが多数集まります。",
+  "url": "https://f2ff.jp/event/dx-ai",
+  "source": "主催者HP（既知URL）：DXシステム開発 Expo 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "Webページに明記されている2027年春の大阪会場におけるものづくりDX Expoの開催情報に基づき、日付と会場を正確に抽出しました。／要確認：重複疑い：evt_0490935f「ものづくりDX Expo 2027 春 - ものづくりDX Expo」",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：DXシステム開発 Expo 2026）"
+   }
+  ]
+ },
+ {
   "id": "evt_eed0292c",
   "event_name": "JAPAN BUILD - 建設DX展＋（プラス）",
   "parent_event_name": "JAPAN BUILD",
@@ -13048,6 +13910,132 @@
    {
     "date": "2026-10-05",
     "change": "新規検出（主催者HP（既知URL）：建設DX展）"
+   }
+  ]
+ },
+ {
+  "id": "evt_0e16dbb0",
+  "event_name": "スマート物流 EXPO - トラックワールド",
+  "parent_event_name": "スマート物流 EXPO",
+  "sub_event_name": "トラックワールド",
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "スマート物流 EXPO内で開催されるトラックワールドは、商用車をはじめ、デジタコやドラレコなどの周辺機器が出展する専門展です。物流業界の効率化や安全性向上に貢献する最新の車両・デバイスが集結し、来場者は自社の課題に合わせた最適な製品を比較検討できます。",
+  "url": "https://www.smart-logistic.jp/tokyo/ja-jp.html",
+  "source": "主催者HP（既知URL）：スマート物流 EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ドローン",
+   "ロボット",
+   "IT"
+  ],
+  "confidence": 100,
+  "reason": "公式ウェブサイトに2027年3月17日から19日までの開催日程が記載されており、トラックワールドの構成展情報が明確であるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：スマート物流 EXPO）"
+   }
+  ]
+ },
+ {
+  "id": "evt_919f29f5",
+  "event_name": "スマート物流 EXPO - マテハン・搬送ロボット展",
+  "parent_event_name": "スマート物流 EXPO",
+  "sub_event_name": "マテハン・搬送ロボット展",
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "スマート物流 EXPOの構成展であるマテハン・搬送ロボット展には、搬送機器やAGV・AMR、パレタイズロボットなどが出展します。省人化や自動化が急務となっている物流現場に向けた最新のロボット技術が一堂に会し、多くの来場者による導入検討が行われます。",
+  "url": "https://www.smart-logistic.jp/tokyo/ja-jp.html",
+  "source": "主催者HP（既知URL）：スマート物流 EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IoT",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ドローン",
+   "ロボット",
+   "IT"
+  ],
+  "confidence": 100,
+  "reason": "公式ウェブサイトに2027年3月17日から19日までの会期が記載されており、マテハン・搬送ロボット展の出展内容が確認できるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：スマート物流 EXPO）"
+   }
+  ]
+ },
+ {
+  "id": "evt_0246be39",
+  "event_name": "スマート物流 EXPO - 物流DX展",
+  "parent_event_name": "スマート物流 EXPO",
+  "sub_event_name": "物流DX展",
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "スマート物流 EXPOの構成展である物流DX展は、TMSやWMSなどのAI・DXソリューションが出展する専門展示会です。物流業の課題解決に向けた最新のデジタル技術やサービスを一度に比較検討することができ、全国から多くの物流関係者や企業のキーパーソンが来場します。",
+  "url": "https://www.smart-logistic.jp/tokyo/ja-jp.html",
+  "source": "主催者HP（既知URL）：スマート物流 EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ドローン",
+   "ロボット"
+  ],
+  "confidence": 100,
+  "reason": "公式ウェブサイトに2027年3月17日から19日までの開催日程が明記されており、3PL・物流施設展の出展内容も正確に把握できるため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：スマート物流 EXPO）"
    }
   ]
  },
@@ -13134,6 +14122,124 @@
   ]
  },
  {
+  "id": "evt_87a8c63f",
+  "event_name": "BATTERY JAPAN 二次電池展 - 春展",
+  "parent_event_name": "BATTERY JAPAN 二次電池展",
+  "sub_event_name": "春展",
+  "start_date": "2027-03-24",
+  "end_date": "2027-03-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "2050年カーボンニュートラル実現に向け、再生可能エネルギーとEV普及のカギを握る二次電池技術の専門展です。電池の研究開発、製造に必要なあらゆる技術、部品・材料、装置が一堂に出展し、世界中から専門家が来場して蓄電池ビジネスを加速させる重要なプラットフォームとなっています。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/bj.html",
+  "source": "主催者HP（既知URL）：BATTERY JAPAN（国際二次電池展）",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "AI",
+   "センサ",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "指定された期間内かつ日本国内で開催される二次電池の専門展であり、構成展の一つとして明確に日程と会場が記載されているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：BATTERY JAPAN（国際二次電池展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_4d41d1f1",
+  "event_name": "PV EXPO 太陽光発電展 - 春展",
+  "parent_event_name": "PV EXPO 太陽光発電展",
+  "sub_event_name": "春展",
+  "start_date": "2027-03-24",
+  "end_date": "2027-03-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "日本最大の太陽光発電業界向け展示会であるPV EXPOの春展。東京ビッグサイトにて開催され、次世代太陽電池、太陽光発電システム、パワコン、施工技術、保守・メンテナンス、遠隔監視システムなどあらゆる製品・技術が一堂に会する。世界中から専門家が来場し、活発な商談や技術提案が行われる。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/pv.html",
+  "source": "主催者HP（既知URL）：PV EXPO【秋】（国際太陽光発電展）",
+  "source_type": "known_url",
+  "keywords": [
+   "ネットワーク",
+   "ドローン",
+   "ロボット",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "日本国内で開催される太陽光発電関連の展示会であり、指定された開催期間に合致するため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：PV EXPO【秋】（国際太陽光発電展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_9c97a5ea",
+  "event_name": "SMART GRID EXPO スマートグリッド展 - 春展",
+  "parent_event_name": "SMART GRID EXPO スマートグリッド展",
+  "sub_event_name": "春展",
+  "start_date": "2027-03-24",
+  "end_date": "2027-03-26",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "2050年のカーボンニュートラル実現の鍵を握るスマートグリッド分野の日本最大の専門展示会。VPPやデマンドレスポンス関連技術、エネルギーマネジメントシステム、蓄電池、EV活用などの最新技術が一堂に会し、電力ビジネスを加速させるための商談や技術提案が行われる重要なプラットフォームとなっている。",
+  "url": "https://www.wsew.jp/hub/ja-jp/about/sg.html",
+  "source": "主催者HP（既知URL）：SMART GRID EXPO【秋】",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "ネットワーク",
+   "AI",
+   "クラウド",
+   "IoT",
+   "センサ",
+   "自治体",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "指定された開催期間内（2027-03-24～26）に東京ビッグサイトで開催されることが公式サイトに明記されているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：SMART GRID EXPO【秋】）"
+   }
+  ]
+ },
+ {
   "id": "evt_7e5f6eca",
   "event_name": "サーキュラー・エコノミー EXPO [CE JAPAN] - 2027年春展",
   "parent_event_name": "サーキュラー・エコノミー EXPO [CE JAPAN]",
@@ -13208,6 +14314,85 @@
    {
     "date": "2026-10-05",
     "change": "新規検出（主催者HP（既知URL）：GX経営 WEEK 脱炭素経営 EXPO）"
+   }
+  ]
+ },
+ {
+  "id": "evt_1d2a2f17",
+  "event_name": "DXシステム開発 Expo",
+  "parent_event_name": "DXシステム開発 Expo",
+  "sub_event_name": "DXシステム開発 Expo",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "システム開発やものづくりの現場に向けた最新のDXソリューションや生成AI活用、データ活用、業務効率化ツールなどを展示・紹介するイベントです。内製化支援やアジャイル開発、各種ITシステムに関するセミナーも多数開催され、実務に活かせるノウハウや最新事例を共有します。",
+  "url": "https://f2ff.jp/event/0802",
+  "source": "主催者HP（既知URL）：ものづくりDX Expo 2025",
+  "source_type": "known_url",
+  "keywords": [
+   "生成AI",
+   "AI",
+   "DX",
+   "デジタルトランスフォーメーション",
+   "クラウド",
+   "データ活用",
+   "IoT",
+   "IT"
+  ],
+  "confidence": 100,
+  "reason": "対象ページに記載されているイベントは2025年開催のものであり、ターゲット期間（2026-10-19以降）に合致する次回開催の具体的な日程や会場情報は未定であるため、過年度情報として除外するか次回日程未定として処理する必要がありますが、プロンプトの条件に基づき日程未定の次回開催情報として抽出対象外、あるいは過去情報として除外すべきか検討した結果、過去の情報であるため該当なしと判断。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：ものづくりDX Expo 2025）"
+   }
+  ]
+ },
+ {
+  "id": "evt_a0ead833",
+  "event_name": "ECONOSEC JAPAN",
+  "parent_event_name": "ECONOSEC JAPAN",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "セキュリティ"
+  ],
+  "summary": "ECONOSEC JAPANは、経済安全保障やサイバーセキュリティ、危機管理投資に関する最新の技術、製品、インフラなどを網羅した国内最大級のカンファレンスおよび展示会です。官民が連携し、重要物資の調達自律性や強靭な経済基盤の構築に向けた情報交換やビジネスマッチングが行われます。出展者と来場者に対して厳格な事前審査を実施することで高いセキュリティを確保し、安心して活発な商談や交流ができる場を提供します。",
+  "url": "https://econosec.jp/",
+  "source": "主催者HP（既知URL）：ECONOSEC JAPAN 経済安全保障対策会議・展示会",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "サイバーセキュリティ",
+   "セキュリティ"
+  ],
+  "confidence": 70,
+  "reason": "経済安全保障やサイバーセキュリティに関連する展示会ですが、提供された本文内には2026年10月以降の具体的な開催日程が明記されておらず、Prospectus 2026の言及があるのみのため、日付未定として抽出しました。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：ECONOSEC JAPAN 経済安全保障対策会議・展示会）"
    }
   ]
  },
@@ -14154,6 +15339,168 @@
   ]
  },
  {
+  "id": "evt_e655e017",
+  "event_name": "Japan Robot Week",
+  "parent_event_name": "Japan Robot Week",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "本ページは2024年開催の実績報告や関連情報が掲載されている過去のイベント情報であり、対象期間である2026年10月19日から2027年3月31日までの具体的な次回開催日程に関する情報は確認できません。生活・暮らし、インフラ、農業、物流、医療、SI、AIなどの幅広いロボット技術が集結する展示会ですが、過年度情報となるため対象外または次回日程未定となります。",
+  "url": "https://biz.nikkan.co.jp/eve/s-robot/",
+  "source": "主催者HP（既知URL）：Japan Robot Week 2024",
+  "source_type": "known_url",
+  "keywords": [
+   "生成AI",
+   "AI",
+   "クラウド",
+   "センサ",
+   "ドローン",
+   "ロボット",
+   "自動運転"
+  ],
+  "confidence": 95,
+  "reason": "Webページの内容が2024年開催の報告書や過去のトピックスを中心に構成されており、2026〜2027年期間の開催日程が明記されていないため。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Japan Robot Week 2024）"
+   }
+  ]
+ },
+ {
+  "id": "evt_60a9939a",
+  "event_name": "Smart Sensing",
+  "parent_event_name": "Smart Sensing",
+  "sub_event_name": "Smart Sensing",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "未来社会を創造するセンサ・センシングテクノロジー、AI、データ活用サービスが一挙に展示される専門展示会です。最先端の電子デバイスやセンシング技術が集結し、製品開発や技術導入、新たなビジネスパートナーの開拓を強力にサポートします。センサーからAI、データ活用に至るまで、未来の可能性を広げる技術や製品が一堂に会する場として、幅広い業界の関係者に活用されています。",
+  "url": "https://www.smartsensingexpo.com/",
+  "source": "主催者HP（既知URL）：Smart Sensing 2026 / SEMISOL 2026（半導体後工程技術＆ソリューション展）",
+  "source_type": "known_url",
+  "keywords": [
+   "5G",
+   "AI",
+   "データ活用",
+   "IoT",
+   "センサ",
+   "テクノロジー"
+  ],
+  "confidence": 70,
+  "reason": "2026年6月の開催実績がありますが、指定対象期間（2026-10-19以降）における次回の具体的な開催日がページ内で確認できないため、日付未定として抽出しました。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Smart Sensing 2026 / SEMISOL 2026（半導体後工程技術＆ソリューション展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_031ac504",
+  "event_name": "Smart Sensing - SEMISOL",
+  "parent_event_name": "Smart Sensing",
+  "sub_event_name": "SEMISOL",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "次世代の半導体市場を支える後工程・パッケージング技術・ソリューションに特化した専門展示会です。半導体技術を求める企業をはじめ、次世代のAI、5G、IoT、車載アプリケーションを見据えるプロフェッショナルに向けて、重要なビジネスマッチングの場を提供します。最先端のパッケージング技術などを通じて、業界の新たな共創と技術革新を加速させるための絶好の機会となっています。",
+  "url": "https://www.smartsensingexpo.com/",
+  "source": "主催者HP（既知URL）：Smart Sensing 2026 / SEMISOL 2026（半導体後工程技術＆ソリューション展）",
+  "source_type": "known_url",
+  "keywords": [
+   "5G",
+   "AI",
+   "データ活用",
+   "IoT",
+   "センサ",
+   "テクノロジー"
+  ],
+  "confidence": 70,
+  "reason": "Smart Sensingの構成展であるSEMISOLについて、過年度情報は除外した上で、次回開催日の記載が明示されていないため日付未定として抽出しました。／要確認：類似イベントあり：evt_60a9939a「Smart Sensing」、開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：Smart Sensing 2026 / SEMISOL 2026（半導体後工程技術＆ソリューション展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_de53d056",
+  "event_name": "[関西]マンション総合EXPO",
+  "parent_event_name": "[関西]マンション総合EXPO",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "マンションの建設・管理における業務効率化や管理の質向上、建物の価値向上を図る製品が一堂に出展する西日本最大級の専門展です。マンション管理DXサービス、防災DX、高速インターネット、EV充電設備、ドローン点検サービスなどの最新IT・スマートシティ関連製品・サービスが出展し、デベロッパーや管理会社との商談が行われます。",
+  "url": "https://housing-biz.jp/kansai/mansion/selling_proposition.html",
+  "source": "主催者HP（既知URL）：住まい・建築・不動産の総合展 関西 マンション総合EXPO 2025",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "ドローン"
+  ],
+  "confidence": 85,
+  "reason": "マンション管理DXや防災DX、ドローン点検、EV充電設備などのIT・スマートシティ関連製品が出展対象に含まれており条件に合致しますが、開催日程がページ内に明記されていないため日付は空欄としています。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：住まい・建築・不動産の総合展 関西 マンション総合EXPO 2025）"
+   }
+  ]
+ },
+ {
   "id": "evt_0235c2e8",
   "event_name": "e-messe kanazawa 2027",
   "parent_event_name": "e-messe kanazawa 2027",
@@ -14305,6 +15652,50 @@
   ]
  },
  {
+  "id": "evt_1dc9d03a",
+  "event_name": "グリーンインフラ産業展2027",
+  "parent_event_name": "グリーンインフラ産業展2027",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "持続可能で魅力ある国土・都市・地域づくりに向けたグリーンインフラに関する技術や製品、サービスを一堂に紹介する展示会。防災・減災、都市・生活空間、生態系保全、資金調達、建設技術、スマートシティなどの分野を対象とし、ICTやAI、IoT、ドローン、インフラ維持・管理に関連するソリューションが出展されます。",
+  "url": "https://biz.nikkan.co.jp/eve/green-infra/",
+  "source": "主催者HP（既知URL）：グリーンインフラ産業展2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "クラウド",
+   "IoT",
+   "ドローン",
+   "スマートシティ",
+   "自治体",
+   "ICT"
+  ],
+  "confidence": 85,
+  "reason": "グリーンインフラ産業展2027の公式ページであり、建設技術やスマートシティ分野においてICT、AI、IoT、ドローンなどのIT関連技術が対象に含まれているため抽出しました。具体的な開催日時はページ内に記載がないため日付未定としています。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：グリーンインフラ産業展2026）"
+   }
+  ]
+ },
+ {
   "id": "evt_06a4c5c1",
   "event_name": "ファクトリーイノベーション Week [秋] - スマート工場 EXPO [秋]",
   "parent_event_name": "ファクトリーイノベーション Week [秋]",
@@ -14388,6 +15779,222 @@
   ]
  },
  {
+  "id": "evt_d44079ed",
+  "event_name": "ロボットワールド - サービスロボット展",
+  "parent_event_name": "ロボットワールド",
+  "sub_event_name": "サービスロボット展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "サービスロボット展は、少子高齢化や人手不足が深刻化する日本国内において、医療、介護、清掃、接客、警備などの現場で活用される最新のサービスロボットや関連技術が一堂に会する専門展示会です。自動化や省人化を実現するための多様なソリューションが提案され、業務効率化や新たなサービスの創出を目指す企業や自治体関係者など多くの来場者で賑わう一大イベントです。",
+  "url": "https://www.srobo.jp/",
+  "source": "主催者HP（既知URL）：横浜ロボットワールド2024",
+  "source_type": "known_url",
+  "keywords": [
+   "ロボット"
+  ],
+  "confidence": 90,
+  "reason": "関西ロボットワールド2027等の次回到来開催に向けた出展社募集が確認でき、構成展であるサービスロボット展を抽出しました。",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：横浜ロボットワールド）"
+   }
+  ]
+ },
+ {
+  "id": "evt_ee7f62f6",
+  "event_name": "ロボットワールド - 宇宙開発ビジネス展",
+  "parent_event_name": "ロボットワールド",
+  "sub_event_name": "宇宙開発ビジネス展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "宇宙開発ビジネス展は、宇宙産業への参入や民間主導による宇宙開発の活性化を目的として、ロケット、人工衛星、宇宙用ロボット、関連する先端素材や計測機器などの技術が一堂に会する専門展示会です。新たなビジネスチャンスの創出や異業種からの宇宙ビジネス参入を促進するための絶好のプラットフォームとなっており、最先端の宇宙技術と地上の産業技術を繋ぐ重要な役割を果たしています。",
+  "url": "https://www.srobo.jp/",
+  "source": "主催者HP（既知URL）：横浜ロボットワールド2024",
+  "source_type": "known_url",
+  "keywords": [
+   "ロボット"
+  ],
+  "confidence": 90,
+  "reason": "ロボットワールドの構成展の一つであり、次回の開催スケジュール策定が期待されるため。",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：横浜ロボットワールド）"
+   }
+  ]
+ },
+ {
+  "id": "evt_d4eb9cd1",
+  "event_name": "ロボットワールド - 次世代モビリティ展",
+  "parent_event_name": "ロボットワールド",
+  "sub_event_name": "次世代モビリティ展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "次世代モビリティ展は、自動運転技術、電動化、ドローンや空飛ぶクルマといった次世代の移動手段および関連インフラ技術に特化した専門展示会です。物流の2024年問題や過疎地域の交通網維持などの社会課題を解決するための革新的なモビリティソリューションが一堂に会し、産官学の垣根を超えた活発な商談や技術提携が行われる場として大きな注目を集めています。",
+  "url": "https://www.srobo.jp/",
+  "source": "主催者HP（既知URL）：横浜ロボットワールド2024",
+  "source_type": "known_url",
+  "keywords": [
+   "ロボット"
+  ],
+  "confidence": 90,
+  "reason": "ロボットワールドの4展総称に含まれる構成展であり、対象期間内の次回開催が見込まれるため。",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：横浜ロボットワールド）"
+   }
+  ]
+ },
+ {
+  "id": "evt_2359f292",
+  "event_name": "ロボットワールド - 産業用ロボット展",
+  "parent_event_name": "ロボットワールド",
+  "sub_event_name": "産業用ロボット展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "産業用ロボット展は、製造業や物流業などの生産現場における自動化、省力化、生産性向上に寄与する最先端の産業用ロボット、周辺機器、AI制御技術などを出展社と来場者が直接商談するための専門展示会です。ファクトリーオートメーションの推進やスマートファクトリーの実現に向けた最新のハードウェアおよびソフトウェアが集結し、製造業の未来を切り拓く重要な情報発信拠点となっています。",
+  "url": "https://www.srobo.jp/",
+  "source": "主催者HP（既知URL）：横浜ロボットワールド2024",
+  "source_type": "known_url",
+  "keywords": [
+   "ロボット"
+  ],
+  "confidence": 90,
+  "reason": "ロボットワールドを構成する主要な専門展の一つであり、2027年開催に向けた情報展開が確認できるため。",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：横浜ロボットワールド）"
+   }
+  ]
+ },
+ {
+  "id": "evt_468f50db",
+  "event_name": "ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク（WTP） - ワイヤレスジャパン",
+  "parent_event_name": "ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク（WTP）",
+  "sub_event_name": "ワイヤレスジャパン",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "ワイヤレスジャパンは、モバイル、5G/6G、IoT、ローカル5Gなどの最新ワイヤレス技術やソリューションが一堂に会する国内最大級の通信・ネットワーク分野の専門展示会です。通信キャリア、デバイスメーカー、ソリューションプロバイダーなどが多数出展し、ビジネス変革や新たな価値創造に向けた最先端の情報発信と活発な商談が行われます。",
+  "url": "https://wjwtp.jp/",
+  "source": "主催者HP（既知URL）：ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク",
+  "source_type": "known_url",
+  "keywords": [
+   "ワイヤレス",
+   "ワイヤレスジャパン",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "公式サイトへの誘導リンクが確認でき、ワイヤレス・通信分野の日本国内における代表的な展示会として対象期間中の開催情報（日程未定）を網羅するため。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク）"
+   }
+  ]
+ },
+ {
+  "id": "evt_b2095d38",
+  "event_name": "ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク（WTP） - ワイヤレス・テクノロジー・パーク",
+  "parent_event_name": "ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク（WTP）",
+  "sub_event_name": "ワイヤレス・テクノロジー・パーク",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "ワイヤレス・テクノロジー・パーク（WTP）は、次世代移動通信システムや電波利用技術、無線通信の研究開発に特化した最先端の技術展示会です。産学官のオープンイノベーションを促進し、将来の無線インフラを支える革新的な研究成果やプロトタイプが多数披露される場として、業界関係者から高い注目を集めています。",
+  "url": "https://wjwtp.jp/",
+  "source": "主催者HP（既知URL）：ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク",
+  "source_type": "known_url",
+  "keywords": [
+   "ワイヤレス",
+   "ワイヤレスジャパン",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "公式サイトの誘導リンクが確認でき、ワイヤレス・通信分野の研究開発に特化した構成展として日程未定の次回開催情報に合致するため。／要確認：類似イベントあり：evt_468f50db「ワイヤレスジャパン×ワイヤレス・テクノロジー・パーク（WTP） - ワイヤレスジャパン」、開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：ワイヤレスジャパン 2024 ワイヤレス・テクノロジー・パーク）"
+   }
+  ]
+ },
+ {
   "id": "evt_d02f93b9",
   "event_name": "人とくるまのテクノロジー展 NAGOYA",
   "parent_event_name": "人とくるまのテクノロジー展 NAGOYA",
@@ -14465,6 +16072,170 @@
    {
     "date": "2026-10-05",
     "change": "新規検出（主催者HP（既知URL）：人とくるまのテクノロジー展 2025（横浜））"
+   }
+  ]
+ },
+ {
+  "id": "evt_3d0fe530",
+  "event_name": "北陸技術交流テクノフェア2026 - AIが動かす次世代ロボティクス＆モビリティ展",
+  "parent_event_name": "北陸技術交流テクノフェア2026",
+  "sub_event_name": "AIが動かす次世代ロボティクス＆モビリティ展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "北陸最大級の総合展示会内で開催される特別企画展です。ものづくりや物流、医療、災害対応など多彩な領域において、自動化や効率化に寄与する最新のAIソリューションや次世代ロボティクス、モビリティ技術を一堂に紹介します。未来の可能性を探るとともに、新たな価値創造や産業のイノベーションにつながるヒントを提供し、産学官の活発な技術交流やビジネスマッチングを促進する重要な場となっています。",
+  "url": "https://www.technofair.jp/about/",
+  "source": "主催者HP（既知URL）：北陸技術交流テクノフェア2025",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "ロボット",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 90,
+  "reason": "北陸技術交流テクノフェア2026内の特別企画展として「AIが動かす次世代ロボティクス＆モビリティ展」が明記されており、AI・ロボット関連の要件に合致するため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：北陸技術交流テクノフェア2025）"
+   }
+  ]
+ },
+ {
+  "id": "evt_69796075",
+  "event_name": "物流DX展 - 次回3月東京展",
+  "parent_event_name": "物流DX展",
+  "sub_event_name": "次回3月東京展",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "DXの力で日本の物流業の課題を解決するための専門展示会です。配送・倉庫管理システム、貿易管理システム、SCM・SCEM、労務管理システムなどの各種DXソリューションが一堂に出展し、来場者は最新の製品やサービスを一度に比較検討することができます。また、物流業界のトレンドや先進企業の事例を学べるセミナーも多数開催され、業務効率化や人手不足対策に役立つ情報収集の場として活用されています。",
+  "url": "https://www.smart-logistic.jp/hub/ja-jp/exhibit/ldx.html",
+  "source": "主催者HP（既知URL）：物流DX展 ※ものづくり ワールド [東京]と同時開催",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "センサ",
+   "サイバーセキュリティ",
+   "セキュリティ",
+   "ロボット",
+   "IT"
+  ],
+  "confidence": 90,
+  "reason": "ページ内に来年3月東京展の開催予定記載があり、期間条件(2026-10-19～2027-03-31)に該当する可能性があるため抽出。具体的な日程が明記されていないため日付は空欄。／要確認：開催年が不明",
+  "status": "needs_review",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：物流DX展 ※ものづくり ワールド [東京]と同時開催）"
+   }
+  ]
+ },
+ {
+  "id": "evt_2d339a32",
+  "event_name": "産業交流展2026 - IT・AI・DX",
+  "parent_event_name": "産業交流展2026",
+  "sub_event_name": "IT・AI・DX",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX",
+   "セキュリティ"
+  ],
+  "summary": "首都圏の中小企業やスタートアップ企業が一堂に会する日本最大級の総合展示会における「IT・AI・DX」構成展です。ITやAI関連の中小企業等が多数出展し、セキュリティ対策や自動走行ロボットなど、先端技術やAXに取り組む企業の製品やサービスが紹介されます。販路拡大や企業間連携を目的とした、ビジネスに役立つ商談やネットワーキングの場を提供します。",
+  "url": "https://www.sangyo-koryuten.tokyo/",
+  "source": "主催者HP（既知URL）：産業交流展2026",
+  "source_type": "known_url",
+  "keywords": [
+   "WiFi",
+   "AI",
+   "DX",
+   "セキュリティ",
+   "ロボット",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "首都圏最大級の中小企業向け総合展示会であり、IT・AI・DX関連の出展ゾーン（構成展）が含まれているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：産業交流展2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_07b43fb7",
+  "event_name": "防災産業展2027",
+  "parent_event_name": "防災産業展2027",
+  "sub_event_name": "",
+  "start_date": "",
+  "end_date": "",
+  "date_status": "unknown",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "防災産業展2027は、防災・減災によるレジリエンス社会の実現をテーマに、自然災害対策や情報システム、ロボット・ドローン・VR活用サービス、BCP対策などの最新技術や製品が一堂に会する専門展示会です。企業や自治体の迅速な対応・復旧を支援するソリューションの普及を図ります。",
+  "url": "https://biz.nikkan.co.jp/eve/bousai/",
+  "source": "主催者HP（既知URL）：防災産業展2026",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "セキュリティ",
+   "ドローン",
+   "ロボット",
+   "自治体"
+  ],
+  "confidence": 85,
+  "reason": "防災産業展2027の公式Webページであり、災害監視システムや防災DX、ドローン・ロボット活用などIT・スマートシティ関連の出展対象が含まれているため。",
+  "status": "new",
+  "first_seen": "2026-10-19",
+  "last_updated": "2026-10-19",
+  "last_checked": "2026-10-19",
+  "year": "2027",
+  "history": [
+   {
+    "date": "2026-10-19",
+    "change": "新規検出（主催者HP（既知URL）：防災産業展2026）"
    }
   ]
  },
