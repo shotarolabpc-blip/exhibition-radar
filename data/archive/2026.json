@@ -7319,6 +7319,39 @@
   ]
  },
  {
+  "id": "evt_84059313",
+  "event_name": "国際ウエルディングショー",
+  "parent_event_name": "国際ウエルディングショー",
+  "sub_event_name": "",
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-19",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "溶接・接合技術の専門展示会。ロボット溶接や自動化技術など製造現場の高度化を支援する技術が集結。",
+  "url": "https://weldingshow.jp/2026/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
   "id": "evt_b9ee807c",
   "event_name": "INTERMEASURE 2026",
   "parent_event_name": "INTERMEASURE 2026",
@@ -7382,6 +7415,39 @@
   "first_seen": "2026-10-05",
   "last_updated": "2026-10-05",
   "last_checked": "2026-10-19",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6e95b81a",
+  "event_name": "新・農業人フェア 農業EXPO",
+  "parent_event_name": "新・農業人フェア 農業EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-09-23",
+  "end_date": "2026-09-23",
+  "date_status": "fixed",
+  "venue": "東京国際フォーラム",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "新たに農業を始めたい方向けの総合フェアです。就農に関する情報提供や相談ブース、農業機械・技術の展示などが行われます。",
+  "url": "https://agri.mynavi.jp/shin-nogyojin/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
   "year": "2026",
   "history": [
    {

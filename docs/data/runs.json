@@ -1,5 +1,55 @@
 [
  {
+  "run_at": "2026-10-25T05:30:46+09:00",
+  "type": "collect",
+  "period": {
+   "from": "2026-10-25",
+   "to": "2027-03-31"
+  },
+  "sources_total": 20,
+  "sources_failed": 2,
+  "pages_fetched": 258,
+  "gemini_requests": 107,
+  "llm_usage": {
+   "gemini:gemini-3.5-flash-lite": 107,
+   "groq:openai/gpt-oss-120b": 0
+  },
+  "gemini_pending": 0,
+  "new": 19,
+  "updated": 1,
+  "needs_review": 69,
+  "total": 462,
+  "archived": 2,
+  "source_counts": {
+   "bigsight": 0,
+   "makuhari": 25,
+   "portmesse": 1,
+   "gymex": 0,
+   "tif": 1,
+   "sanbo_hamamatsucho": 1,
+   "aichiskyexpo": 1,
+   "pulseplaza": 1,
+   "kobe": 1,
+   "atc": 1,
+   "sapporo_cc": 1,
+   "yumemesse": 1,
+   "sendai_ic": 1,
+   "tokimesse": 1,
+   "ishikawa": 1,
+   "hiroshima": 1,
+   "okinawa_cc": 1,
+   "twinmesse": 1,
+   "interop": 1,
+   "known_urls": 128
+  },
+  "errors": [
+   "bigsight: HTTP 503 (https://www.bigsight.jp/visitor/event/search.php?page=1)",
+   "gymex: HTTP 503 (https://www.bigsight.jp/organizer/buildings/gym-ex/event/?page=1)",
+   "bigsight: パース0件（前回 166件）。サイト構造変更の可能性",
+   "gymex: パース0件（前回 10件）。サイト構造変更の可能性"
+  ]
+ },
+ {
   "run_at": "2026-10-19T05:26:55+09:00",
   "type": "collect",
   "period": {
