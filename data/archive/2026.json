@@ -7455,5 +7455,38 @@
     "change": "既存Excelから取込"
    }
   ]
+ },
+ {
+  "id": "evt_1f17ea2a",
+  "event_name": "トラベルソリューション展2026 （ツーリズムEXPO内）",
+  "parent_event_name": "トラベルソリューション展2026 （ツーリズムEXPO内）",
+  "sub_event_name": "",
+  "start_date": "2026-09-24",
+  "end_date": "2026-09-25",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "観光業界向けDX・ITソリューションに特化した商談型展示会。AI・IoT・Wi-Fi・位置情報などを活用した観光サービスの高度化技術を扱う。",
+  "url": "https://www.t-expo.jp/biz/travel_solutions2026",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
  }
 ]
