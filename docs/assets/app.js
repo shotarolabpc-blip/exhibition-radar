@@ -4,6 +4,12 @@
 
   const REGIONS = ["北海道・東北", "関東", "中部", "近畿", "中国・四国", "九州・沖縄", "オンライン", "不明"];
   const CATEGORIES = ["無線・通信", "AI・DX", "IoT・センサ", "セキュリティ", "ドローン・ロボット", "スマートシティ・自治体DX", "映像・放送", "その他IT"];
+  const PREFECTURES = [
+    "北海道", "青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県", "茨城県", "栃木県", "群馬県", "埼玉県", "千葉県", "東京都", "神奈川県",
+    "新潟県", "富山県", "石川県", "福井県", "山梨県", "長野県", "岐阜県", "静岡県", "愛知県", "三重県", "滋賀県", "京都府", "大阪府", "兵庫県",
+    "奈良県", "和歌山県", "鳥取県", "島根県", "岡山県", "広島県", "山口県", "徳島県", "香川県", "愛媛県", "高知県",
+    "福岡県", "佐賀県", "長崎県", "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県",
+  ];
   const STATUS_FILTERS = [
     ["new", "新規"], ["updated", "更新"], ["unchanged", "変更なし"], ["needs_review", "要確認"], ["undated", "日程未定"],
   ];
@@ -16,11 +22,13 @@
 
   let events = [];
   let runs = [];
-  const expanded = new Set();
+  const expanded = new Set(); // 開いている総合展
+  const collapsed = new Set(); // 検索中でも閉じておく総合展（利用者が閉じたもの）
+  let groupIds = [];
   const state = {
     q: "", from: "", to: "", preset: DEFAULT_PRESET, undated: true,
-    regions: new Set(REGIONS), cats: new Set(), venues: new Set(), statuses: new Set(),
-    group: false, sort: "start_date", dir: 1,
+    regions: new Set(REGIONS), prefs: new Set(), cats: new Set(), venues: new Set(), statuses: new Set(),
+    group: true, sort: "start_date", dir: 1,
   };
 
   // ------------------------------------------------------------ 日付ユーティリティ
@@ -47,10 +55,11 @@
     else { state.from = p.get("from") || ""; state.to = p.get("to") || ""; }
     state.undated = p.get("undated") !== "0";
     state.regions = new Set(list("region") || REGIONS);
+    state.prefs = new Set(list("pref") || []);
     state.cats = new Set(list("cat") || []);
     state.venues = new Set(list("venue") || []);
     state.statuses = new Set(list("status") || []);
-    state.group = p.get("group") === "1";
+    state.group = p.get("group") !== "0";
     state.sort = p.get("sort") || "start_date";
     state.dir = p.get("dir") === "desc" ? -1 : 1;
   }
@@ -62,10 +71,11 @@
     else { if (state.from) p.set("from", state.from); if (state.to) p.set("to", state.to); if (!state.from && !state.to) p.set("preset", "all"); }
     if (!state.undated) p.set("undated", "0");
     if (state.regions.size !== REGIONS.length) p.set("region", [...state.regions].join(","));
+    if (state.prefs.size) p.set("pref", [...state.prefs].join(","));
     if (state.cats.size) p.set("cat", [...state.cats].join(","));
     if (state.venues.size) p.set("venue", [...state.venues].join(","));
     if (state.statuses.size) p.set("status", [...state.statuses].join(","));
-    if (state.group) p.set("group", "1");
+    if (!state.group) p.set("group", "0");
     if (state.sort !== "start_date") p.set("sort", state.sort);
     if (state.dir < 0) p.set("dir", "desc");
     const qs = p.toString();
@@ -87,6 +97,7 @@
       if (state.to && e.start_date > state.to) return false;
     }
     if (!state.regions.has(e.region || "不明")) return false;
+    if (state.prefs.size && !state.prefs.has(e.prefecture || "（不明）")) return false;
     if (state.cats.size && !(e.categories || []).some((c) => state.cats.has(c))) return false;
     if (state.venues.size && !state.venues.has(e.venue || "（会場未定）")) return false;
     if (state.statuses.size) {
@@ -138,36 +149,74 @@
       <td class="col-date">${e.start_date ? slash(e.end_date || e.start_date) : "未定"}</td>
       <td>${esc(e.venue)}</td>
       <td class="col-region">${esc(e.region)}</td>
+      <td class="col-pref">${esc(e.prefecture)}</td>
       <td class="col-cat">${esc((e.categories || []).join("・"))}</td>
     </tr>`;
+  }
+
+  // 総合展の同一視用キー：地域名・季節・回数・西暦・記号を除く（例：「Japan DX & AX Week 関西展」→「japandx&axweek」）
+  const REGION_WORDS = "関西|関東|東京|大阪|名古屋|福岡|札幌|九州|中部|東北|横浜|神戸|京都|仙台|広島";
+  function seriesKey(e) {
+    let s = (e.parent_event_name || e.event_name).normalize("NFKC").toLowerCase();
+    s = s.replace(/第\d+回/g, "").replace(/(?<!\d)20\d{2}(?!\d)/g, "");
+    s = s.replace(new RegExp(`(${REGION_WORDS})展?`, "g"), "");
+    s = s.replace(/[(\[【（]?[春夏秋冬][)\]】）]?展?\s*$/, "");
+    return s.replace(/[\s\-‐―－–—・/／|｜:：()（）[\]［］【】「」『』"'.,、。&＆!！?？~〜_]+/g, "");
+  }
+
+  // 同じ総合展でも、会場・開催月が違う回は別のグループにする
+  function groupId(e) {
+    return `${seriesKey(e)}|${e.venue || ""}|${e.start_date ? e.start_date.slice(0, 7) : "未定"}`;
+  }
+
+  function mostCommon(values) {
+    const counts = new Map();
+    values.forEach((v) => counts.set(v, (counts.get(v) || 0) + 1));
+    return [...counts].sort((a, b) => b[1] - a[1] || a[0].length - b[0].length)[0][0];
+  }
+
+  function isOpen(id) {
+    return expanded.has(id) || (Boolean(state.q) && !collapsed.has(id));
   }
 
   function groupRows(list) {
     const groups = new Map();
     for (const e of list) {
-      const key = e.parent_event_name || e.event_name;
-      if (!groups.has(key)) groups.set(key, []);
-      groups.get(key).push(e);
+      const id = groupId(e);
+      if (!groups.has(id)) groups.set(id, []);
+      groups.get(id).push(e);
     }
+    groupIds = [];
     const html = [];
-    for (const [key, items] of groups) {
-      if (items.length === 1) { html.push(eventRow(items[0])); continue; }
-      const open = expanded.has(key);
-      const starts = items.map((e) => e.start_date).filter(Boolean).sort();
-      const ends = items.map((e) => e.end_date || e.start_date).filter(Boolean).sort();
-      const venues = [...new Set(items.map((e) => e.venue).filter(Boolean))].join("・");
-      const cats = [...new Set(items.flatMap((e) => e.categories || []))].join("・");
-      const flags = items.some((e) => e.status === "new") ? '<span class="badge new">NEW</span>' : "";
-      html.push(`<tr class="group-row" data-group="${esc(key)}" tabindex="0" aria-expanded="${open}">
+    for (const [id, all] of groups) {
+      // 総合展名だけの行（構成展名なし）は、グループ見出しの情報として使う
+      const head = all.find((e) => !e.sub_event_name);
+      const children = all.filter((e) => e.sub_event_name);
+      if (!children.length) { all.forEach((e) => html.push(eventRow(e))); continue; }
+      groupIds.push(id);
+      const open = isOpen(id);
+      const name = mostCommon(all.map((e) => e.parent_event_name || e.event_name));
+      const starts = all.map((e) => e.start_date).filter(Boolean).sort();
+      const ends = all.map((e) => e.end_date || e.start_date).filter(Boolean).sort();
+      const pick = (key) => [...new Set(all.map((e) => e[key]).filter(Boolean))];
+      const cats = [...new Set(all.flatMap((e) => e.categories || []))].join("・");
+      const flags = [
+        all.some((e) => e.status === "new") ? '<span class="badge new">NEW</span>' : "",
+        all.some((e) => e.status === "updated") ? '<span class="badge upd">UPD</span>' : "",
+        all.some((e) => e.status === "needs_review") ? '<span class="badge review">要確認あり</span>' : "",
+      ].join("");
+      const link = head && head.url ? ` <a class="head-link" href="${esc(head.url)}" target="_blank" rel="noopener noreferrer" title="公式ページ">公式</a>` : "";
+      html.push(`<tr class="group-row" data-group="${esc(id)}" tabindex="0" aria-expanded="${open}">
         <td class="col-status">${flags}</td>
-        <td class="col-name"><span class="caret">${open ? "▼" : "▶"}</span> ${esc(key)} <span class="muted">（構成展 ${items.length}件）</span></td>
+        <td class="col-name"><span class="caret">${open ? "▼" : "▶"}</span> ${esc(name)} <span class="muted">（構成展 ${children.length}件）</span>${link}</td>
         <td class="col-date">${starts.length ? slash(starts[0]) : "未定"}</td>
         <td class="col-date">${ends.length ? slash(ends[ends.length - 1]) : "未定"}</td>
-        <td>${esc(venues)}</td>
-        <td class="col-region">${esc([...new Set(items.map((e) => e.region))].join("・"))}</td>
+        <td>${esc(pick("venue").join("・"))}</td>
+        <td class="col-region">${esc(pick("region").join("・"))}</td>
+        <td class="col-pref">${esc(pick("prefecture").join("・"))}</td>
         <td class="col-cat">${esc(cats)}</td>
       </tr>`);
-      if (open) for (const e of items) html.push(eventRow(e, "child"));
+      if (open) for (const e of children) html.push(eventRow(e, "child"));
     }
     return html.join("");
   }
@@ -176,6 +225,7 @@
   function render() {
     current = filtered();
     $("tbody").innerHTML = state.group ? groupRows(current) : current.map((e) => eventRow(e)).join("");
+    $("groupTools").hidden = !state.group;
     $("empty").hidden = current.length > 0;
     $("count").textContent = `${current.length}件を表示（全${events.filter((e) => e.status !== "excluded").length}件）`;
     document.querySelectorAll("th[data-sort]").forEach((th) => {
@@ -241,6 +291,15 @@
     });
     const venueOpts = [...venueCounts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ja")).map(([v, n]) => [v, `${v}（${n}）`]);
 
+    const prefCounts = new Map();
+    events.filter((e) => e.status !== "excluded").forEach((e) => {
+      const p = e.prefecture || "（不明）";
+      prefCounts.set(p, (prefCounts.get(p) || 0) + 1);
+    });
+    const prefOpts = [...PREFECTURES.filter((p) => prefCounts.has(p)), ...(prefCounts.has("（不明）") ? ["（不明）"] : [])]
+      .map((p) => [p, `${p}（${prefCounts.get(p)}）`]);
+
+    fillMulti("prefSelect", prefOpts, state.prefs, render);
     fillMulti("catSelect", CATEGORIES.map((c) => [c, c]), state.cats, render);
     fillMulti("venueSelect", venueOpts, state.venues, render);
     fillMulti("statusSelect", STATUS_FILTERS, state.statuses, render);
@@ -258,6 +317,8 @@
     ["from", "to"].forEach((id) => $(id).addEventListener("change", (ev) => { state[id] = ev.target.value; state.preset = ""; render(); }));
     $("undated").addEventListener("change", (ev) => { state.undated = ev.target.checked; render(); });
     $("group").addEventListener("change", (ev) => { state.group = ev.target.checked; render(); });
+    $("expandAll").addEventListener("click", () => { groupIds.forEach((id) => expanded.add(id)); collapsed.clear(); render(); });
+    $("collapseAll").addEventListener("click", () => { expanded.clear(); groupIds.forEach((id) => collapsed.add(id)); render(); });
     $("regionBoxes").addEventListener("change", () => {
       state.regions = new Set([...$("regionBoxes").querySelectorAll("input:checked")].map((i) => i.value));
       render();
@@ -280,8 +341,8 @@
       if (ev.type === "click" && String(window.getSelection()).trim()) return;
       const g = ev.target.closest("tr.group-row");
       if (g) {
-        const key = g.dataset.group;
-        expanded.has(key) ? expanded.delete(key) : expanded.add(key);
+        const id = g.dataset.group;
+        if (isOpen(id)) { expanded.delete(id); collapsed.add(id); } else { expanded.add(id); collapsed.delete(id); }
         render();
         return;
       }

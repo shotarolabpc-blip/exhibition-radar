@@ -47,6 +47,10 @@
       </fieldset>
 
       <div class="row selects">
+        <details class="multi" id="prefSelect">
+          <summary>都道府県：<span class="multi-value">すべて</span></summary>
+          <div class="multi-panel" role="group" aria-label="都道府県"></div>
+        </details>
         <details class="multi" id="catSelect">
           <summary>カテゴリ：<span class="multi-value">すべて</span></summary>
           <div class="multi-panel" role="group" aria-label="カテゴリ"></div>
@@ -60,6 +64,10 @@
           <div class="multi-panel" role="group" aria-label="ステータス"></div>
         </details>
         <label class="check"><input type="checkbox" id="group"> 総合展でまとめる</label>
+        <span id="groupTools" class="group-tools">
+          <button type="button" id="expandAll" class="link-button">すべて開く</button>
+          <button type="button" id="collapseAll" class="link-button">すべて閉じる</button>
+        </span>
         <button type="button" id="clear" class="link-button">条件クリア</button>
       </div>
     </form>
@@ -83,6 +91,7 @@
             <th scope="col" data-sort="end_date">終了日</th>
             <th scope="col" data-sort="venue">会場</th>
             <th scope="col" data-sort="region" class="col-region">地域</th>
+            <th scope="col" data-sort="prefecture" class="col-pref">都道府県</th>
             <th scope="col" data-sort="categories" class="col-cat">カテゴリ</th>
           </tr>
         </thead>

@@ -148,7 +148,10 @@ tbody tr:last-child td { border-bottom: 0; }
 .col-name a { text-decoration: none; }
 .col-name a:hover { text-decoration: underline; }
 .col-date { white-space: nowrap; font-variant-numeric: tabular-nums; }
-.col-region { white-space: nowrap; }
+.col-region, .col-pref { white-space: nowrap; }
+.group-tools { display: inline-flex; gap: 4px; }
+.group-tools[hidden] { display: none; }
+.head-link { font-size: 12px; margin-left: 4px; }
 .col-cat { color: var(--muted); font-size: 13px; }
 .group-row { background: var(--bg); }
 .group-row .caret { display: inline-block; width: 1em; color: var(--muted); font-size: 11px; }
@@ -194,7 +197,7 @@ code { font-size: 12px; background: var(--bg); padding: 1px 4px; border-radius: 
 
 /* ---- mobile ---- */
 @media (max-width: 760px) {
-  .col-region, .col-cat { display: none; }
+  .col-region, .col-cat { display: none; }  /* 都道府県の列はスマホでも残す */
   .col-name { min-width: 180px; }
   th, td { padding: 7px 8px; }
   dl { grid-template-columns: 6em 1fr; }
