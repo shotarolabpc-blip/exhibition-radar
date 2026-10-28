@@ -58,6 +58,61 @@ def priority(event: Event) -> int:
     return SOURCE_PRIORITY.get(event.source_type, 0)
 
 
+_REGION_SUB = re.compile(r"^(関西|関東|東京|大阪|名古屋|福岡|札幌|九州|中部|東北|横浜|神戸|京都|仙台|広島)(展|会場|開催)?$")
+MIN_CORE_LEN = 4
+
+
+def core_key(event: Event) -> str:
+    """「何の展示会か」を表すキー。構成展名があればそれ、無い（または地域名だけ）なら総合展名。
+
+    同じ展示会が「Japan DX & AX Week - ○○展」「Japan DX & AX Week 関西展 - ○○展」のように
+    総合展名の書き方だけ違う形で重複登録されるのを同一視するために使う。
+    """
+    sub = name_key(event.sub_event_name)
+    if sub and not _REGION_SUB.match(sub):
+        return sub
+    return name_key(event.parent_event_name or event.event_name)
+
+
+def same_slot(a: Event, b: Event) -> bool:
+    """開始日が同じで、会場が同じ（どちらかが空なら同じとみなす）。"""
+    if not a.start_date or a.start_date != b.start_date:
+        return False
+    return not a.venue or not b.venue or a.venue == b.venue
+
+
+def _has_real_sub(event: Event) -> bool:
+    sub = name_key(event.sub_event_name)
+    return bool(sub) and not _REGION_SUB.match(sub)
+
+
+_NAME_YEAR = re.compile(r"(?<!\d)(20\d{2})(?!\d)")
+
+
+def _explicit_years(event: Event) -> set[str]:
+    return set(_NAME_YEAR.findall(match_key(event.event_name)))
+
+
+def is_same_event(a: Event, b: Event, dup_threshold: float) -> bool:
+    """同じ開催枠（開始日・会場）で、名称または構成展名が実質同じ。
+
+    - 名称に別々の西暦（2026 と 2027 など）が明記されていれば別の回
+    - 双方に構成展名がある場合は構成展名だけで判定する（「建設DX展」と「住宅DX展」のように、
+      総合展名が同じで名称全体が似ていても、構成展が違えば別イベント）
+    - 片方が総合展名のみの場合は、構成展名／総合展名のキーまたは名称全体の類似度で判定する
+    """
+    if not same_slot(a, b):
+        return False
+    ya, yb = _explicit_years(a), _explicit_years(b)
+    if ya and yb and not (ya & yb):
+        return False
+    ka, kb = core_key(a), core_key(b)
+    core_same = min(len(ka), len(kb)) >= MIN_CORE_LEN and fuzz.ratio(ka, kb) >= dup_threshold
+    if _has_real_sub(a) and _has_real_sub(b):
+        return core_same
+    return core_same or similarity(a.event_name, b.event_name) >= dup_threshold
+
+
 @dataclass
 class MergeStats:
     new: int = 0
@@ -122,14 +177,15 @@ class Merger:
         if by_url is not None and is_same_edition(by_url, inc):
             return by_url, "same"
 
+        # 同じ開催枠（開始日・会場）の全候補と比べる（最も似ている1件だけでは、別都市の同名展に引っ張られて見逃す）
+        slot_matches = [e for e in self.events.values() if is_same_event(e, inc, self.dup_threshold)]
+        if slot_matches:
+            return max(slot_matches, key=lambda e: similarity(e.event_name, inc.event_name)), "same"
+
         best, score = self._best_fuzzy(inc)
         if best is None:
             return None, "new"
         if score >= self.dup_threshold:
-            same_start = bool(best.start_date) and best.start_date == inc.start_date
-            same_venue = not best.venue or not inc.venue or best.venue == inc.venue
-            if same_start and same_venue:
-                return best, "same"
             return best, "duplicate"
         if score >= self.review_threshold:
             if inc.url and best.url and url_family(inc.url) != url_family(best.url):
@@ -225,3 +281,86 @@ class Merger:
 
     def result(self) -> list[Event]:
         return list(self.events.values())
+
+
+# ---------------------------------------------------------------- 既存データの重複統合
+
+_EVT_ID = re.compile(r"evt_[0-9a-f]{8}")
+_REVIEW_MARK = "要確認："
+
+
+def _keeper_rank(e: Event) -> tuple[int, int, int, str]:
+    """統合時に残す方の優先順位（小さいほど優先）。構成展つきの名称 ＞ 収集元の優先度 ＞ 確認不要 ＞ 古い方。"""
+    has_sub = 0 if e.sub_event_name and not _REGION_SUB.match(name_key(e.sub_event_name)) else 1
+    return (has_sub, -priority(e), 1 if e.status == "needs_review" else 0, e.first_seen or "9999")
+
+
+def _resolve_review(keeper: Event, removed_ids: set[str], confidence_threshold: int, today: str) -> None:
+    """重複が理由の「要確認」は、相手を統合した結果、確認が不要になったら外す。"""
+    if keeper.status != "needs_review" or _REVIEW_MARK not in keeper.reason:
+        return
+    head, _, tail = keeper.reason.rpartition(_REVIEW_MARK)
+    if "信頼度" in tail or "開催年が不明" in tail or keeper.confidence < confidence_threshold or not keeper.year:
+        return
+    refs = set(_EVT_ID.findall(tail))
+    if not refs or not refs <= removed_ids:
+        return  # 統合していない別イベントとの類似が理由なら、確認が必要なまま
+    keeper.reason = head.rstrip("／")
+    keeper.status = "unchanged"
+    keeper.add_history(today, "重複を統合したため要確認を解除")
+
+
+def consolidate(events: list[Event], judge: dict[str, Any], today: str) -> tuple[list[Event], list[tuple[Event, list[Event]]]]:
+    """同じ開催枠で実質同じ名称のイベントを1件にまとめる。(残ったイベント, [(残した方, 統合した方...)]) を返す。
+
+    統合した側の履歴・キーワード・空の項目は、残す側に引き継ぐ。除外済み（excluded）は対象外。
+    """
+    dup_threshold = float(judge.get("fuzzy_duplicate_threshold", 90))
+    confidence_threshold = int(judge.get("confidence_review_threshold", 70))
+    active = [e for e in events if e.status != "excluded"]
+
+    parent: dict[str, str] = {e.id: e.id for e in active}
+
+    def find(x: str) -> str:
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    by_slot: dict[tuple[str, str], list[Event]] = {}
+    for e in active:
+        if e.start_date:
+            by_slot.setdefault((e.venue, e.start_date), []).append(e)
+    for group in by_slot.values():
+        for i, a in enumerate(group):
+            for b in group[i + 1 :]:
+                if is_same_event(a, b, dup_threshold):
+                    parent[find(b.id)] = find(a.id)
+
+    clusters: dict[str, list[Event]] = {}
+    for e in active:
+        clusters.setdefault(find(e.id), []).append(e)
+
+    removed: dict[str, Event] = {}
+    report: list[tuple[Event, list[Event]]] = []
+    for members in clusters.values():
+        if len(members) < 2:
+            continue
+        members.sort(key=_keeper_rank)
+        keeper, others = members[0], members[1:]
+        for o in others:
+            for name in ("url", "summary", "venue", "prefecture", "region", "end_date"):
+                if not getattr(keeper, name) and getattr(o, name):
+                    setattr(keeper, name, getattr(o, name))
+            if not keeper.categories or keeper.categories == ["その他IT"]:
+                keeper.categories = o.categories or keeper.categories
+            keeper.keywords = sorted(set(keeper.keywords) | set(o.keywords))
+            keeper.confidence = max(keeper.confidence, o.confidence)
+            keeper.first_seen = min(filter(None, [keeper.first_seen, o.first_seen]), default="")
+            keeper.history.extend(o.history)
+            keeper.add_history(today, f"統合：{o.id}「{o.event_name}」を統合")
+            removed[o.id] = o
+        _resolve_review(keeper, {o.id for o in others}, confidence_threshold, today)
+        report.append((keeper, others))
+
+    return [e for e in events if e.id not in removed], report

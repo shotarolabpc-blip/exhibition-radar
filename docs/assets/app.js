@@ -276,6 +276,8 @@
 
     const activate = (ev) => {
       if (ev.target.closest("a")) return;
+      // 文字をドラッグして選択（コピー）しているときは、行のクリックとして扱わない
+      if (ev.type === "click" && String(window.getSelection()).trim()) return;
       const g = ev.target.closest("tr.group-row");
       if (g) {
         const key = g.dataset.group;

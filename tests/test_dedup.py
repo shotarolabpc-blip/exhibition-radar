@@ -162,3 +162,133 @@ def test_excluded_is_not_resurrected() -> None:
     existing = ev("除外展", status="excluded")
     result, stats = merge([existing], [ev("除外展")])
     assert len(result) == 1 and stats.new == 0
+
+
+# ------------------------------------------------------------------ 同じ開催枠での重複（総合展名の書き方違い）
+
+
+def sub_ev(parent: str, sub: str, **kw) -> Event:
+    return ev(f"{parent} - {sub}", year="2026", **{"parent_event_name": parent, "sub_event_name": sub, **kw})
+
+
+def test_same_slot_matches_any_candidate_not_only_best() -> None:
+    """別都市の同名展（開始日が違う）が一番似ていても、同じ開催枠の候補と同一判定する。"""
+    tokyo = sub_ev(
+        "Japan DX & AX Week",
+        "AI・業務自動化 展",
+        id="evt_tokyo001",
+        start_date="2026-10-21",
+        end_date="2026-10-23",
+        venue="幕張メッセ",
+        url="",
+    )
+    kansai = sub_ev(
+        "Japan DX & AX Week",
+        "AI・業務自動化 展",
+        id="evt_kansai01",
+        start_date="2026-11-18",
+        end_date="2026-11-20",
+        venue="インテックス大阪",
+        url="",
+    )
+    incoming = sub_ev(
+        "Japan DX & AX Week 関西展",
+        "AI・業務自動化 展",
+        id="evt_new00001",
+        start_date="2026-11-18",
+        end_date="2026-11-20",
+        venue="インテックス大阪",
+        url="",
+    )
+    result, stats = merge([tokyo, kansai], [incoming])
+    assert set(result) == {"evt_tokyo001", "evt_kansai01"} and stats.new == 0 and stats.needs_review == 0
+
+
+def test_region_sub_name_is_ignored_in_core_key() -> None:
+    from collector.dedup import core_key
+
+    a = sub_ev("営業・デジタルマーケティング Week", "関西")
+    b = sub_ev("Japan IT Week 関西", "営業・デジタルマーケティング Week")
+    assert core_key(a) == core_key(b)
+
+
+def test_different_sub_events_are_not_merged() -> None:
+    from collector.dedup import is_same_event
+
+    a = sub_ev("JAPAN BUILD", "建設DX展", start_date="2026-12-02", venue="東京ビッグサイト")
+    b = sub_ev("JAPAN BUILD", "住宅DX展", start_date="2026-12-02", venue="東京ビッグサイト")
+    assert not is_same_event(a, b, 90)
+
+
+def test_explicit_different_years_are_not_merged() -> None:
+    from collector.dedup import is_same_event
+
+    a = ev("nano tech 2026（第26回）", start_date="2026-12-16")
+    b = ev("nano tech 2027（第26回）", start_date="2026-12-16")
+    assert not is_same_event(a, b, 90)
+
+
+def test_consolidate_merges_and_keeps_history() -> None:
+    from collector.dedup import consolidate
+
+    a = sub_ev(
+        "Japan DX & AX Week",
+        "現場DX EXPO",
+        id="evt_aaaaaaaa",
+        first_seen="2026-10-05",
+        history=[{"date": "2026-10-05", "change": "新規検出"}],
+        url="",
+    )
+    b = sub_ev(
+        "Japan DX & AX Week 関西展", "現場DX EXPO", id="evt_bbbbbbbb", first_seen="2026-10-12", url="https://example.com/x", summary="説明"
+    )
+    other = ev("別の展示会", id="evt_cccccccc", start_date="2026-11-12")
+    out, report = consolidate([a, b, other], JUDGE, TODAY)
+    assert {e.id for e in out} == {"evt_aaaaaaaa", "evt_cccccccc"} and len(report) == 1
+    keeper = next(e for e in out if e.id == "evt_aaaaaaaa")
+    assert keeper.url == "https://example.com/x" and keeper.summary == "説明"  # 空の項目は統合した側から埋める
+    assert keeper.first_seen == "2026-10-05"
+    assert any("統合：evt_bbbbbbbb" in h["change"] for h in keeper.history)
+
+
+def test_consolidate_clears_review_caused_by_merged_duplicate() -> None:
+    from collector.dedup import consolidate
+
+    a = sub_ev("Japan DX & AX Week", "現場DX EXPO", id="evt_aaaaaaaa", status="unchanged")
+    b = sub_ev(
+        "Japan DX & AX Week 関西展",
+        "現場DX EXPO",
+        id="evt_bbbbbbbb",
+        status="needs_review",
+        reason="公式ページに記載／要確認：類似イベントあり：evt_aaaaaaaa「Japan DX & AX Week - 現場DX EXPO」",
+        first_seen="2026-09-01",
+    )
+    out, _ = consolidate([a, b], JUDGE, TODAY)
+    assert len(out) == 1 and out[0].status == "unchanged" and "要確認" not in out[0].reason
+
+
+def test_consolidate_keeps_review_when_other_reasons_remain() -> None:
+    from collector.dedup import consolidate
+
+    a = sub_ev("Japan DX & AX Week", "現場DX EXPO", id="evt_aaaaaaaa")
+    b = sub_ev(
+        "Japan DX & AX Week 関西展",
+        "現場DX EXPO",
+        id="evt_bbbbbbbb",
+        status="needs_review",
+        reason="要確認：重複疑い：evt_zzzzzzzz「別」、信頼度50",
+        confidence=50,
+    )
+    out, _ = consolidate([a, b], JUDGE, TODAY)
+    assert len(out) == 1 and out[0].confidence == 90  # 統合しても、残す側の状態は変えない
+
+
+def test_consolidate_ignores_excluded_and_undated() -> None:
+    from collector.dedup import consolidate
+
+    a = ev("無線EXPO", id="evt_aaaaaaaa", status="excluded")
+    b = ev("無線EXPO", id="evt_bbbbbbbb")
+    c = ev("未定展A", id="evt_cccccccc", start_date="", end_date="", date_status="unknown")
+    d = ev("未定展A", id="evt_dddddddd", start_date="", end_date="", date_status="unknown")
+    out, report = consolidate([a, b, c, d], JUDGE, TODAY)
+    assert len(out) == 4 and report == []  # 除外済み・日程未定は統合しない

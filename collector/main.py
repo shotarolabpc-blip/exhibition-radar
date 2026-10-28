@@ -26,7 +26,7 @@ from datetime import date, datetime, timedelta, timezone
 from typing import Any
 
 from collector.date_range import DateRange, compute_period
-from collector.dedup import Merger, demote_previous
+from collector.dedup import Merger, consolidate, demote_previous
 from collector.exporter import append_run, archive_events, load_events, publishable, read_json, write_events, write_json
 from collector.fetcher import Fetcher
 from collector.gemini_client import GeminiClient, GeminiUnavailable
@@ -377,7 +377,10 @@ def run(
     merger = Merger(existing, cfg.section("judge"), today_s, fixes_by_id(overrides))
     for e in incoming:
         merger.add(e)
-    merged = apply_overrides(merger.result(), overrides, cfg.venues, cfg.categories, today_s)
+    unified, consolidated = consolidate(merger.result(), cfg.section("judge"), today_s)
+    if consolidated:
+        log.info("重複を統合：%d グループ（%d 件）", len(consolidated), sum(len(o) for _, o in consolidated))
+    merged = apply_overrides(unified, overrides, cfg.venues, cfg.categories, today_s)
     remaining = (
         archive_events(merged, today, int(cfg.section("period").get("archive_after_days", 30)), cfg.archive_dir) if not dry_run else merged
     )
@@ -403,6 +406,7 @@ def run(
         "needs_review": sum(1 for e in pub if e.status == "needs_review"),
         "total": new_count,
         "archived": len(merged) - len(remaining),
+        "consolidated": sum(len(o) for _, o in consolidated),
         "source_counts": collector.source_counts,
         "errors": collector.errors,
     }
