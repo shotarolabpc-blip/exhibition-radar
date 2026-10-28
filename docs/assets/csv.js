@@ -6,7 +6,7 @@
   const EXCEL_COLUMNS = ["No", "イベント名", "開始日", "終了日", "会場", "SA部アサイン", "コムシスアサイン", "対応カテゴリ", "概要", "URL"];
   const DETAIL_COLUMNS = EXCEL_COLUMNS.concat([
     "総合展名", "構成展名", "都道府県", "地方区分", "ステータス", "信頼度", "収集元",
-    "検出キーワード", "判定理由", "初回検出日", "最終更新日", "イベントID",
+    "検出キーワード", "判定理由", "初回検出日", "最終更新日", "イベントID", "予想時期（参考）",
   ]);
   const STATUS_LABELS = { new: "新規", updated: "更新", unchanged: "変更なし", needs_review: "要確認", excluded: "除外" };
 
@@ -21,7 +21,7 @@
     return excelRow(e).concat([
       e.parent_event_name, e.sub_event_name, e.prefecture, e.region,
       STATUS_LABELS[e.status] || e.status, String(e.confidence ?? ""), e.source,
-      (e.keywords || []).join("・"), e.reason, slash(e.first_seen), slash(e.last_updated), e.id,
+      (e.keywords || []).join("・"), e.reason, slash(e.first_seen), slash(e.last_updated), e.id, e.estimate || "",
     ]);
   }
 

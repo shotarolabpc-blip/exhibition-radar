@@ -138,6 +138,13 @@
     return out.join("");
   }
 
+  // 日程未定のイベントには、前回の同じ時期から推定した予想時期を「参考」として添える
+  function estimateNote(e) {
+    return !e.start_date && e.estimate
+      ? `<div class="estimate" title="${esc(e.estimate_basis)}">参考：${esc(e.estimate)}</div>`
+      : "";
+  }
+
   function eventRow(e, cls = "") {
     // イベント名をクリックすると詳細（ポップアップ）が開く。公式ページへは「公式」リンクから別タブで開く
     const official = e.url
@@ -147,7 +154,7 @@
     return `<tr class="ev ${cls}" data-id="${esc(e.id)}" tabindex="0">
       <td class="col-status">${badges(e)}</td>
       <td class="col-name">${name}</td>
-      <td class="col-date">${slash(e.start_date)}</td>
+      <td class="col-date">${slash(e.start_date)}${estimateNote(e)}</td>
       <td class="col-date">${e.start_date ? slash(e.end_date || e.start_date) : "未定"}</td>
       <td>${esc(e.venue)}</td>
       <td class="col-region">${esc(e.region)}</td>
@@ -376,6 +383,7 @@
       <p class="detail-badges">${badges(e)}</p>
       <dl>
         ${row("会期", esc(period) + (e.date_status === "tentative" ? "（予定）" : ""))}
+        ${!e.start_date && e.estimate ? row("予想時期（参考）", `${esc(e.estimate)}<div class="muted">${esc(e.estimate_basis)}</div>`) : ""}
         ${row("会場", esc([e.venue, e.prefecture && e.prefecture !== e.venue ? `（${e.prefecture}）` : ""].join("")))}
         ${row("地域", esc(e.region))}
         ${row("カテゴリ", esc((e.categories || []).join("・")))}

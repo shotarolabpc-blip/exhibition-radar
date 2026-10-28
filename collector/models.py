@@ -51,6 +51,8 @@ class Event:
     last_updated: str = ""
     last_checked: str = ""
     year: str = ""
+    estimate: str = ""  # 日程未定の次回の予想時期（参考）。前回の同じ時期から推定。開始日・終了日には入れない
+    estimate_basis: str = ""
     history: list[dict[str, str]] = field(default_factory=list)
 
     def to_dict(self) -> dict[str, Any]:

@@ -29,6 +29,7 @@ DETAIL_COLUMNS = EXCEL_COLUMNS + [
     "初回検出日",
     "最終更新日",
     "イベントID",
+    "予想時期（参考）",
 ]
 
 
@@ -66,6 +67,7 @@ def detail_row(e: Event) -> list[str]:
         format_date_slash(e.first_seen),
         format_date_slash(e.last_updated),
         e.id,
+        e.estimate,
     ]
 
 
@@ -106,6 +108,15 @@ def write_events(events: list[Event], data_dir: Path) -> None:
     pub = publishable(events)
     write_csv(data_dir / "events.csv", EXCEL_COLUMNS, [excel_row(e) for e in pub])
     write_csv(data_dir / "events_detail.csv", DETAIL_COLUMNS, [detail_row(e) for e in pub])
+
+
+def load_archive(archive_dir: Path) -> list[Event]:
+    """アーカイブ済みのイベントを読む（予想時期の根拠に使うだけで、書き換えない）。"""
+    events: list[Event] = []
+    if archive_dir.exists():
+        for path in sorted(archive_dir.glob("*.json")):
+            events.extend(Event.from_dict(d) for d in read_json(path, []))
+    return events
 
 
 def append_run(data_dir: Path, run: dict[str, Any], keep: int) -> None:

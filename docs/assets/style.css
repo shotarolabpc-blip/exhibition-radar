@@ -147,6 +147,7 @@ tbody tr:last-child td { border-bottom: 0; }
 .col-name { min-width: 260px; font-weight: 500; }
 .col-name .ev-name { cursor: pointer; }
 .col-name tr.ev:hover .ev-name, .ev-name:hover { color: var(--accent); }
+.estimate { font-size: 12px; color: var(--muted); white-space: normal; cursor: help; }
 .head-link { text-decoration: none; white-space: nowrap; }
 .head-link:hover { text-decoration: underline; }
 .col-date { white-space: nowrap; font-variant-numeric: tabular-nums; }

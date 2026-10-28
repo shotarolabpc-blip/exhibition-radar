@@ -27,7 +27,8 @@ from typing import Any
 
 from collector.date_range import DateRange, compute_period
 from collector.dedup import Merger, consolidate, demote_previous, resolve_reviews
-from collector.exporter import append_run, archive_events, load_events, publishable, read_json, write_events, write_json
+from collector.estimate import fill_estimates
+from collector.exporter import append_run, archive_events, load_archive, load_events, publishable, read_json, write_events, write_json
 from collector.fetcher import Fetcher
 from collector.gemini_client import GeminiClient, GeminiUnavailable
 from collector.keyword_filter import score_text
@@ -383,6 +384,7 @@ def run(
     auto_resolved = resolve_reviews(unified, cfg.section("judge"), today_s)
     if auto_resolved:
         log.info("要確認を自動解除：%d 件", auto_resolved)
+    estimated = fill_estimates(unified, load_archive(cfg.archive_dir), today, cfg.section("judge"))
     merged = apply_overrides(unified, overrides, cfg.venues, cfg.categories, today_s)
     remaining = (
         archive_events(merged, today, int(cfg.section("period").get("archive_after_days", 30)), cfg.archive_dir) if not dry_run else merged
@@ -411,6 +413,7 @@ def run(
         "archived": len(merged) - len(remaining),
         "consolidated": sum(len(o) for _, o in consolidated),
         "review_resolved": auto_resolved,
+        "estimated": estimated,
         "source_counts": collector.source_counts,
         "errors": collector.errors,
     }
