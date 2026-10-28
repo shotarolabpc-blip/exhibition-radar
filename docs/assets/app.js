@@ -139,9 +139,11 @@
   }
 
   function eventRow(e, cls = "") {
-    const name = e.url
-      ? `<a href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">${esc(e.event_name)}</a>`
-      : esc(e.event_name);
+    // イベント名をクリックすると詳細（ポップアップ）が開く。公式ページへは「公式」リンクから別タブで開く
+    const official = e.url
+      ? ` <a class="head-link" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer" title="公式ページを別タブで開く">公式↗</a>`
+      : "";
+    const name = `<span class="ev-name">${esc(e.event_name)}</span>${official}`;
     return `<tr class="ev ${cls}" data-id="${esc(e.id)}" tabindex="0">
       <td class="col-status">${badges(e)}</td>
       <td class="col-name">${name}</td>
@@ -205,7 +207,7 @@
         all.some((e) => e.status === "updated") ? '<span class="badge upd">UPD</span>' : "",
         all.some((e) => e.status === "needs_review") ? '<span class="badge review">要確認あり</span>' : "",
       ].join("");
-      const link = head && head.url ? ` <a class="head-link" href="${esc(head.url)}" target="_blank" rel="noopener noreferrer" title="公式ページ">公式</a>` : "";
+      const link = head && head.url ? ` <a class="head-link" href="${esc(head.url)}" target="_blank" rel="noopener noreferrer" title="公式ページを別タブで開く">公式↗</a>` : "";
       html.push(`<tr class="group-row" data-group="${esc(id)}" tabindex="0" aria-expanded="${open}">
         <td class="col-status">${flags}</td>
         <td class="col-name"><span class="caret">${open ? "▼" : "▶"}</span> ${esc(name)} <span class="muted">（構成展 ${children.length}件）</span>${link}</td>

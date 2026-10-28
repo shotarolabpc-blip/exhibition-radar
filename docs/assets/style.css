@@ -145,8 +145,10 @@ tbody tr:hover { background: var(--row-hover); }
 tbody tr:last-child td { border-bottom: 0; }
 .col-status { width: 1%; white-space: nowrap; }
 .col-name { min-width: 260px; font-weight: 500; }
-.col-name a { text-decoration: none; }
-.col-name a:hover { text-decoration: underline; }
+.col-name .ev-name { cursor: pointer; }
+.col-name tr.ev:hover .ev-name, .ev-name:hover { color: var(--accent); }
+.head-link { text-decoration: none; white-space: nowrap; }
+.head-link:hover { text-decoration: underline; }
 .col-date { white-space: nowrap; font-variant-numeric: tabular-nums; }
 .col-region, .col-pref { white-space: nowrap; }
 .group-tools { display: inline-flex; gap: 4px; }

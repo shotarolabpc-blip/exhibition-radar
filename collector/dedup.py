@@ -135,6 +135,7 @@ class Merger:
         self.dup_threshold = float(judge.get("fuzzy_duplicate_threshold", 90))
         self.review_threshold = float(judge.get("fuzzy_review_threshold", 75))
         self.confidence_threshold = int(judge.get("confidence_review_threshold", 70))
+        self.year_review = bool(judge.get("year_unknown_needs_review", True))
         self.today = today
         self.fixes = fixes or {}
         self.stats = MergeStats()
@@ -177,6 +178,15 @@ class Merger:
         if by_url is not None and is_same_edition(by_url, inc):
             return by_url, "same"
 
+        # 日程未定で登録済みのイベントに日程が確定して現れた場合（年が不明のままでも）は同一とみなす
+        if inc.start_date:
+            for e in self.events.values():
+                if e.status == "excluded" or e.start_date or (e.year and e.year != inc.year):
+                    continue
+                ka, kb = core_key(e), core_key(inc)
+                if min(len(ka), len(kb)) >= MIN_CORE_LEN and fuzz.ratio(ka, kb) >= self.dup_threshold:
+                    return e, "same"
+
         # 同じ開催枠（開始日・会場）の全候補と比べる（最も似ている1件だけでは、別都市の同名展に引っ張られて見逃す）
         slot_matches = [e for e in self.events.values() if is_same_event(e, inc, self.dup_threshold)]
         if slot_matches:
@@ -185,6 +195,8 @@ class Merger:
         best, score = self._best_fuzzy(inc)
         if best is None:
             return None, "new"
+        if best.start_date and inc.start_date and not is_same_edition(best, inc):
+            return None, "new"  # 会場や開催時期が違う別の回（東京展と大阪展など）は重複疑いにしない
         if score >= self.dup_threshold:
             return best, "duplicate"
         if score >= self.review_threshold:
@@ -210,7 +222,7 @@ class Merger:
             reasons.append(f"類似イベントあり：{match.id}「{match.event_name}」")
         if inc.confidence < self.confidence_threshold:
             reasons.append(f"信頼度{inc.confidence}")
-        if not inc.year:
+        if not inc.year and self.year_review:
             reasons.append("開催年が不明")
         inc.status = "needs_review" if reasons else "new"
         if reasons:
@@ -289,10 +301,42 @@ _EVT_ID = re.compile(r"evt_[0-9a-f]{8}")
 _REVIEW_MARK = "要確認："
 
 
-def _keeper_rank(e: Event) -> tuple[int, int, int, str]:
-    """統合時に残す方の優先順位（小さいほど優先）。構成展つきの名称 ＞ 収集元の優先度 ＞ 確認不要 ＞ 古い方。"""
+def _keeper_rank(e: Event) -> tuple[int, int, int, int, str]:
+    """統合時に残す方の優先順位（小さいほど優先）。日程確定 ＞ 構成展つきの名称 ＞ 収集元の優先度 ＞ 確認不要 ＞ 古い方。"""
     has_sub = 0 if e.sub_event_name and not _REGION_SUB.match(name_key(e.sub_event_name)) else 1
-    return (has_sub, -priority(e), 1 if e.status == "needs_review" else 0, e.first_seen or "9999")
+    return (0 if e.start_date else 1, has_sub, -priority(e), 1 if e.status == "needs_review" else 0, e.first_seen or "9999")
+
+
+def _venue_compatible(a: Event, b: Event) -> bool:
+    return not a.venue or not b.venue or a.venue == b.venue
+
+
+def _link_undated(active: list[Event], union: Any) -> None:
+    """日程未定のイベントを、名称が完全に同じイベントへ結びつける。
+
+    - 日程確定の同名イベントが1件だけあれば、そちらへ（日程がページに無いために別行になっているだけ）
+    - 日程確定の同名が複数ある（東京展と大阪展など）場合は、どれか決められないので結びつけない
+    - 日程確定の同名が無ければ、日程未定どうしの同名を結びつける
+    会場が両方にあって違う場合、名称に別の西暦がある場合は結びつけない。
+    """
+    dated: dict[str, list[Event]] = {}
+    for e in active:
+        if e.start_date:
+            dated.setdefault(name_key(e.event_name), []).append(e)
+    undated_groups: dict[str, list[Event]] = {}
+    for e in active:
+        if e.start_date:
+            continue
+        key = name_key(e.event_name)
+        candidates = [d for d in dated.get(key, []) if _venue_compatible(e, d) and not (e.year and d.year and e.year != d.year)]
+        if len(candidates) == 1:
+            union(e.id, candidates[0].id)
+        elif not dated.get(key):
+            undated_groups.setdefault(key, []).append(e)
+    for group in undated_groups.values():
+        for other in group[1:]:
+            if _venue_compatible(group[0], other) and not (group[0].year and other.year and group[0].year != other.year):
+                union(group[0].id, other.id)
 
 
 def _resolve_review(keeper: Event, removed_ids: set[str], confidence_threshold: int, today: str) -> None:
@@ -337,6 +381,11 @@ def consolidate(events: list[Event], judge: dict[str, Any], today: str) -> tuple
                 if is_same_event(a, b, dup_threshold):
                     parent[find(b.id)] = find(a.id)
 
+    def union(a: str, b: str) -> None:
+        parent[find(b)] = find(a)
+
+    _link_undated(active, union)
+
     clusters: dict[str, list[Event]] = {}
     for e in active:
         clusters.setdefault(find(e.id), []).append(e)
@@ -364,3 +413,51 @@ def consolidate(events: list[Event], judge: dict[str, Any], today: str) -> tuple
         report.append((keeper, others))
 
     return [e for e in events if e.id not in removed], report
+
+
+# ---------------------------------------------------------------- 要確認の自動解消
+
+_REF = re.compile(r"(重複疑い|類似イベントあり)：(evt_[0-9a-f]{8})")
+
+
+def resolve_reviews(events: list[Event], judge: dict[str, Any], today: str) -> int:
+    """理由がなくなった「要確認」を自動で外す。外した件数を返す。
+
+    要確認の理由は毎回、現在の状態から判定し直す：
+    - 信頼度が閾値未満
+    - 開催年が不明（judge.year_unknown_needs_review が true のとき）
+    - 重複疑い・類似：相手のイベントが残っていて、同じ開催回の可能性がある場合だけ
+      （相手が統合・除外された、または会場や開催時期が違う別の回なら解消）
+    既存リストの取込時に付けた要確認（source_type=import）は人が確認するまで外さない。
+    """
+    threshold = int(judge.get("confidence_review_threshold", 70))
+    year_review = bool(judge.get("year_unknown_needs_review", True))
+    by_id = {e.id: e for e in events}
+    resolved = 0
+    for e in events:
+        if e.status != "needs_review" or e.source_type == "import":
+            continue
+        head, mark, tail = e.reason.rpartition(_REVIEW_MARK)
+        if not mark:
+            head, tail = e.reason, ""
+        remaining: list[str] = []
+        if e.confidence < threshold:
+            remaining.append(f"信頼度{e.confidence}")
+        if not e.year and year_review:
+            remaining.append("開催年が不明")
+        for kind, ref in _REF.findall(tail):
+            other = by_id.get(ref)
+            if other is None or other.status == "excluded":
+                continue
+            if e.start_date and other.start_date and not is_same_edition(e, other):
+                continue
+            remaining.append(f"{kind}：{other.id}「{other.event_name}」")
+        head = head.rstrip("／")
+        if remaining:
+            e.reason = (head + "／" if head else "") + _REVIEW_MARK + "、".join(remaining)
+            continue
+        e.reason = head
+        e.status = "new" if e.first_seen == today else "unchanged"
+        e.add_history(today, "要確認の理由がなくなったため自動で解除")
+        resolved += 1
+    return resolved

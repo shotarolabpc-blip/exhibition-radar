@@ -38,6 +38,9 @@ judge:
   confidence_review_threshold: 70
   fuzzy_duplicate_threshold: 90
   fuzzy_review_threshold: 75
+  # 開催年が分からない（日程未定の次回開催など）イベントを「要確認」にするか。
+  # false にすると「日程未定」として掲載する（日程が確定して現れたら、同じイベントの更新として扱う）
+  year_unknown_needs_review: true
 
 output:
   docs_data_dir: "docs/data"
