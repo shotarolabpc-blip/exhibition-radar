@@ -7488,5 +7488,1443 @@
     "change": "既存Excelから取込"
    }
   ]
+ },
+ {
+  "id": "evt_28d7dbce",
+  "event_name": "ツーリズムEXPOジャパン2026",
+  "parent_event_name": "ツーリズムEXPOジャパン2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-24",
+  "end_date": "2026-09-27",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "日本最大級の総合観光イベントで、国内外の観光・地域・自治体・交通などの関係者が集結する。観光ビジネスとデジタル技術の融合や地域活性化をテーマに、商談と情報発信の場を提供する。",
+  "url": "https://www.t-expo.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5cf81592",
+  "event_name": "未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026（AIリーダーズEXPO／DXソリューションEXPO／情報セキュリティーNEXT／製造業の将来技術EXPO／建設DX EXPO）",
+  "parent_event_name": "未来をつくるテクノロジー展 日経クロステックNEXT 東京 2026（AIリーダーズEXPO／DXソリューションEXPO／情報セキュリティーNEXT／製造業の将来技術EXPO／建設DX EXPO）",
+  "sub_event_name": "",
+  "start_date": "2026-09-29",
+  "end_date": "2026-09-30",
+  "date_status": "fixed",
+  "venue": "東京国際フォーラム",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ"
+  ],
+  "summary": "日経BP主催の技術総合展。AI、DX、情報セキュリティ、製造、建設の5分野で構成され、企業のデジタル活用や先端技術導入をテーマとする。",
+  "url": "https://events.nikkeibp.co.jp/xtechnext/2026tky/ad/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0b3a1f32",
+  "event_name": "マテリアルDX展",
+  "parent_event_name": "マテリアルDX展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "材料メーカー向けのDX専門展示会。マテリアルズ・インフォマティクス、AI活用、化学物質管理、在庫管理、営業支援など研究開発から物流までを対象としたDXソリューションを展示する。",
+  "url": "https://www.material-expo.jp/hub/ja-jp/exhibit/dx.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「マテリアルDX展｜出展のご案内」））",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
+   }
+  ]
+ },
+ {
+  "id": "evt_16d4820d",
+  "event_name": "高機能素材 Week 2026（幕張）",
+  "parent_event_name": "高機能素材 Week 2026（幕張）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "機能性フィルム・樹脂・金属・セラミックスなど先端素材技術を扱う国際展示会。製造業の高度化・軽量化・環境対応に向けた材料技術が集結する。",
+  "url": "https://www.material-expo.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1be88553",
+  "event_name": "FINETECH JAPAN 2026（高機能素材 Week 同時開催）",
+  "parent_event_name": "FINETECH JAPAN 2026（高機能素材 Week 同時開催）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ",
+   "映像・放送"
+  ],
+  "summary": "ディスプレイ産業向けの専門展示会。表示デバイス、製造装置、検査・評価技術などが集まり、映像機器や電子デバイス関連のサプライチェーン企業が来場する。高機能素材 Weekと同時開催。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/ftj.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1f7f57a9",
+  "event_name": "第3回 素材工場の脱炭素化展 Green Process Japan",
+  "parent_event_name": "第3回 素材工場の脱炭素化展 Green Process Japan",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "素材工場の脱炭素化を推進する技術とソリューションの展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/gpj.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2abfc1d8",
+  "event_name": "第17回 高機能フィルム展 FILMTECH JAPAN",
+  "parent_event_name": "第17回 高機能フィルム展 FILMTECH JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "高機能フィルムの技術と製品に特化した展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/film.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2c910556",
+  "event_name": "九州半導体産業展",
+  "parent_event_name": "九州半導体産業展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-01",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "半導体の設計・製造・検査・材料などを扱う産業特化展示会。製造装置や検査・測定関連技術を中心に、半導体産業のサプライチェーンが集結する。",
+  "url": "https://k-semi.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_31394ea5",
+  "event_name": "産業DX総合展",
+  "parent_event_name": "産業DX総合展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "製造・建設・物流など産業全体のDXをテーマにした総合展示会。各業界のデジタル改革ソリューションを横断的に紹介。",
+  "url": "https://www.bizcrew.jp/expo/industrial-dx-tokyo",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_46b93e63",
+  "event_name": "インターフェックス",
+  "parent_event_name": "インターフェックス",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "医薬品・化粧品向け 製造・包装技術が一堂に出展！",
+  "url": "https://www.interphex.jp/osaka/ja-jp/about/ipjk.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_47afc5e4",
+  "event_name": "ラーメン産業展",
+  "parent_event_name": "ラーメン産業展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "国内最大級のラーメン業界専門商談展示会です。麺や原材料、調理器具、厨房設備、店舗設備、FC加盟募集など、ラーメン産業に関わるあらゆる製品・サービスが出展されます。食品・生活産業バイヤーや食品製造業者、卸売業者、小売業者、サービス事業者などが来場対象です。",
+  "url": "https://ramenexpo.jp/tokyo.php?gad_source=1&gad_campaignid=24059779103&gbraid=0AAAABAqQHSx41P_4PClNAQXvVBGHv8bUf",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4b80ea98",
+  "event_name": "製造業DX EXPO 2026 夏 東京",
+  "parent_event_name": "製造業DX EXPO 2026 夏 東京",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "製造業向けのデジタル化・自動化ソリューションを集めた専門展示会。スマートファクトリーやデータ活用技術を紹介する。",
+  "url": "https://www.bizcrew.jp/expo/industrial-dx-tokyo-manufacturing",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4d439b1f",
+  "event_name": "第10回 接着・接合 EXPO",
+  "parent_event_name": "第10回 接着・接合 EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "接着・接合技術に特化した専門展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/joi.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_4d98d33f",
+  "event_name": "第15回 高機能プラスチック開発・製造展",
+  "parent_event_name": "第15回 高機能プラスチック開発・製造展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "高機能プラスチックに関する専門展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/pla.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_529a1651",
+  "event_name": "第5回 食品工場の自動化・DX展 大阪（FoodTech Japan）",
+  "parent_event_name": "第5回 食品工場の自動化・DX展 大阪（FoodTech Japan）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "食品製造現場の自動化・デジタル化に特化した専門展示会。生産効率向上や人手不足対策を支援する技術が集まる。",
+  "url": "https://www.foodtechjapan.jp/osaka/ja-jp/about/ftech.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_57b76d7d",
+  "event_name": "再生医療 EXPO 大阪",
+  "parent_event_name": "再生医療 EXPO 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "再生医療・細胞研究に必要な研究機器、分析装置、培養設備、輸送・保管サービスなどが集まる西日本最大級の専門展示会。医薬・バイオ関連研究者やメーカーが来場する。",
+  "url": "https://www.interphex.jp/osaka/ja-jp/about/rmk.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_608a302a",
+  "event_name": "食品包装資材＆機械展",
+  "parent_event_name": "食品包装資材＆機械展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "製造から流通までを見据えた食品包装資材と機械の製品・サービスが集結する専門展示会です。",
+  "url": "https://foodpackaging.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_78ad935b",
+  "event_name": "九州次世代エネルギー展",
+  "parent_event_name": "九州次世代エネルギー展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-01",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "再生可能エネルギー・水素・蓄電などを扱う専門展示会。エネルギー関連の制御・監視・通信技術などインフラ領域との連携が強い。",
+  "url": "https://www.k-ene.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_84838120",
+  "event_name": "食品物流＆3PL総合展 2026",
+  "parent_event_name": "食品物流＆3PL総合展 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "食品物流に特化した専門展示会。温度管理、配送最適化、自動化、省人化、3PLサービスなど食品物流の課題解決に向けた技術を紹介する。",
+  "url": "https://foodlogi.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8a3c9596",
+  "event_name": "健康博覧会【秋】",
+  "parent_event_name": "健康博覧会【秋】",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "健康商材・サービスが一堂に集う商談展示会。ビジネス向けに特化。",
+  "url": "https://www.this.ne.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8b51ac53",
+  "event_name": "建設・建築DX EXPO（産業DX総合展内）",
+  "parent_event_name": "建設・建築DX EXPO（産業DX総合展内）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "建設業・建築業向けDX専門展。BIM/CIM、施工管理、測量ドローン、ICT施工などの最新技術が集結する。",
+  "url": "https://www.bizcrew.jp/expo/industrial-dx-tokyo-construction",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8cc878c7",
+  "event_name": "第1回 高機能マテリアル展",
+  "parent_event_name": "第1回 高機能マテリアル展",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "多岐にわたる高機能マテリアル技術を紹介する展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/mate.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_92bd07f7",
+  "event_name": "第2回 食品安全・衛生イノベーション展 大阪",
+  "parent_event_name": "第2回 食品安全・衛生イノベーション展 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "食品工場における品質管理・衛生管理・監視システムを対象とする専門展示会。AI画像検査や監視ソリューションなどが出展する。",
+  "url": "https://www.foodtechjapan.jp/osaka/ja-jp/about/fhi.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_9a0fb5d4",
+  "event_name": "ファーマDX EXPO 大阪",
+  "parent_event_name": "ファーマDX EXPO 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "セキュリティ"
+  ],
+  "summary": "医薬品業界向けDX専門展。研究開発、製造、品質保証、営業・マーケティング分野のデジタル化やAI活用、データ管理、システム連携ソリューションを紹介する。",
+  "url": "https://www.interphex.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込（URL列がリンク文字列のみ（「【公式】ファーマDX EXPO 大阪│インターフェックスWeek 大阪」））",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "人手修正：url"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "確認済み"
+   }
+  ]
+ },
+ {
+  "id": "evt_9fe397e3",
+  "event_name": "物流DX EXPO（産業DX総合展内）",
+  "parent_event_name": "物流DX EXPO（産業DX総合展内）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "運輸・物流現場の省人化や自動化に特化した専門展。AGV、AMR、自動倉庫、配送最適化ソリューションなどを紹介する。",
+  "url": "https://www.bizcrew.jp/expo/industrial-dx-tokyo-logistics",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_a48d50b3",
+  "event_name": "テロ対策特殊装備展（SEECAT）’26",
+  "parent_event_name": "テロ対策特殊装備展（SEECAT）’26",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "セキュリティ",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "国内唯一のテロ対策専門展示会。治安機関や重要インフラ関係者向けに対テロ・警備関連の装備、技術、ソリューションを展示する。",
+  "url": "https://www.seecat.biz/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_a8e6b18a",
+  "event_name": "建設DX EXPO 2026",
+  "parent_event_name": "建設DX EXPO 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "無線・通信"
+  ],
+  "summary": "建設・土木分野のDX、ICT施工、現場効率化技術を展示。",
+  "url": "https://www.bizcrew.jp/lp/cp10?gad_source=1&gad_campaignid=24215802625&gbraid=0AAAABECrBDOkkeAnk_Q_AHUpY7L7Md4fV",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_aebecbdf",
+  "event_name": "COSME Week 大阪 2026（構成展総称）",
+  "parent_event_name": "COSME Week 大阪 2026（構成展総称）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "化粧品開発・原料・OEM・容器などを網羅する総合展示会。製造技術、研究機器、物流・販促まで化粧品産業のバリューチェーン全体をカバーする。",
+  "url": "https://www.cosme-week.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b098fe42",
+  "event_name": "FOOD STYLE JAPAN 2026〈東京〉",
+  "parent_event_name": "FOOD STYLE JAPAN 2026〈東京〉",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "食品メーカー・外食・小売向けの総合商談展。食品製造設備、流通・物流ソリューション、経営支援DXなどが集まり、食品業界の効率化・DX推進を支援する。",
+  "url": "https://foodstyle.jp/tokyo/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ba492f3b",
+  "event_name": "第1回 [次世代]乾燥プロセス展 -ドライテック-",
+  "parent_event_name": "第1回 [次世代]乾燥プロセス展 -ドライテック-",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "次世代の乾燥プロセス技術に焦点を当てた専門展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/dry.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bea70bba",
+  "event_name": "リサイクルテック ジャパン 2026",
+  "parent_event_name": "リサイクルテック ジャパン 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "資源循環やリサイクル技術に関する専門展示会。製造業の循環型経済への対応や資源再利用技術、関連設備・システムを対象とし、高機能素材 Weekと同時開催される。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/rtj.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_c4239488",
+  "event_name": "第5回 食品工場Week 大阪",
+  "parent_event_name": "第5回 食品工場Week 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "食品工場向けの自動化・省人化技術を集めた展示会。搬送ロボット、AGV、IoT監視システム、製造DXソリューションが展示される。",
+  "url": "https://www.foodtechjapan.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_cab923a2",
+  "event_name": "第9回 塗料・塗装設備展 COATING JAPAN",
+  "parent_event_name": "第9回 塗料・塗装設備展 COATING JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "塗料、塗装設備、コーティング技術に関する専門展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/coat.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_cc2b3350",
+  "event_name": "第6回 ファーマラボ EXPO 大阪",
+  "parent_event_name": "第6回 ファーマラボ EXPO 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "医薬品研究開発向けの分析機器・試験装置・ラボ設備が集結する専門展示会。研究DXや自動化技術も主要テーマとなっている。",
+  "url": "https://www.interphex.jp/osaka/ja-jp/about/prdk.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_d4a7125d",
+  "event_name": "第11回 高機能セラミックス展 CERAMIC JAPAN",
+  "parent_event_name": "第11回 高機能セラミックス展 CERAMIC JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "高機能セラミックス製品や製造技術を紹介する展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/cera.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e7f30f8a",
+  "event_name": "RISCON TOKYO 2026",
+  "parent_event_name": "RISCON TOKYO 2026",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ",
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "危機管理・防災・減災・BCPをテーマとする国内最大級の総合トレードショー。セキュリティ対策や災害対応技術、ドローン活用などを紹介する。",
+  "url": "https://www.kikikanri.biz/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ed5a5509",
+  "event_name": "第1回 猛暑テック -猛暑対策テクノロジー展-",
+  "parent_event_name": "第1回 猛暑テック -猛暑対策テクノロジー展-",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "猛暑対策のための最新テクノロジーを集めた展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/ehc.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ed977ea3",
+  "event_name": "Photonix（光・レーザー技術展）",
+  "parent_event_name": "Photonix（光・レーザー技術展）",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "IoT・センサ"
+  ],
+  "summary": "光学部品、レーザー加工、光計測・分析技術などを扱う専門展示会。製造業、研究開発、半導体分野向けの先端フォトニクス技術が集まる。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/photo.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_efd7f80b",
+  "event_name": "インターフェックス Week 大阪 2026 (再生医療EXPO 大阪 2026)",
+  "parent_event_name": "インターフェックス Week 大阪 2026 (再生医療EXPO 大阪 2026)",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "医薬品・化粧品・再生医療の研究・製造技術を扱う専門展。製造設備・検査・品質管理など医療・製薬業界の先端技術が集まる。",
+  "url": "https://www.interphex.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f9eae9eb",
+  "event_name": "第13回 高機能 金属展 METAL JAPAN",
+  "parent_event_name": "第13回 高機能 金属展 METAL JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-09-30",
+  "end_date": "2026-10-02",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "高機能金属の加工技術や製品に関する展示会。",
+  "url": "https://www.material-expo.jp/tokyo/ja-jp/visit/metal.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
  }
 ]
