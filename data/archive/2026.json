@@ -8926,5 +8926,1787 @@
     "change": "既存Excelから取込"
    }
   ]
+ },
+ {
+  "id": "evt_02c717fb",
+  "event_name": "第1回 畜産 予防・衛生EXPO",
+  "parent_event_name": "第1回 畜産 予防・衛生EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "畜産の衛生管理・モニタリング技術をテーマとする専門展。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/livestockhealth.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_032dd4ba",
+  "event_name": "未病・予防・健康EXPO",
+  "parent_event_name": "未病・予防・健康EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "未病・予防をビジネスとして展開したい企業向け商談型展示会。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp-inv/hea.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_05dd23e4",
+  "event_name": "医療DX EXPO",
+  "parent_event_name": "医療DX EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "日本最大級の医療DX専門展示会です。最新のデジタル技術を用いた医療ソリューションが集結します。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp/dx.html?co=hub_fv",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_06909361",
+  "event_name": "第30回 日本のファッション輸出EXPO 秋",
+  "parent_event_name": "第30回 日本のファッション輸出EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "日本ブランドの海外展開を支援する専門展示会。越境取引や海外販路開拓、サプライチェーンなど国際物流に関わる企業も参加する。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/jfa.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_06ce1b3c",
+  "event_name": "インフラ検査・維持管理・更新展",
+  "parent_event_name": "インフラ検査・維持管理・更新展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "IoT・センサ",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "道路・橋梁・上下水道・通信設備などの維持管理技術を紹介する専門展示会。インフラ点検や予防保全に関する最新技術が集まる。",
+  "url": "https://www.jma.or.jp/toshiken/hkd/index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0dea2685",
+  "event_name": "農業WEEK - 畜産 予防・衛生EXPO 東京展",
+  "parent_event_name": "農業WEEK",
+  "sub_event_name": "畜産 予防・衛生EXPO 東京展",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "家畜の予防・衛生のための資材やサービスが一堂に集結する展示会。消毒・衛生資材、感染・病気予防、害獣・害虫対策、畜舎・人の衛生管理に加え、IoTシステムや遠隔監視などの技術も出展され、畜産農家や関係者が最新の製品やサービスを比較検討できる重要な場となっている。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/livestockhealth.html",
+  "source": "主催者HP（既知URL）：第1回 畜産 予防・衛生EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "自治体",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "指定された開催期間内（2026-10-07～2026-10-09）の日本国内開催であり、IoTシステム等の関連技術が出展対象に含まれるため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：第1回 畜産 予防・衛生EXPO）"
+   }
+  ]
+ },
+ {
+  "id": "evt_10ca5d18",
+  "event_name": "GARDEX（国際 ガーデン＆アウトドア EXPO）",
+  "parent_event_name": "GARDEX（国際 ガーデン＆アウトドア EXPO）",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "園芸用品、エクステリア、アウトドア関連製品を対象とした国際商談展。ホームセンターや園芸業界向けの製品・設備が多数出展する。",
+  "url": "https://www.gardex.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_15dd77b9",
+  "event_name": "第19回 デジタルマーケティング強化 EXPO -秋-",
+  "parent_event_name": "第19回 デジタルマーケティング強化 EXPO -秋-",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "広告運用、SEO・AIO対策、MA・CRM、動画活用などのソリューションが集う商談展です。デジタルマーケティング戦略の強化を支援します。※リンクはマーケティングWeek 秋 2026と同じ",
+  "url": "https://www.marketing-week.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_1a9ebcc9",
+  "event_name": "ライフスタイル Week【秋】",
+  "parent_event_name": "ライフスタイル Week【秋】",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "インバウンド向けグッズ、推し活、OEM、雑貨などを対象とした商談展。AIマッチング機能やインバウンド市場向け商材が特徴で、観光・小売関連企業の来場が見込まれる。",
+  "url": "https://www.lifestyle-expo.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_20ab7b55",
+  "event_name": "第7回 畜産資材EXPO",
+  "parent_event_name": "第7回 畜産資材EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "畜産向け設備・ICT・環境管理技術を扱う専門展。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/agrilivestock.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_25b54898",
+  "event_name": "第7回 健康・美容・機能性ウェア EXPO 秋",
+  "parent_event_name": "第7回 健康・美容・機能性ウェア EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "ウェアラブル技術や高機能繊維を活用した機能性衣料を扱う展示会。健康管理やスポーツ用途の製品が多数出展する。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/wef.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_2e45aac3",
+  "event_name": "第7回 北海道 建設開発総合展 - 第1回 土木・建設DX/システム/ツール展",
+  "parent_event_name": "第7回 北海道 建設開発総合展",
+  "sub_event_name": "第1回 土木・建設DX/システム/ツール展",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "北海道で開催される建設開発総合展の構成展であり、土木・建設分野におけるDX推進やシステム、ツールに特化した展示会です。BIM/CIM関連製品、ロボット、AR/VR、遠隔作業支援、CADや解析ソフトウェアなど、現場の効率化や課題解決につながる最新のIT技術や製品が一堂に会します。業界関係者による活発な商談や情報交換が行われる場となっています。",
+  "url": "https://toshiken.jma.or.jp/hkd/outline/disaster_index.php",
+  "source": "主催者HP（既知URL）：北海道エネルギー技術革新EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "ロボット"
+  ],
+  "confidence": 95,
+  "reason": "ページ内に記載されている「第1回 土木・建設DX/システム/ツール展」および関連出展対象（ロボット、BIM/CIM、AR/VR等）に基づき抽出。会期は2026年10月7日〜8日。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：北海道 災害リスク対策推進展）"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-28",
+    "change": "統合：evt_b4fee60b「第1回 土木・建設DX／システム／ツール展」を統合"
+   }
+  ]
+ },
+ {
+  "id": "evt_37b9b2a0",
+  "event_name": "フィジカルAI展［大阪］",
+  "parent_event_name": "フィジカルAI展［大阪］",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "2026年新設。AIロボティクス、知覚・センシング技術、制御プラットフォームなど、実世界と連携するAI技術に特化した専門展示会。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/physicalai.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_3b083bde",
+  "event_name": "healthTECH JAPAN",
+  "parent_event_name": "healthTECH JAPAN",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "ヘルスケアとデジタルテクノロジー・データの融合をコンセプトとした展示会です。未病・健康・診断・新薬開発に寄与する総合ソリューションが紹介されます。※リンクはBioJapan 2026と同じ",
+  "url": "https://jcd-expo.jp/jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_3c8cc27b",
+  "event_name": "メディカル ジャパン（医療・介護・薬局 Week）",
+  "parent_event_name": "メディカル ジャパン（医療・介護・薬局 Week）",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "病院、クリニック、介護施設、薬局向けの製品・サービスが集まる総合展示会。医療DXや介護ロボット、業務効率化ソリューションなどを中心に展示される。",
+  "url": "https://www.medical-jpn.jp/tokyo/ja-jp.html?co=hubtop",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_3ee9f16f",
+  "event_name": "第29回 ものづくり ワールド［大阪］",
+  "parent_event_name": "第29回 ものづくり ワールド［大阪］",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ",
+   "ドローン・ロボット"
+  ],
+  "summary": "西日本最大級の製造業展示会。製造業DX、計測・検査・センサ、スマート工場、産業用AI、ロボットなどを網羅し、製造現場の高度化を支援する。",
+  "url": "https://www.manufacturing-world.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_40e3cd1c",
+  "event_name": "第30回 ブランド＆デザイナー EXPO 秋",
+  "parent_event_name": "第30回 ブランド＆デザイナー EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "国内外ブランドと流通・小売企業との商談を目的とする展示会。ファッション業界のデジタル活用や販路開拓の場として利用される。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/ifa.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_501e75ff",
+  "event_name": "クリニックEXPO",
+  "parent_event_name": "クリニックEXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "クリニック院長や医師と直接つながる、クリニック向けの日本最大の展示会です。最新の医療機器やサービスが紹介されます。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp/cli.html?co=tokyo_fv",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_51ddb210",
+  "event_name": "ものづくりODM/EMS展",
+  "parent_event_name": "ものづくりODM/EMS展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "製造委託・開発パートナーに出会える展示会です。ものづくり企業の課題解決を支援する多様なサービスが紹介されます。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/odm.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_53e2e55e",
+  "event_name": "北海道 建設開発総合展",
+  "parent_event_name": "北海道 建設開発総合展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "北海道を日本一の都市にするための建設技術が結集する展示会です。",
+  "url": "https://www.jma.or.jp/toshiken/hkd/outline/disaster_index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_603dd4cb",
+  "event_name": "工場設備・備品展",
+  "parent_event_name": "工場設備・備品展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "工場で使われる設備、備品を集めた展示会です。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/factex.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6297d453",
+  "event_name": "観光・ホテル・外食産業展 北海道 2026",
+  "parent_event_name": "観光・ホテル・外食産業展 北海道 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "ホテル・宿泊・観光事業者向けのBtoB展示会。宿泊施設運営システムや観光業向けデジタル化ソリューションなどを対象とする。",
+  "url": "https://tourismhotel.jma.or.jp/hkd/index.php?_gl=1%2Aoyes9w%2A_gcl_au%2AMTEzMTcyMzg2OC4xNzg3NTQ3NjMz%2A_ga%2AMTYzNzgyNzg3Ny4xNzc5Njc2MDY0%2A_ga_0WC3X1EZKZ%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw%2A_ga_NJR2RPSJKX%2AczE3ODc3OTY3MTgkbzUkZzEkdDE3ODc3OTcxMjQkajIxJGwwJGgw",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6b5c513b",
+  "event_name": "H.C.R.2026 第53回国際福祉機器展＆フォーラム",
+  "parent_event_name": "H.C.R.2026 第53回国際福祉機器展＆フォーラム",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "アジア最大級の福祉機器展示会。介護ロボット、リハビリ機器、支援技術などが集まり、高齢者・障害者の自立支援や福祉現場のDXに関する情報発信も行われる。",
+  "url": "https://exhibition.aloha-group.jp/exhibitions/237",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_70d7b82e",
+  "event_name": "FaW TOKYO（ファッション ワールド 東京）秋 2026",
+  "parent_event_name": "FaW TOKYO（ファッション ワールド 東京）秋 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "日本最大級のファッション業界向けBtoB展示会。ファッションテック、EC、DXソリューション、OEM・ODM、サプライチェーン関連サービスも出展対象となる。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7557501f",
+  "event_name": "第23回 アジアの縫製・生産工場 EXPO 秋",
+  "parent_event_name": "第23回 アジアの縫製・生産工場 EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "アジア各国のOEM・生産工場が出展する国際商談展。生産管理や国際物流に関する提案も行われる。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/oem.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_7bc750f2",
+  "event_name": "第2回 医療DX EXPO【東京】",
+  "parent_event_name": "第2回 医療DX EXPO【東京】",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ",
+   "ドローン・ロボット"
+  ],
+  "summary": "日本最大級の医療DXの専門展示会。人工知能(AI)診断支援、デジタルヘルス、ロボット・RPA、遠隔医療、電子カルテ、サイバー攻撃対策ツールなどが出展。病院・クリニックなどの医療機関が多数来場します。",
+  "url": "https://www.medical-jpn.jp/tokyo/ja-jp.html",
+  "source": "展示会場HP：幕張メッセ",
+  "source_type": "venue",
+  "keywords": [
+   "DX"
+  ],
+  "confidence": 90,
+  "reason": "会場公式のイベントカレンダーに掲載（展示会・見本市）（Geminiで関連性を確認）",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：幕張メッセ）"
+   }
+  ]
+ },
+ {
+  "id": "evt_7f56414f",
+  "event_name": "計測・検査・センサ展［大阪］（ものづくりワールド構成展）",
+  "parent_event_name": "計測・検査・センサ展［大阪］（ものづくりワールド構成展）",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "製造業における品質管理や検査工程向けの計測・検査ソリューションを集約。測定機器・センサ技術の最新動向を確認できる。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mts.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_81bf4362",
+  "event_name": "農業WEEK - スマート農業EXPO",
+  "parent_event_name": "農業WEEK",
+  "sub_event_name": "スマート農業EXPO",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "最新のITやDX、ドローン、ロボット、植物工場など、次世代の農業を支える最先端のスマート農業技術が一堂に集結する日本最大級の専門展示会です。全国から農業関係者や参入検討企業が多数来場し、活発な商談や最新トレンドの情報交換が行われます。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp.html",
+  "source": "主催者HP（既知URL）：スマート農業EXPO 2026 (農業WEEK内展示)",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "自動運転",
+   "自治体"
+  ],
+  "confidence": 100,
+  "reason": "指定された期間内（2026年10月）に日本国内（幕張メッセ）で開催される固定日時のIT・ドローン・ロボット関連展示会であるため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：JAGRI（旧：農業WEEK））"
+   },
+   {
+    "date": "2026-10-26",
+    "change": "新規検出（主催者HP（既知URL）：農業WEEK（J-AGRI））"
+   },
+   {
+    "date": "2026-10-28",
+    "change": "統合：evt_8ad638f8「農業WEEK - スマート農業EXPO」を統合"
+   }
+  ]
+ },
+ {
+  "id": "evt_886ea04d",
+  "event_name": "スマートメンテナンス展［大阪］",
+  "parent_event_name": "スマートメンテナンス展［大阪］",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "設備保全や予知保全に関する製品・サービスを扱う専門展。IoTセンサやAI分析を活用した設備管理技術を紹介する。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/maintenance.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_8f414c9c",
+  "event_name": "農業資材 EXPO",
+  "parent_event_name": "農業資材 EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "最新の施設園芸、農業機械、肥料・土壌改良材、農薬、包装・物流製品、鳥獣害対策資材などが一堂に集まる展示会です。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/lp/vis/tokyo/jagri-pc.html?msclkid=10f5b72376ef1464a39edda8b9eeac33",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_9e8e868f",
+  "event_name": "Keysight World",
+  "parent_event_name": "Keysight World",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-07",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX"
+  ],
+  "summary": "9つのテクノロジートラックで、最新の技術動向やソリューションをご紹介します。トラック一覧 6G×AI｜航空宇宙／防衛｜光電融合／AIインターコネクト｜AIネットワーク｜オートモーティブ｜高速デジタル｜次世代パワー技術｜量子技術｜材料／ミリ波",
+  "url": "https://www.keysight.com/jp/ja/events/japan/keysight-world-tech-days.html?elq_cid=13301857&cmpid=ELQ-39508",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_9fc86bd2",
+  "event_name": "製造業サイバーセキュリティ展",
+  "parent_event_name": "製造業サイバーセキュリティ展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "セキュリティ"
+  ],
+  "summary": "製造業のセキュリティ対策を強化するための展示会。最新のサイバーセキュリティ製品やソリューションが集結します。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/cybersecurity.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b079193c",
+  "event_name": "第23回 生地・素材 EXPO 秋",
+  "parent_event_name": "第23回 生地・素材 EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "世界各国の素材メーカーが集まる展示会。高機能繊維や新素材など製造業向けの素材技術が紹介される。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/textile.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b2abac77",
+  "event_name": "農業WEEK（J-AGRI）",
+  "parent_event_name": "農業WEEK（J-AGRI）",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "ドローン・ロボット"
+  ],
+  "summary": "スマート農業、農業ロボット、農業ドローン、農業資材などを対象とした国際展示会。日本およびアジアの農業関係者向け商談の場として開催される。",
+  "url": "https://www.jagri-global.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b5159634",
+  "event_name": "北海道 災害リスク対策推進展",
+  "parent_event_name": "北海道 災害リスク対策推進展",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "防災・減災対策に関する製品やサービスを集めた専門展示会。自治体やインフラ事業者向けの災害対応ソリューションを紹介する。",
+  "url": "https://toshiken.jma.or.jp/hkd/outline/disaster_index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b670db5a",
+  "event_name": "第11回 次世代 農業経営EXPO",
+  "parent_event_name": "第11回 次世代 農業経営EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "農業経営の効率化・デジタル化を支援する製品・サービスの専門展。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/agribusiness.html",
+  "source": "主催者HP（既知URL）：第11回 次世代 農業経営EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "IT",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "自治体"
+  ],
+  "confidence": 90,
+  "reason": "日本国内で開催されるIT・DXおよび経営管理システムに関連する農業展示会の東京展であり、指定された開催期間に該当するため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b9383038",
+  "event_name": "北海道エネルギー技術革新EXPO",
+  "parent_event_name": "北海道エネルギー技術革新EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-08",
+  "date_status": "fixed",
+  "venue": "アクセスサッポロ",
+  "prefecture": "北海道",
+  "region": "北海道・東北",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "エネルギー産業を進めていくための技術が全国から集結した展示会です。",
+  "url": "https://toshiken.jma.or.jp/hkd/outline/energy_index.php",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_bfd9dac9",
+  "event_name": "Epson Value Creation Fair 2026",
+  "parent_event_name": "Epson Value Creation Fair 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-07",
+  "date_status": "fixed",
+  "venue": "本館展示場C",
+  "prefecture": "",
+  "region": "",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "Epson Value Creation Fair 2026は、夢メッセみやぎの本館展示場Cで開催されるエプソン主催の展示会です。エプソンの最新技術や、ビジネスの多様な課題を解決するための各種ソリューションを発見し、実際に体験できるイベントとなっています。来場には事前登録が必要で、企業のIT活用や業務効率化に役立つ情報が得られます。",
+  "url": "https://www.epson.jp/ec/event/evf/",
+  "source": "展示会場HP：夢メッセみやぎ",
+  "source_type": "venue",
+  "keywords": [],
+  "confidence": 85,
+  "reason": "エプソンの技術や課題解決ソリューションを発見・体験できるイベントであり、IT・DX関連の要素が含まれるため抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：夢メッセみやぎ）"
+   }
+  ]
+ },
+ {
+  "id": "evt_c66e8bb8",
+  "event_name": "FaW TOKYO ファッション ワールド 東京 - ファッションテック EXPO 秋",
+  "parent_event_name": "FaW TOKYO ファッション ワールド 東京",
+  "sub_event_name": "ファッションテック EXPO 秋",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "日本最大のファッション展FaW TOKYO内で開催されるアパレル・雑貨業界向けのIT・DX専門展です。AI活用、EC売上アップ、アパレルDX、需要予測、在庫管理システム、バーチャル試着など、業界の未来を担うファッションテックが集結し、経営者やデジタル戦略担当者の商談の場となっています。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/fdx.html",
+  "source": "主催者HP（既知URL）：ファッションテック EXPO 秋 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "IT",
+   "テクノロジー",
+   "生成AI"
+  ],
+  "confidence": 100,
+  "reason": "指定された期間内（2026-10-07～2026-10-09）に東京ビッグサイトで開催されるアパレル向けIT・DX専門展であり、条件を満たしているため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：ファッションテック EXPO 秋 2026）"
+   },
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   },
+   {
+    "date": "2026-10-28",
+    "change": "統合：evt_05d9afda「ファッションテック EXPO 秋 2026」を統合"
+   }
+  ]
+ },
+ {
+  "id": "evt_d225afc3",
+  "event_name": "農業WEEK - 畜産資材EXPO（東京展）",
+  "parent_event_name": "農業WEEK",
+  "sub_event_name": "畜産資材EXPO（東京展）",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "給餌器や畜舎などの設備から、ITを用いた農場管理や生体管理まで、国内外の畜産資材が一堂に集まる専門展示会です。農業WEEKの構成展の一つとして開催され、最新の製品比較や具体的な商談が行われます。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/agrilivestock.html",
+  "source": "主催者HP（既知URL）：第7回 畜産資材EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "自治体",
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "指定された期間内（2026年10月7日〜9日）に日本国内（幕張メッセ）で開催されるITや生体管理に関連する展示会であるため抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：第7回 畜産資材EXPO）"
+   }
+  ]
+ },
+ {
+  "id": "evt_dfdc7cb8",
+  "event_name": "マーケティングWeek【秋】",
+  "parent_event_name": "マーケティングWeek【秋】",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "マーケティング、デジタル広告、営業DX、CRM、CX向上など9つの専門展で構成される総合展示会。データ活用やAIを活用したマーケティング関連ソリューションが集結する。",
+  "url": "https://www.marketing-week.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e29d41b6",
+  "event_name": "TOOL JAPAN 2026",
+  "parent_event_name": "TOOL JAPAN 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "工具・作業用品・安全用品に関する専門展示会。建設、製造、設備保全、整備関連事業者向けの最新機器・ソリューションが集まる。",
+  "url": "https://www.tooljapan.jp/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e9946d56",
+  "event_name": "次世代薬局EXPO",
+  "parent_event_name": "次世代薬局EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "薬局の意思決定層とつながる商談型展示会。",
+  "url": "https://www.medical-jpn.jp/hub/ja-jp/lp-inv/pha.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_edf95b34",
+  "event_name": "第4回 農業 脱炭素・SDGs EXPO",
+  "parent_event_name": "第4回 農業 脱炭素・SDGs EXPO",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "農業現場の脱炭素化・効率化技術を集めた専門展。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/agrigreen.html",
+  "source": "主催者HP（既知URL）：第4回 農業 脱炭素・SDGs EXPO",
+  "source_type": "known_url",
+  "keywords": [
+   "DX",
+   "IT",
+   "IoT",
+   "ドローン",
+   "ロボット",
+   "自治体"
+  ],
+  "confidence": 95,
+  "reason": "イベントページより、2026年10月7日〜9日開催の農業 脱炭素・SDGs EXPO（農業WEEK構成展）の情報を正確に抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ee21f437",
+  "event_name": "BioJapan",
+  "parent_event_name": "BioJapan",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "パシフィコ横浜",
+  "prefecture": "神奈川県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "バイオビジネスにおけるアジア最大のパートナリングイベントです。",
+  "url": "https://jcd-expo.jp/jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f1cead79",
+  "event_name": "製造業DX展［大阪］（ものづくりワールド構成展）",
+  "parent_event_name": "製造業DX展［大阪］（ものづくりワールド構成展）",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ"
+  ],
+  "summary": "製造業向けのDX、AI、IoT、データ活用ソリューションを集めた専門展。設計・開発から工場運営までの業務改革を支援する技術が展示される。",
+  "url": "https://www.manufacturing-world.jp/hub/ja-jp/about/mdx.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_f2f47375",
+  "event_name": "スマート農業EXPO 2026 (農業WEEK内展示)",
+  "parent_event_name": "スマート農業EXPO 2026 (農業WEEK内展示)",
+  "sub_event_name": "",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "農業の省力化・自動化を支援する専門展示会。農業ロボット、ドローン、センシング技術などを展示する。",
+  "url": "https://www.jagri-global.jp/hub/ja-jp/about/agritech.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_fa3f6332",
+  "event_name": "FaW TOKYO（ファッション ワールド 東京） - ファッション業界向けDXソリューション展",
+  "parent_event_name": "FaW TOKYO（ファッション ワールド 東京）",
+  "sub_event_name": "ファッション業界向けDXソリューション展",
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-09",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "ファッション業界に特化したDXソリューション、EC支援、次世代店舗向けシステムなどのITサービスが一堂に出展する専門展です。生成AIを活用したデザイン・パターン作成や、気象情報に基づく商品需要予測、最新のECプラットフォームなど、アパレル業務の課題を解決する先進的なテクノロジーやデジタルツールが集結し、企業の効率化やビジネス拡大を強力にサポートします。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp.html",
+  "source": "主催者HP（既知URL）：FaW TOKYO（ファッション ワールド 東京）秋 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "生成AI",
+   "AI",
+   "DX",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "指定されたイベントページ内でファッション業界向けDXソリューションやITサービスを出展する構成展が確認でき、開催期間も2026年10月7日～9日と指定条件に合致するため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：FaW TOKYO（ファッション ワールド 東京）秋 2026）"
+   }
+  ]
  }
 ]
