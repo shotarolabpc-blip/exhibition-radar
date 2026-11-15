@@ -10708,5 +10708,845 @@
     "change": "新規検出（主催者HP（既知URL）：FaW TOKYO（ファッション ワールド 東京）秋 2026）"
    }
   ]
+ },
+ {
+  "id": "evt_3e0442c9",
+  "event_name": "EDIX大阪2026",
+  "parent_event_name": "EDIX大阪2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-15",
+  "date_status": "fixed",
+  "venue": "グランキューブ大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "EDIX大阪2026は、西日本最大の教育分野における総合展示会です。学校や教育機関向けのICT機器、デジタル教材、校務DX・業務効率化ソリューション、教育現場でのAI活用など、最新の教育IT製品やサービスが一堂に会します。関西を中心とした多くの教育関係者が来場し、活発な商談や情報交換が行われる重要なビジネスプラットフォームとなっています。",
+  "url": "https://www.edix-expo.jp/osaka/ja-jp.html",
+  "source": "主催者HP（既知URL）：EDIX大阪 2026（教育総合展）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "ICT"
+  ],
+  "confidence": 90,
+  "reason": "学校・教育機関向けのDXやIT関連製品が多数出展される教育総合展であり、指定された開催期間・国内条件に適合しているため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：EDIX大阪 2026（教育総合展））"
+   }
+  ]
+ },
+ {
+  "id": "evt_41c3a07f",
+  "event_name": "EDIX大阪 2026（教育総合展）",
+  "parent_event_name": "EDIX大阪 2026（教育総合展）",
+  "sub_event_name": "",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-15",
+  "date_status": "fixed",
+  "venue": "グランキューブ大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "教育ICT、校務支援、学習コンテンツ、教育DX関連サービスが集まる西日本最大級の教育分野専門展示会。教育委員会や学校関係者が多数来場する。RX Japan企画運営。",
+  "url": "https://www.edix-expo.jp/osaka/ja-jp.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_6149aeb4",
+  "event_name": "CEATEC 2026 - X（Transformation）パーク",
+  "parent_event_name": "CEATEC 2026",
+  "sub_event_name": "X（Transformation）パーク",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "CEATEC 2026の企画展示であるX（Transformation）パークは、先端技術や社会課題への挑戦、産業・社会構造の変革をテーマごとに発信するエリアです。技術や事業の社会実装を進めたい企業や、分野を超えた共創・連携を求める出展者に最適です。",
+  "url": "https://www.ceatec.com/ja/application/",
+  "source": "主催者HP（既知URL）：CEATEC 2024",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "CEATEC"
+  ],
+  "confidence": 95,
+  "reason": "CEATEC 2026の企画展示「X（Transformation）パーク」に関する公式情報を抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CEATEC 2024）"
+   }
+  ]
+ },
+ {
+  "id": "evt_75464ff6",
+  "event_name": "CEATEC 2026",
+  "parent_event_name": "CEATEC 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "日本最大級のデジタルイノベーション総合展。AI・IoT・通信・モビリティ・社会インフラなど幅広い先端技術が集まり、産業横断の共創を促進する。",
+  "url": "https://www.ceatec.com/ja/",
+  "source": "主催者HP（既知URL）：CEATEC 2026",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "CEATEC",
+   "DX",
+   "IoT",
+   "クラウド",
+   "スマートシティ",
+   "セキュリティ",
+   "テクノロジー",
+   "生成AI",
+   "自動運転",
+   "通信"
+  ],
+  "confidence": 100,
+  "reason": "公式サイトの最新情報より、2026年10月13日から16日まで幕張メッセでの開催が確定しているため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-12",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_96713281",
+  "event_name": "Japan Mobility Show Bizweek 2026（CEATEC併催）",
+  "parent_event_name": "Japan Mobility Show Bizweek 2026（CEATEC併催）",
+  "sub_event_name": "",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "無線・通信",
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "自動車・モビリティ産業の最新技術やサービスを対象としたBtoB展示会。CEATECとの併催によりデジタルとモビリティ領域の融合を図る。",
+  "url": "https://www.japan-mobility-show.com/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_af7b7950",
+  "event_name": "Japan Mobility Show Bizweek 2026",
+  "parent_event_name": "Japan Mobility Show Bizweek 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "スマートシティ・自治体DX"
+  ],
+  "summary": "Japan Mobility Show Bizweek 2026は、モビリティ産業の未来を切り拓くビジネスイベントです。CEATEC 2026と同一会期・会場にて併催され、次世代のモビリティ社会を支える最先端の技術やデータ連携、自動運転などの先進的な取り組みやソリューションが多数出展されます。",
+  "url": "https://www.ceatec.com/ja/",
+  "source": "主催者HP（既知URL）：Japan Mobility Show Bizweek 2026（CEATEC併催）",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "CEATEC",
+   "DX",
+   "IoT",
+   "クラウド",
+   "スマートシティ",
+   "セキュリティ",
+   "テクノロジー",
+   "映像",
+   "生成AI",
+   "自動運転",
+   "通信"
+  ],
+  "confidence": 100,
+  "reason": "モビリティとAI・DXや共創をテーマにしたビジネスイベントであり、IT・イノベーション関連の要素が含まれているが、具体的な開催日程が本文中に明記されていないため日付は空欄。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-26",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CEATEC 2026）"
+   }
+  ]
+ },
+ {
+  "id": "evt_be6af0f7",
+  "event_name": "CEATEC 2026 - 一般展示",
+  "parent_event_name": "CEATEC 2026",
+  "sub_event_name": "一般展示",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "CEATEC 2026の一般展示エリアでは、自由なブース設計により自社の先端技術や製品、サービスを幅広く発信することができます。幅広い市場の反応や来場者の声を直接得たい企業や、自社製品を広くアピールしたい出展者に最適な、大規模な展示スペースを提供します。",
+  "url": "https://www.ceatec.com/ja/application/",
+  "source": "主催者HP（既知URL）：CEATEC 2024",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "CEATEC"
+  ],
+  "confidence": 95,
+  "reason": "CEATEC 2026の一般展示プランに関する公式情報を抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CEATEC 2024）"
+   }
+  ]
+ },
+ {
+  "id": "evt_edc79bc8",
+  "event_name": "CEATEC 2026 - ネクストジェネレーションパーク",
+  "parent_event_name": "CEATEC 2026",
+  "sub_event_name": "ネクストジェネレーションパーク",
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "幕張メッセ",
+  "prefecture": "千葉県",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "CEATEC 2026のネクストジェネレーションパークは、スタートアップ企業や大学・研究機関を中心に、次世代を担う技術・アイデア・人材が集う展示エリアです。コンパクトな展示スペースを活用し、投資家や新たなパートナーとのマッチングを促進します。",
+  "url": "https://www.ceatec.com/ja/application/",
+  "source": "主催者HP（既知URL）：CEATEC 2024",
+  "source_type": "known_url",
+  "keywords": [
+   "通信",
+   "CEATEC"
+  ],
+  "confidence": 95,
+  "reason": "CEATEC 2026の企画展示「ネクストジェネレーションパーク」に関する公式情報を抽出しました。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CEATEC 2024）"
+   }
+  ]
+ },
+ {
+  "id": "evt_11bf6b05",
+  "event_name": "モノづくりフェア2026",
+  "parent_event_name": "モノづくりフェア2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "マリンメッセ福岡",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "九州最大級の製造業向け展示会。工場自動化、IoT、ロボット、設備保全、スマートファクトリー関連技術を紹介する。",
+  "url": "https://www.nikkanseibu-eve.com/mono/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_372d6d00",
+  "event_name": "Careテクノロジー大阪'26",
+  "parent_event_name": "Careテクノロジー大阪'26",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "介護ロボット、見守りセンサ、AI活用システムなど介護現場の省人化・効率化を支援する専門展示会。介護現場向け先端技術の導入促進を目的とする。",
+  "url": "https://osaka.caretech.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_5cc52bcc",
+  "event_name": "ラベルフォーラムジャパン2026",
+  "parent_event_name": "ラベルフォーラムジャパン2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "ラベル・シール・タグ・フレキシブルパッケージに特化した国内最大級の専門展示会。印刷機器、加工技術、材料、検査技術などが展示される。",
+  "url": "https://www.labelforum.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_b091ed59",
+  "event_name": "食品開発展2026",
+  "parent_event_name": "食品開発展2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "食品の健康・美味しさ・安全品質・フードロングライフをテーマとする専門展示会。食品製造技術や開発支援ソリューションが集まり、食品産業の高度化を支援する。",
+  "url": "https://www.hijapan.info/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_be6cc419",
+  "event_name": "FABEX関西 2026（第14回）",
+  "parent_event_name": "FABEX関西 2026（第14回）",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ",
+   "ドローン・ロボット"
+  ],
+  "summary": "食品製造・惣菜・中食産業向けの専門展示会。食品製造設備、包装、物流機器などが集まり、食品工場・流通分野の業務効率化提案が行われる。",
+  "url": "https://kansai.fabex.jp/entry/about02.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_dbbb2c7b",
+  "event_name": "TOKYO PACK 2026（2026東京国際包装展）",
+  "parent_event_name": "TOKYO PACK 2026（2026東京国際包装展）",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "包装資材・包装機械・食品機械・物流機器など、生産から流通までを対象とする日本最大級の国際包装総合展。物流効率化や環境対応包装など製造業・物流業向けソリューションが集結する。",
+  "url": "https://www.tokyo-pack.jp/event/13994",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_dd6ecced",
+  "event_name": "Security Days Fall 2026 大阪",
+  "parent_event_name": "Security Days Fall 2026 大阪",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-14",
+  "date_status": "fixed",
+  "venue": "グランフロント大阪 コングレコンベンションセンター",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "セキュリティ"
+  ],
+  "summary": "2026年で初開催から14年目を迎える情報セキュリティの専門イベントです。常にアップデートが必要なセキュリティ対策の最新動向を共有します。",
+  "url": "https://f2ff.jp/event/secd",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e3f04e19",
+  "event_name": "CareTEX大阪'26",
+  "parent_event_name": "CareTEX大阪'26",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "AI・DX",
+   "ドローン・ロボット"
+  ],
+  "summary": "介護・高齢者施設向け用品、機器、IT、介護テクノロジーを集めたBtoB商談展示会。介護DXや見守りシステム、業務効率化ソリューションが多数出展する。",
+  "url": "https://osaka.caretex.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e47a2ee8",
+  "event_name": "ヘルスケアJAPAN大阪'26",
+  "parent_event_name": "ヘルスケアJAPAN大阪'26",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "インテックス大阪",
+  "prefecture": "大阪府",
+  "region": "近畿",
+  "categories": [
+   "IoT・センサ"
+  ],
+  "summary": "健康寿命延伸や予防医療に関する製品・サービスを集めた専門展示会。健康管理機器やデジタルヘルス関連ソリューションが紹介される。",
+  "url": "https://osaka.healthcarejapan.jp/",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_e823f289",
+  "event_name": "第4回 スポーツファッション EXPO 秋",
+  "parent_event_name": "第4回 スポーツファッション EXPO 秋",
+  "sub_event_name": "",
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "東京ビッグサイト",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "スポーツ向け衣料や周辺機器を扱う専門展示会。センシング技術や機能性ウェアなども対象となる。",
+  "url": "https://www.fashion-tokyo.jp/autumn/ja-jp/about/sports.html",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_0875013b",
+  "event_name": "IT総合展2026ｉｎひろしま",
+  "parent_event_name": "IT総合展2026ｉｎひろしま",
+  "sub_event_name": "",
+  "start_date": "2026-10-15",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "広島県立広島産業会館",
+  "prefecture": "広島県",
+  "region": "中国・四国",
+  "categories": [
+   "AI・DX"
+  ],
+  "summary": "IT総合展2026ｉｎひろしまは、地域の課題を可能性に変え、多様な立場の人々がITを通じて協創し新しい地域の価値を創出することを目指す大規模な展示会です。最新のIT技術やソリューションが一堂に会し、ビジネスのデジタル化や地域活性化に貢献する様々な取り組みや製品が紹介されます。",
+  "url": "https://sangyoukaikan.jp/event/",
+  "source": "展示会場HP：広島県立広島産業会館",
+  "source_type": "venue",
+  "keywords": [
+   "Wi-Fi",
+   "IT"
+  ],
+  "confidence": 100,
+  "reason": "指定された開催期間（2026-10-05以降）に広島県立広島産業会館で開催されるIT関連の展示会であるため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：広島県立広島産業会館）"
+   }
+  ]
+ },
+ {
+  "id": "evt_80f55765",
+  "event_name": "FIT2026（金融国際情報技術展）",
+  "parent_event_name": "FIT2026（金融国際情報技術展）",
+  "sub_event_name": "",
+  "start_date": "2026-10-15",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "東京国際フォーラム",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "その他IT"
+  ],
+  "summary": "FIT2026（金融国際情報技術展）は、金融機関のための国内最大級のIT技術とソリューションが集結する専門イベントです。銀行、証券、保険などの金融ビジネスに特化した最新のデジタル技術やセキュリティ対策、DX推進のための様々なITツールが展示され、多くの金融関係者が来場して情報収集や商談を行います。",
+  "url": "https://www.t-i-forum.co.jp/visitors/event/",
+  "source": "展示会場HP：東京国際フォーラム",
+  "source_type": "venue",
+  "keywords": [
+   "IT"
+  ],
+  "confidence": 95,
+  "reason": "金融分野のIT技術展であり、指定された対象期間内（2026年10月15日〜16日）に東京国際フォーラムで開催されるため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（展示会場HP：東京国際フォーラム）"
+   }
+  ]
+ },
+ {
+  "id": "evt_54dcdffb",
+  "event_name": "Security Days Fall 2026 福岡",
+  "parent_event_name": "Security Days Fall 2026 福岡",
+  "sub_event_name": "",
+  "start_date": "2026-10-16",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "ONE FUKUOKA CONFERENCE HALL",
+  "prefecture": "福岡県",
+  "region": "九州・沖縄",
+  "categories": [
+   "セキュリティ"
+  ],
+  "summary": "2026年で初開催から14年目を迎える情報セキュリティの専門イベントです。常にアップデートが必要なセキュリティ対策の最新動向を共有します。",
+  "url": "https://f2ff.jp/event/secd",
+  "source": "既存Excel取込",
+  "source_type": "import",
+  "keywords": [],
+  "confidence": 90,
+  "reason": "既存の展示会イベントリストから取込",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "既存Excelから取込"
+   }
+  ]
+ },
+ {
+  "id": "evt_ebd0310b",
+  "event_name": "CTC DISCOVER 2026",
+  "parent_event_name": "CTC DISCOVER 2026",
+  "sub_event_name": "",
+  "start_date": "2026-10-16",
+  "end_date": "2026-10-16",
+  "date_status": "fixed",
+  "venue": "グランドプリンスホテル新高輪",
+  "prefecture": "東京都",
+  "region": "関東",
+  "categories": [
+   "AI・DX",
+   "セキュリティ"
+  ],
+  "summary": "CTC DISCOVER 2026は、伊藤忠テクノソリューションズが主催するテクノロジーイベントである。「AI実装の道しるべ」をテーマに掲げ、AI、データ＆アナリティクス、クラウドネイティブ、セキュリティの4領域を中心に、課題突破のリアルな導入事例や体験型展示、専門家との対話セッションを展開。企業のDX推進や情報システム部門を対象に、AIの本格実装を支える最新IT基盤や知見を提供する。",
+  "url": "https://discover.ctcevent.jp/",
+  "source": "主催者HP（既知URL）：CTC DISCOVER 2025",
+  "source_type": "known_url",
+  "keywords": [
+   "AI",
+   "DX",
+   "クラウド",
+   "データ活用",
+   "セキュリティ",
+   "ゼロトラスト",
+   "IT",
+   "テクノロジー"
+  ],
+  "confidence": 95,
+  "reason": "公式サイトに2026年10月16日の開催日程、会場、詳細な展示・セッションテーマが明記されているため。",
+  "status": "unchanged",
+  "first_seen": "2026-10-05",
+  "last_updated": "2026-10-05",
+  "last_checked": "2026-10-05",
+  "year": "2026",
+  "estimate": "",
+  "estimate_basis": "",
+  "history": [
+   {
+    "date": "2026-10-05",
+    "change": "新規検出（主催者HP（既知URL）：CTC DISCOVER 2025）"
+   }
+  ]
  }
 ]
